@@ -6,6 +6,9 @@
 # This script relies on the specific source code format of lines
 # containing player names!
 
+# starter code from
+# https://gist.github.com/Jreyno40/947419b81644d4a0fc714866a0e81cde
+
 import requests
 import pandas as pd
 import numpy as np
@@ -152,6 +155,6 @@ df_players["Date"] = dt_string
 df_players = df_players.reset_index(drop = True)
 # df_players.to_csv("DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
 
-old_data = pd.read_csv("data/DailyMLBRosters.csv", encoding='utf-8-sig')
+old_data = pd.read_csv("DailyMLBRosters.csv", encoding='utf-8-sig')
 new_data = pd.concat([old_data, df_players], axis = 0)
-new_data.to_csv("data/DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
+new_data.to_csv("DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
