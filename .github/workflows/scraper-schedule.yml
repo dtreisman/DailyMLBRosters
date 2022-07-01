@@ -2,7 +2,7 @@ name: mlb-roster-scraper
 
 on:
   schedule:
-    - cron: '0 18 * * *' # runs at 18:00 UTC everyday
+    - cron: '3 17 * * *' # runs at 18:00 UTC everyday
 
 jobs:
   build:
