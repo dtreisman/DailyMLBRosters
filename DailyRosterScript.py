@@ -155,6 +155,6 @@ df_players["Date"] = dt_string
 df_players = df_players.reset_index(drop = True)
 # df_players.to_csv("DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
 
-old_data = pd.read_csv("DailyMLBRosters.csv", encoding='utf-8-sig')
+old_data = pd.read_csv("data/DailyMLBRosters.csv", encoding='utf-8-sig')
 new_data = pd.concat([old_data, df_players], axis = 0)
-new_data.to_csv("DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
+new_data.to_csv("data/DailyMLBRosters.csv", encoding='utf-8-sig', index=False)
