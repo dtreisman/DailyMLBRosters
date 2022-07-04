@@ -53,4 +53,4 @@ for (i in 1:nrow(teams)) {
 }
 
 
-write_csv(x = roster, file = "DailyMLBRosters.csv", append = T, col_names = T)
+write_csv(x = roster, file = "data/DailyMLBRosters.csv", append = T, col_names = T)
