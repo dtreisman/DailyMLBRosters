@@ -8,4 +8,4 @@ There is currently no public data source for daily active MLB rosters. This repo
 
 The first available day of rosters is 07/04/2022.
 
-The majority of the code was sourced from [this repo](https://gist.github.com/Jreyno40/947419b81644d4a0fc714866a0e81cde)
+Many lines of code were sourced from [this repo](https://gist.github.com/Jreyno40/947419b81644d4a0fc714866a0e81cde), [this repo](https://github.com/canovasjm/covid-19-san-juan), and [this repo](https://github.com/nflverse/nflverse-data). 
