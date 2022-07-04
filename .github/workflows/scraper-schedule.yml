@@ -23,6 +23,7 @@ jobs:
           cache-version: 1
           extra-packages: |
             rvest
+            tidyverse
 
       - name: Run daily roster scraper
         run: Rscript -e 'source("espn_roster_scrape.R")'
