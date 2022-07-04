@@ -1,1 +1,781 @@
 
+name,pos,bats,throws,age,height,weight,birthplace,jersey,team_abbr,team_name,date
+Madison Bumgarner,SP,R,L,32,"6' 4""",255 lbs,"Hickory, NC",40,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Zac Gallen,SP,R,R,26,"6' 2""",198 lbs,"Gibbsboro, NJ",23,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Merrill Kelly,SP,R,R,33,"6' 2""",210 lbs,"Houston, TX",29,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Ian Kennedy,RP,R,R,37,"6' 0""",205 lbs,"Huntington Beach, CA",31,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Dallas Keuchel,SP,L,L,34,"6' 2""",220 lbs,"Tulsa, OK",60,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Joe Mantiply,RP,R,L,31,"6' 4""",215 lbs,"Danville, VA",35,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Mark Melancon,RP,R,R,37,"6' 1""",215 lbs,"Wheat Ridge, CO",34,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Kyle Nelson,RP,L,L,25,"6' 1""",175 lbs,"San Francisco, CA",50,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Sean Poppen,RP,R,R,28,"6' 3""",205 lbs,"Chesapeake, VA",64,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Noe Ramirez,RP,R,R,32,"6' 3""",205 lbs,"Los Angeles, CA",24,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Caleb Smith,RP,R,L,30,"6' 0""",206 lbs,"Huntsville, TX",22,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Luke Weaver,RP,R,R,28,"6' 2""",185 lbs,"DeLand, FL",7,ari,arizona-dbacks,2022-07-04T20:38:06Z
+J.B. Wendelken,RP,R,R,29,"6' 1""",242 lbs,"Savannah, GA",48,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Jose Herrera,C,B,R,25,"5' 10""",226 lbs,"San Carlos, Venezuela",36,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Carson Kelly,C,R,R,27,"6' 2""",210 lbs,"Chicago, IL",18,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Jake Hager,2B,R,R,29,"6' 1""",170 lbs,"Henderson, NV",16,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Buddy Kennedy,2B,R,R,23,"6' 1""",190 lbs,"Millville, NJ",45,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Ketel Marte,2B,B,R,28,"6' 1""",210 lbs,"Nizao, Dominican Republic",4,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Geraldo Perdomo,SS,B,R,22,"6' 2""",185 lbs,"Santo Domingo, Dominican Republic",2,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Josh Rojas,3B,L,R,28,"6' 1""",200 lbs,"Glendale, AZ",10,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Christian Walker,1B,R,R,31,"6' 0""",210 lbs,"Norristown, PA",53,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Jordan Luplow,RF,R,R,28,"6' 1""",195 lbs,"Visalia, CA",8,ari,arizona-dbacks,2022-07-04T20:38:06Z
+David Peralta,LF,L,L,34,"6' 1""",220 lbs,"Valencia, Venezuela",6,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Alek Thomas,CF,L,L,22,"5' 11""",175 lbs,"Chicago, IL",5,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Daulton Varsho,CF,L,R,26,"5' 10""",205 lbs,"Chili, WI",12,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Cooper Hummel,DH,B,R,27,"5' 10""",190 lbs,"Portland, OR",21,ari,arizona-dbacks,2022-07-04T20:38:06Z
+Ian Anderson,SP,R,R,24,"6' 3""",170 lbs,"Clifton Park, NY",36,atl,atlanta-braves,2022-07-04T20:38:06Z
+Jesse Chavez,RP,R,R,38,"6' 2""",175 lbs,"San Gabriel, CA",60,atl,atlanta-braves,2022-07-04T20:38:06Z
+Max Fried,SP,L,L,28,"6' 4""",190 lbs,"Santa Monica, CA",54,atl,atlanta-braves,2022-07-04T20:38:06Z
+Dylan Lee,RP,L,L,27,"6' 3""",214 lbs,"Dinuba, CA",52,atl,atlanta-braves,2022-07-04T20:38:06Z
+Tyler Matzek,RP,L,L,31,"6' 3""",230 lbs,"Mission Viejo, CA",68,atl,atlanta-braves,2022-07-04T20:38:06Z
+Collin McHugh,RP,R,R,35,"6' 2""",191 lbs,"Naperville, IL",32,atl,atlanta-braves,2022-07-04T20:38:06Z
+A.J. Minter,RP,L,L,28,"6' 0""",215 lbs,"Tyler, TX",33,atl,atlanta-braves,2022-07-04T20:38:06Z
+Charlie Morton,SP,R,R,38,"6' 5""",215 lbs,"Flemington, NJ",50,atl,atlanta-braves,2022-07-04T20:38:06Z
+Darren O'Day,RP,R,R,39,"6' 4""",220 lbs,"Smyrna, GA",56,atl,atlanta-braves,2022-07-04T20:38:06Z
+Will Smith,RP,R,L,32,"6' 5""",255 lbs,"Newnan, GA",51,atl,atlanta-braves,2022-07-04T20:38:06Z
+Jackson Stephens,RP,R,R,28,"6' 2""",220 lbs,"Oxford, AL",53,atl,atlanta-braves,2022-07-04T20:38:06Z
+Spencer Strider,SP,R,R,23,"6' 0""",195 lbs,"Columbus, OH",65,atl,atlanta-braves,2022-07-04T20:38:06Z
+Kyle Wright,SP,R,R,26,"6' 4""",215 lbs,"Huntsville, AL",30,atl,atlanta-braves,2022-07-04T20:38:06Z
+William Contreras,C,R,R,24,"6' 0""",180 lbs,"Puerto Cabello, Venezuela",24,atl,atlanta-braves,2022-07-04T20:38:06Z
+Travis d'Arnaud,C,R,R,33,"6' 2""",210 lbs,"Long Beach, CA",16,atl,atlanta-braves,2022-07-04T20:38:06Z
+Orlando Arcia,2B,R,R,27,"6' 0""",165 lbs,"Anaco, Venezuela",11,atl,atlanta-braves,2022-07-04T20:38:06Z
+Phil Gosselin,2B,R,R,33,"6' 1""",200 lbs,"West Chester, PA",15,atl,atlanta-braves,2022-07-04T20:38:06Z
+Matt Olson,1B,L,R,28,"6' 5""",225 lbs,"Atlanta, GA",28,atl,atlanta-braves,2022-07-04T20:38:06Z
+Austin Riley,3B,R,R,25,"6' 3""",240 lbs,"Memphis, TN",27,atl,atlanta-braves,2022-07-04T20:38:06Z
+Dansby Swanson,SS,R,R,28,"6' 1""",190 lbs,"Kennesaw, GA",7,atl,atlanta-braves,2022-07-04T20:38:06Z
+Ronald Acuna Jr.,RF,R,R,24,"6' 0""",205 lbs,"La Guaira, Venezuela",13,atl,atlanta-braves,2022-07-04T20:38:06Z
+Adam Duvall,CF,R,R,33,"6' 1""",215 lbs,"Louisville, KY",14,atl,atlanta-braves,2022-07-04T20:38:06Z
+Michael Harris II,CF,L,L,21,"6' 0""",195 lbs,"DeKalb, GA",23,atl,atlanta-braves,2022-07-04T20:38:06Z
+Guillermo Heredia,LF,R,L,31,"5' 10""",195 lbs,"Matanzas, Cuba",38,atl,atlanta-braves,2022-07-04T20:38:06Z
+Eddie Rosario,RF,L,R,30,"6' 1""",180 lbs,"Guayama, Puerto Rico",8,atl,atlanta-braves,2022-07-04T20:38:06Z
+Marcell Ozuna,DH,R,R,31,"6' 1""",225 lbs,"Santo Domingo, Dominican Republic",20,atl,atlanta-braves,2022-07-04T20:38:06Z
+Keegan Akin,RP,L,L,27,"6' 0""",225 lbs,"Alma, MI",45,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Bryan Baker,RP,R,R,27,"6' 6""",220 lbs,"Fort Walton Beach, FL",43,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Felix Bautista,RP,R,R,27,"6' 5""",190 lbs,"Santo Domingo, Dominican Republic",74,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Joey Krehbiel,RP,R,R,29,"6' 2""",185 lbs,"Seminole, FL",34,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Dean Kremer,SP,R,R,26,"6' 3""",175 lbs,"Stockton, CA",64,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Jorge Lopez,RP,R,R,29,"6' 2""",205 lbs,"Cayey, Puerto Rico",48,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Jordan Lyles,SP,R,R,31,"6' 5""",230 lbs,"Hartsville, SC",28,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Cionel Perez,RP,R,L,26,"5' 11""",170 lbs,"Matanzas, Cuba",58,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Dillon Tate,RP,R,R,28,"6' 2""",195 lbs,"Harbor City, CA",55,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Nick Vespi,RP,L,L,26,"6' 3""",215 lbs,"Miami, FL",79,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Austin Voth,SP,R,R,30,"6' 2""",211 lbs,"Redmond, WA",51,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Spenser Watkins,SP,R,R,29,"6' 2""",220 lbs,"Phoenix, AZ",80,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Tyler Wells,SP,R,R,27,"6' 8""",265 lbs,"Yucaipa, CA",68,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Robinson Chirinos,C,R,R,38,"6' 1""",220 lbs,"Punto Fijo, Venezuela",23,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Adley Rutschman,C,B,R,24,"6' 2""",216 lbs,"Sherwood, OR",35,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Jonathan Arauz,2B,B,R,23,"6' 0""",195 lbs,"Alanje, Panama",76,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Jorge Mateo,SS,R,R,27,"6' 0""",182 lbs,"Santo Domingo, Dominican Republic",3,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Ryan Mountcastle,1B,R,R,25,"6' 3""",185 lbs,"Winter Springs, FL",6,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Tyler Nevin,3B,R,R,25,"6' 4""",200 lbs,"Poway, CA",41,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Rougned Odor,2B,L,R,28,"5' 11""",195 lbs,"Maracaibo, Venezuela",12,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Ramon Urias,3B,R,R,28,"5' 10""",150 lbs,"Sonora, Mexico",29,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Austin Hays,LF,R,R,26,"6' 1""",195 lbs,"Daytona Beach, FL",21,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Ryan McKenna,LF,R,R,25,"5' 11""",185 lbs,"Grants Pass, OR",26,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Cedric Mullins,CF,L,L,27,"5' 8""",175 lbs,"Greensboro, NC",31,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Anthony Santander,RF,B,R,27,"6' 2""",190 lbs,"Margarita Island, Venezuela",25,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Trey Mancini,DH,R,R,30,"6' 4""",215 lbs,"Winter Haven, FL",16,bal,baltimore-orioles,2022-07-04T20:38:06Z
+Ryan Brasier,RP,R,R,34,"6' 0""",227 lbs,"Wichita Falls, TX",70,bos,boston-redsox,2022-07-04T20:38:06Z
+Kutter Crawford,SP,R,R,26,"6' 1""",200 lbs,"Okeechobee, FL",50,bos,boston-redsox,2022-07-04T20:38:06Z
+Tyler Danish,RP,R,R,27,"6' 0""",200 lbs,"Bradenton, FL",60,bos,boston-redsox,2022-07-04T20:38:06Z
+Austin Davis,RP,L,L,29,"6' 4""",245 lbs,"Scottsdale, AZ",56,bos,boston-redsox,2022-07-04T20:38:06Z
+Jake Diekman,RP,R,L,35,"6' 4""",195 lbs,"Wymore, NE",31,bos,boston-redsox,2022-07-04T20:38:06Z
+Tanner Houck,RP,R,R,26,"6' 5""",230 lbs,"Collinsville, IL",89,bos,boston-redsox,2022-07-04T20:38:06Z
+Nick Pivetta,SP,R,R,29,"6' 5""",214 lbs,"Victoria, BC",37,bos,boston-redsox,2022-07-04T20:38:06Z
+Hansel Robles,RP,R,R,31,"6' 0""",220 lbs,"Bonao, Dominican Republic",57,bos,boston-redsox,2022-07-04T20:38:06Z
+Hirokazu Sawamura,RP,R,R,34,"6' 0""",212 lbs,"Tochigi, Japan",18,bos,boston-redsox,2022-07-04T20:38:06Z
+John Schreiber,RP,R,R,28,"6' 2""",210 lbs,"Wyandotte, MI",46,bos,boston-redsox,2022-07-04T20:38:06Z
+Matt Strahm,RP,R,L,30,"6' 2""",190 lbs,"West Fargo, ND",55,bos,boston-redsox,2022-07-04T20:38:06Z
+Michael Wacha,SP,R,R,31,"6' 6""",215 lbs,"Iowa City, IA",52,bos,boston-redsox,2022-07-04T20:38:06Z
+Josh Winckowski,SP,R,R,24,"6' 4""",202 lbs,"Toledo, OH",73,bos,boston-redsox,2022-07-04T20:38:06Z
+Kevin Plawecki,C,R,R,31,"6' 2""",208 lbs,"Hinsdale, IL",25,bos,boston-redsox,2022-07-04T20:38:06Z
+Christian Vazquez,C,R,R,31,"5' 9""",205 lbs,"Bayamon, Puerto Rico",7,bos,boston-redsox,2022-07-04T20:38:06Z
+Xander Bogaerts,SS,R,R,29,"6' 2""",218 lbs,"Oranjestad, Aruba",2,bos,boston-redsox,2022-07-04T20:38:06Z
+Franchy Cordero,1B,L,R,27,"6' 3""",226 lbs,"Azua Province, Dominican Republic",16,bos,boston-redsox,2022-07-04T20:38:06Z
+Bobby Dalbec,1B,R,R,27,"6' 4""",227 lbs,"Seattle, WA",29,bos,boston-redsox,2022-07-04T20:38:06Z
+Rafael Devers,3B,L,R,25,"6' 0""",240 lbs,"Sanchez, Dominican Republic",11,bos,boston-redsox,2022-07-04T20:38:06Z
+Trevor Story,2B,R,R,29,"6' 2""",213 lbs,"Irving, TX",10,bos,boston-redsox,2022-07-04T20:38:06Z
+Christian Arroyo,RF,R,R,27,"6' 1""",210 lbs,"Tampa, FL",39,bos,boston-redsox,2022-07-04T20:38:06Z
+Jackie Bradley Jr.,RF,L,R,32,"5' 10""",196 lbs,"Richmond, VA",19,bos,boston-redsox,2022-07-04T20:38:06Z
+Jarren Duran,CF,L,R,25,"6' 2""",212 lbs,"Buena Park, CA",40,bos,boston-redsox,2022-07-04T20:38:06Z
+Rob Refsnyder,RF,R,R,31,"6' 0""",200 lbs,"Seoul, South Korea",30,bos,boston-redsox,2022-07-04T20:38:06Z
+Alex Verdugo,LF,L,L,26,"6' 0""",192 lbs,"Tucson, AZ",99,bos,boston-redsox,2022-07-04T20:38:06Z
+J.D. Martinez,DH,R,R,34,"6' 3""",230 lbs,"Miami, FL",28,bos,boston-redsox,2022-07-04T20:38:06Z
+Scott Effross,RP,R,R,28,"6' 2""",195 lbs,"Twinsburg, OH",57,chc,chicago-cubs,2022-07-04T20:38:06Z
+Mychal Givens,RP,R,R,32,"6' 0""",230 lbs,"Tampa, FL",60,chc,chicago-cubs,2022-07-04T20:38:06Z
+Kyle Hendricks,SP,R,R,32,"6' 3""",190 lbs,"Newport Beach, CA",28,chc,chicago-cubs,2022-07-04T20:38:06Z
+Brandon Hughes,RP,B,L,26,"6' 2""",215 lbs,"Sterling Heights, MI",47,chc,chicago-cubs,2022-07-04T20:38:06Z
+Mark Leiter Jr.,RP,R,R,31,"6' 0""",195 lbs,"Fort Lauderdale, FL",62,chc,chicago-cubs,2022-07-04T20:38:06Z
+Chris Martin,RP,R,R,36,"6' 8""",225 lbs,"Arlington, TX",58,chc,chicago-cubs,2022-07-04T20:38:06Z
+David Robertson,RP,R,R,37,"5' 11""",195 lbs,"Birmingham, AL",37,chc,chicago-cubs,2022-07-04T20:38:06Z
+Michael Rucker,SP,R,R,28,"6' 1""",185 lbs,"Columbus, MS",59,chc,chicago-cubs,2022-07-04T20:38:06Z
+Adrian Sampson,SP,R,R,30,"6' 2""",210 lbs,"Redmond, WA",41,chc,chicago-cubs,2022-07-04T20:38:06Z
+Justin Steele,SP,L,L,26,"6' 2""",195 lbs,"Lucedale, MS",35,chc,chicago-cubs,2022-07-04T20:38:06Z
+Matt Swarmer,SP,R,R,28,"6' 5""",195 lbs,"Mohnton, PA",67,chc,chicago-cubs,2022-07-04T20:38:06Z
+Keegan Thompson,SP,R,R,27,"6' 0""",193 lbs,"Cullman, AL",71,chc,chicago-cubs,2022-07-04T20:38:06Z
+Rowan Wick,RP,L,R,29,"6' 3""",235 lbs,"North Vancouver, BC",50,chc,chicago-cubs,2022-07-04T20:38:06Z
+Willson Contreras,C,R,R,30,"6' 1""",210 lbs,"Puerto Cabello, Venezuela",40,chc,chicago-cubs,2022-07-04T20:38:06Z
+Yan Gomes,C,R,R,34,"6' 2""",212 lbs,"Sao Paulo, Brazil",7,chc,chicago-cubs,2022-07-04T20:38:06Z
+P.J. Higgins,C,R,R,29,"5' 10""",185 lbs,"Wallingford, CT",48,chc,chicago-cubs,2022-07-04T20:38:06Z
+David Bote,2B,R,R,29,"6' 1""",210 lbs,"Longmont, CO",13,chc,chicago-cubs,2022-07-04T20:38:06Z
+Nico Hoerner,SS,R,R,25,"5' 11""",200 lbs,"Oakland, CA",2,chc,chicago-cubs,2022-07-04T20:38:06Z
+Alfonso Rivas,1B,L,L,25,"6' 0""",180 lbs,"Chula Vista, CA",36,chc,chicago-cubs,2022-07-04T20:38:06Z
+Andrelton Simmons,SS,R,R,32,"6' 2""",195 lbs,"Mundo-Novo, Curacao",19,chc,chicago-cubs,2022-07-04T20:38:06Z
+Patrick Wisdom,3B,R,R,30,"6' 2""",210 lbs,"Murrieta, CA",16,chc,chicago-cubs,2022-07-04T20:38:06Z
+Ian Happ,LF,B,R,27,"6' 0""",205 lbs,"Pittsburgh, PA",8,chc,chicago-cubs,2022-07-04T20:38:06Z
+Christopher Morel,CF,R,R,23,"6' 0""",140 lbs,"Santiago, Dominican Republic",5,chc,chicago-cubs,2022-07-04T20:38:06Z
+Rafael Ortega,CF,L,R,31,"5' 11""",160 lbs,"El Tigre, Venezuela",66,chc,chicago-cubs,2022-07-04T20:38:06Z
+Seiya Suzuki,RF,R,R,27,"5' 11""",182 lbs,"Tokyo, Japan",27,chc,chicago-cubs,2022-07-04T20:38:06Z
+Nelson Velazquez,LF,R,R,23,"6' 0""",190 lbs,"Carolina, Puerto Rico",4,chc,chicago-cubs,2022-07-04T20:38:06Z
+Tanner Banks,RP,R,L,30,"6' 1""",195 lbs,"Riverton, UT",57,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Dylan Cease,SP,R,R,26,"6' 2""",200 lbs,"Milton, GA",84,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Johnny Cueto,SP,R,R,36,"5' 11""",229 lbs,"San Pedro de Macoris, Dominican Republic",47,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Matt Foster,RP,R,R,27,"6' 0""",195 lbs,"Valley, AL",63,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Lucas Giolito,SP,R,R,27,"6' 6""",245 lbs,"Santa Monica, CA",27,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Kendall Graveman,RP,R,R,31,"6' 2""",200 lbs,"Alexander City, AL",49,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Liam Hendriks,RP,R,R,33,"6' 0""",230 lbs,"Perth, WA",31,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Joe Kelly,RP,R,R,34,"6' 1""",174 lbs,"Anaheim, CA",17,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Michael Kopech,SP,R,R,26,"6' 3""",225 lbs,"Mount Pleasant, TX",34,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Reynaldo Lopez,RP,R,R,28,"6' 1""",220 lbs,"San Pedro de Macoris, Dominican Republic",40,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Lance Lynn,SP,B,R,35,"6' 5""",280 lbs,"Marion, IN",33,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Jose Ruiz,RP,R,R,27,"6' 1""",250 lbs,"Guacara, Venezuela",66,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Vince Velasquez,SP,R,R,30,"6' 3""",205 lbs,"Montclair, CA",23,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Reese McGuire,C,L,R,27,"6' 0""",215 lbs,"Seattle, WA",21,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Seby Zavala,C,R,R,28,"5' 11""",215 lbs,"West Covina, CA",44,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Jose Abreu,1B,R,R,35,"6' 3""",245 lbs,"Cienfuegos, Cuba",79,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Tim Anderson,SS,R,R,29,"6' 1""",190 lbs,"Tuscaloosa, AL",7,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Jake Burger,3B,R,R,26,"6' 2""",210 lbs,"Chesterfield, MO",30,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Leury Garcia,2B,B,R,31,"5' 8""",185 lbs,"Santiago, Dominican Republic",28,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Josh Harrison,2B,R,R,34,"5' 8""",190 lbs,"Cincinnati, OH",5,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Yoan Moncada,3B,B,R,27,"6' 2""",225 lbs,"Abreus, Cuba",10,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Adam Engel,RF,R,R,30,"6' 2""",215 lbs,"Cincinnati, OH",15,chw,chicago-whitesox,2022-07-04T20:38:06Z
+AJ Pollock,LF,R,R,34,"6' 1""",210 lbs,"Hebron, CT",18,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Luis Robert,CF,R,R,24,"6' 2""",210 lbs,"Havana, Cuba",88,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Gavin Sheets,RF,L,L,26,"6' 5""",230 lbs,"Baltimore, MD",32,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Andrew Vaughn,DH,R,R,24,"6' 0""",215 lbs,"Santa Rosa, CA",25,chw,chicago-whitesox,2022-07-04T20:38:06Z
+Graham Ashcraft,SP,L,R,24,"6' 2""",240 lbs,"Gurley, AL",51,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Luis Castillo,SP,R,R,29,"6' 2""",200 lbs,"Bani, Dominican Republic",58,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Luis Cessa,RP,R,R,30,"6' 0""",208 lbs,"Cordoba, Mexico",85,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Ross Detwiler,RP,R,L,36,"6' 5""",210 lbs,"St. Louis, MO",75,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Hunter Greene,SP,R,R,22,"6' 3""",195 lbs,"Los Angeles, CA",21,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Jeff Hoffman,RP,R,R,29,"6' 5""",215 lbs,"Latham, NY",23,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Joel Kuhnel,RP,R,R,27,"6' 5""",260 lbs,"Goldsboro, NC",66,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Tyler Mahle,SP,R,R,27,"6' 3""",210 lbs,"Newport Beach, CA",30,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Mike Minor,SP,R,L,34,"6' 4""",210 lbs,"Chapel Hill, TN",31,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Dauri Moreta,RP,R,R,26,"6' 2""",185 lbs,"Comendador, Dominican Republic",55,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Reiver Sanmartin,RP,L,L,26,"6' 2""",160 lbs,"Cartagena, Colombia",52,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Hunter Strickland,RP,R,R,33,"6' 3""",225 lbs,"Thomaston, GA",54,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Art Warren,RP,R,R,29,"6' 3""",230 lbs,"Defiance, OH",77,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Aramis Garcia,C,R,R,29,"6' 1""",228 lbs,"Hialeah, FL",33,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Michael Papierski,C,B,R,26,"6' 3""",224 lbs,"Palos Heights, IL",26,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Brandon Drury,3B,R,R,29,"6' 2""",230 lbs,"Grants Pass, OR",22,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Kyle Farmer,SS,R,R,31,"6' 0""",205 lbs,"Atlanta, GA",17,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Jonathan India,2B,R,R,25,"6' 0""",200 lbs,"Coral Springs, FL",6,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Mike Moustakas,3B,L,R,33,"6' 0""",225 lbs,"Los Angeles, CA",9,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Matt Reynolds,2B,R,R,31,"6' 1""",200 lbs,"Tulsa, OK",4,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Max Schrock,2B,L,R,27,"5' 9""",195 lbs,"Tacoma, WA",32,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Donovan Solano,2B,R,R,34,"5' 10""",205 lbs,"Barranquilla, Colombia",7,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Joey Votto,1B,L,R,38,"6' 2""",220 lbs,"Toronto, ON",19,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Albert Almora Jr.,RF,R,R,28,"6' 2""",190 lbs,"Hialeah, FL",3,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Tommy Pham,LF,R,R,34,"6' 1""",223 lbs,"Las Vegas, NV",28,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Nick Senzel,CF,R,R,27,"6' 1""",205 lbs,"Atlanta, GA",15,cin,cincinatti-reds,2022-07-04T20:38:06Z
+Shane Bieber,SP,R,R,27,"6' 3""",200 lbs,"Orange, CA",57,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Aaron Civale,SP,R,R,27,"6' 2""",215 lbs,"East Windsor, CT",43,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Emmanuel Clase,RP,R,R,24,"6' 2""",206 lbs,"Rio San Juan, Dominican Republic",48,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Enyel De Los Santos,RP,R,R,26,"6' 3""",170 lbs,"San Pedro de Macoris, Dominican Republic",62,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Sam Hentges,RP,L,L,25,"6' 8""",245 lbs,"Shoreview, MN",31,cle,cleveland-guardians,2022-07-04T20:38:06Z
+James Karinchak,RP,R,R,26,"6' 3""",215 lbs,"Walden, NY",99,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Triston McKenzie,SP,R,R,24,"6' 5""",165 lbs,"Loxahatchee, FL",24,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Eli Morgan,RP,R,R,26,"5' 10""",190 lbs,"Rancho Palos Verdes, CA",49,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Zach Plesac,SP,R,R,27,"6' 3""",220 lbs,"Crown Point, IN",34,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Cal Quantrill,SP,L,R,27,"6' 3""",195 lbs,"Port Hope, ON",47,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Bryan Shaw,RP,B,R,34,"6' 1""",232 lbs,"Livermore, CA",27,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Trevor Stephan,RP,R,R,26,"6' 5""",225 lbs,"Magnolia, TX",37,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Alex Young,SP,L,L,28,"6' 3""",220 lbs,"Hawthorn Woods, IL",46,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Sandy Leon,C,B,R,33,"5' 10""",235 lbs,"Maracaibo, Venezuela",4,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Luke Maile,C,R,R,31,"6' 3""",225 lbs,"Edgewood, KY",12,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Gabriel Arias,SS,R,R,22,"6' 1""",185 lbs,"La Victoria, Venezuela",8,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Ernie Clement,3B,R,R,26,"6' 0""",170 lbs,"Rochester, NY",28,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Andres Gimenez,2B,L,R,23,"6' 0""",161 lbs,"Barquisimeto, Venezuela",0,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Owen Miller,1B,R,R,25,"6' 0""",190 lbs,"Mequon, WI",6,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Josh Naylor,1B,L,L,25,"5' 11""",250 lbs,"Mississauga, ON",22,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Jose Ramirez,3B,B,R,29,"5' 9""",190 lbs,"Bani, Dominican Republic",11,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Amed Rosario,SS,R,R,26,"6' 2""",189 lbs,"Santo Domingo, Dominican Republic",1,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Steven Kwan,LF,L,L,24,"5' 9""",170 lbs,"Fremont, CA",38,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Oscar Mercado,CF,R,R,27,"6' 2""",197 lbs,"Tampa, FL",35,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Richie Palacios,LF,L,R,25,"5' 11""",180 lbs,"Brooklyn, NY",9,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Myles Straw,CF,R,R,27,"5' 10""",178 lbs,"Garden Grove, CA",7,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Franmil Reyes,DH,R,R,26,"6' 5""",265 lbs,"Sabana Grande de Palenque, Dominican Republic",32,cle,cleveland-guardians,2022-07-04T20:38:06Z
+Daniel Bard,RP,R,R,37,"6' 4""",215 lbs,"Houston, TX",52,col,colorado-rockies,2022-07-04T20:38:06Z
+Jake Bird,RP,R,R,26,"6' 3""",200 lbs,"Newhall, CA",59,col,colorado-rockies,2022-07-04T20:38:06Z
+Jake Bird,RP,R,R,26,"6' 3""",200 lbs,"Newhall, CA",85,col,colorado-rockies,2022-07-04T20:38:06Z
+Ty Blach,RP,R,L,31,"6' 1""",215 lbs,"Denver, CO",50,col,colorado-rockies,2022-07-04T20:38:06Z
+Jhoulys Chacin,RP,R,R,34,"6' 3""",215 lbs,"Maracaibo, Venezuela",43,col,colorado-rockies,2022-07-04T20:38:06Z
+Alex Colome,RP,R,R,33,"6' 1""",225 lbs,"Santo Domingo, Dominican Republic",37,col,colorado-rockies,2022-07-04T20:38:06Z
+Carlos Estevez,RP,R,R,29,"6' 6""",277 lbs,"Santo Domingo, Dominican Republic",54,col,colorado-rockies,2022-07-04T20:38:06Z
+Kyle Freeland,SP,L,L,29,"6' 4""",204 lbs,"Denver, CO",21,col,colorado-rockies,2022-07-04T20:38:06Z
+Lucas Gilbreath,RP,L,L,26,"6' 1""",208 lbs,"Westminster, CO",58,col,colorado-rockies,2022-07-04T20:38:06Z
+Austin Gomber,SP,L,L,28,"6' 5""",220 lbs,"Winter Garden, FL",26,col,colorado-rockies,2022-07-04T20:38:06Z
+Ashton Goudeau,RP,R,R,29,"6' 6""",205 lbs,"Newport, AR",60,col,colorado-rockies,2022-07-04T20:38:06Z
+Chad Kuhl,SP,R,R,29,"6' 3""",205 lbs,"Newark, DE",41,col,colorado-rockies,2022-07-04T20:38:06Z
+German Marquez,SP,R,R,27,"6' 1""",230 lbs,"San Felix, Venezuela",48,col,colorado-rockies,2022-07-04T20:38:06Z
+Robert Stephenson,RP,R,R,29,"6' 3""",205 lbs,"Martinez, CA",29,col,colorado-rockies,2022-07-04T20:38:06Z
+Elias Diaz,C,R,R,31,"6' 1""",223 lbs,"Maracaibo, Venezuela",35,col,colorado-rockies,2022-07-04T20:38:06Z
+Brian Serven,C,R,R,27,"6' 0""",207 lbs,"Palm Desert, CA",6,col,colorado-rockies,2022-07-04T20:38:06Z
+C.J. Cron,1B,R,R,32,"6' 4""",235 lbs,"Fullerton, CA",25,col,colorado-rockies,2022-07-04T20:38:06Z
+Jose Iglesias,SS,R,R,32,"5' 11""",194 lbs,"Havana, Cuba",11,col,colorado-rockies,2022-07-04T20:38:06Z
+Ryan McMahon,3B,L,R,27,"6' 2""",219 lbs,"Yorba Linda, CA",24,col,colorado-rockies,2022-07-04T20:38:06Z
+Elehuris Montero,1B,R,R,23,"6' 3""",215 lbs,"Santo Domingo, Dominican Republic",44,col,colorado-rockies,2022-07-04T20:38:06Z
+Brendan Rodgers,2B,R,R,25,"6' 0""",204 lbs,"Longwood, FL",7,col,colorado-rockies,2022-07-04T20:38:06Z
+Kris Bryant,LF,R,R,30,"6' 5""",230 lbs,"Las Vegas, NV",23,col,colorado-rockies,2022-07-04T20:38:06Z
+Yonathan Daza,CF,R,R,28,"6' 2""",207 lbs,"Maracay, Venezuela",2,col,colorado-rockies,2022-07-04T20:38:06Z
+Randal Grichuk,RF,R,R,30,"6' 2""",213 lbs,"Rosenberg, TX",15,col,colorado-rockies,2022-07-04T20:38:06Z
+Garrett Hampson,CF,R,R,27,"5' 11""",196 lbs,"Reno, NV",1,col,colorado-rockies,2022-07-04T20:38:06Z
+Connor Joe,LF,R,R,29,"6' 0""",205 lbs,"Poway, CA",9,col,colorado-rockies,2022-07-04T20:38:06Z
+Charlie Blackmon,DH,L,L,36,"6' 3""",221 lbs,"Dallas, TX",19,col,colorado-rockies,2022-07-04T20:38:06Z
+Tyler Alexander,RP,R,L,27,"6' 2""",200 lbs,"Chicago, IL",70,det,detroit-tigers,2022-07-04T20:38:06Z
+Beau Brieske,SP,R,R,24,"6' 3""",200 lbs,"Chandler, AZ",63,det,detroit-tigers,2022-07-04T20:38:06Z
+Andrew Chafin,RP,R,L,32,"6' 2""",225 lbs,"Kettering, OH",37,det,detroit-tigers,2022-07-04T20:38:06Z
+Alex Faedo,SP,R,R,26,"6' 5""",225 lbs,"Tampa, FL",49,det,detroit-tigers,2022-07-04T20:38:06Z
+Jason Foley,RP,R,R,26,"6' 4""",215 lbs,"Manhasset, NY",68,det,detroit-tigers,2022-07-04T20:38:06Z
+Michael Fulmer,RP,R,R,29,"6' 3""",246 lbs,"Oklahoma City, OK",32,det,detroit-tigers,2022-07-04T20:38:06Z
+Garrett Hill,RP,R,R,26,"6' 0""",185 lbs,"Petaluma, CA",50,det,detroit-tigers,2022-07-04T20:38:06Z
+Joe Jimenez,RP,R,R,27,"6' 3""",272 lbs,"San Juan, Puerto Rico",77,det,detroit-tigers,2022-07-04T20:38:06Z
+Alex Lange,RP,R,R,26,"6' 3""",197 lbs,"Lee's Summit, MO",55,det,detroit-tigers,2022-07-04T20:38:06Z
+Wily Peralta,RP,R,R,33,"6' 1""",255 lbs,"Santa Barbara de Samana, Dominican Republic",58,det,detroit-tigers,2022-07-04T20:38:06Z
+Michael Pineda,SP,R,R,33,"6' 7""",280 lbs,"Yaguate, Dominican Republic",38,det,detroit-tigers,2022-07-04T20:38:06Z
+Tarik Skubal,SP,R,L,25,"6' 3""",215 lbs,"Hayward, CA",29,det,detroit-tigers,2022-07-04T20:38:06Z
+Gregory Soto,RP,L,L,27,"6' 1""",236 lbs,"Bajos de Haina, Dominican Republic",65,det,detroit-tigers,2022-07-04T20:38:06Z
+Will Vest,RP,R,R,27,"6' 0""",180 lbs,"Houston, TX",19,det,detroit-tigers,2022-07-04T20:38:06Z
+Tucker Barnhart,C,B,R,31,"5' 11""",192 lbs,"Indianapolis, IN",15,det,detroit-tigers,2022-07-04T20:38:06Z
+Eric Haase,C,R,R,29,"5' 10""",210 lbs,"Westland, MI",13,det,detroit-tigers,2022-07-04T20:38:06Z
+Javier Baez,SS,R,R,29,"6' 0""",190 lbs,"Bayamon, Puerto Rico",28,det,detroit-tigers,2022-07-04T20:38:06Z
+Jeimer Candelario,3B,B,R,28,"6' 1""",221 lbs,"New York, NY",46,det,detroit-tigers,2022-07-04T20:38:06Z
+Harold Castro,3B,L,R,28,"5' 10""",151 lbs,"Caracas, Venezuela",30,det,detroit-tigers,2022-07-04T20:38:06Z
+Kody Clemens,2B,L,R,26,"6' 1""",170 lbs,"Houston, TX",21,det,detroit-tigers,2022-07-04T20:38:06Z
+Jonathan Schoop,2B,R,R,30,"6' 1""",225 lbs,"Willemstad, Curacao",7,det,detroit-tigers,2022-07-04T20:38:06Z
+Spencer Torkelson,1B,R,R,22,"6' 1""",220 lbs,"Petaluma, CA",20,det,detroit-tigers,2022-07-04T20:38:06Z
+Willi Castro,LF,B,R,25,"6' 1""",170 lbs,"Rio Piedras, Puerto Rico",9,det,detroit-tigers,2022-07-04T20:38:06Z
+Riley Greene,CF,L,L,21,"6' 3""",200 lbs,"Orlando, FL",31,det,detroit-tigers,2022-07-04T20:38:06Z
+Robbie Grossman,LF,B,L,32,"6' 0""",216 lbs,"San Diego, CA",8,det,detroit-tigers,2022-07-04T20:38:06Z
+Victor Reyes,RF,B,R,27,"6' 5""",194 lbs,"Barcelona, Venezuela",22,det,detroit-tigers,2022-07-04T20:38:06Z
+Miguel Cabrera,DH,R,R,39,"6' 4""",249 lbs,"Maracay, Venezuela",24,det,detroit-tigers,2022-07-04T20:38:06Z
+Bryan Abreu,RP,R,R,25,"6' 1""",225 lbs,"Santo Domingo, Dominican Republic",52,hou,houston-astros,2022-07-04T20:38:06Z
+Luis Garcia,SP,R,R,25,"6' 1""",244 lbs,"Barinitas, Venezuela",77,hou,houston-astros,2022-07-04T20:38:06Z
+Cristian Javier,SP,R,R,25,"6' 1""",213 lbs,"Santo Domingo, Dominican Republic",53,hou,houston-astros,2022-07-04T20:38:06Z
+Seth Martinez,RP,R,R,27,"6' 2""",200 lbs,"Peoria, AZ",61,hou,houston-astros,2022-07-04T20:38:06Z
+Phil Maton,RP,R,R,29,"6' 2""",206 lbs,"Paducah, KY",88,hou,houston-astros,2022-07-04T20:38:06Z
+Rafael Montero,RP,R,R,31,"6' 0""",190 lbs,"Higuerito, Dominican Republic",47,hou,houston-astros,2022-07-04T20:38:06Z
+Hector Neris,RP,R,R,33,"6' 2""",215 lbs,"Villa Altagracia, Dominican Republic",50,hou,houston-astros,2022-07-04T20:38:06Z
+Jake Odorizzi,SP,R,R,32,"6' 2""",190 lbs,"Breese, IL",17,hou,houston-astros,2022-07-04T20:38:06Z
+Ryan Pressly,RP,R,R,33,"6' 2""",206 lbs,"Dallas, TX",55,hou,houston-astros,2022-07-04T20:38:06Z
+Ryne Stanek,RP,R,R,30,"6' 4""",226 lbs,"St. Louis, MO",45,hou,houston-astros,2022-07-04T20:38:06Z
+Jose Urquidy,SP,R,R,27,"6' 0""",217 lbs,"Sinaloa, Mexico",65,hou,houston-astros,2022-07-04T20:38:06Z
+Framber Valdez,SP,R,L,28,"5' 11""",239 lbs,"Sabana Grande de Palenque, Dominican Republic",59,hou,houston-astros,2022-07-04T20:38:06Z
+Justin Verlander,SP,R,R,39,"6' 5""",235 lbs,"Manakin Sabot, VA",35,hou,houston-astros,2022-07-04T20:38:06Z
+Korey Lee,C,R,R,23,"6' 2""",210 lbs,"Vista, CA",38,hou,houston-astros,2022-07-04T20:38:06Z
+Martin Maldonado,C,R,R,35,"6' 0""",230 lbs,"Naguabo, Puerto Rico",15,hou,houston-astros,2022-07-04T20:38:06Z
+Jose Altuve,2B,R,R,32,"5' 6""",166 lbs,"Maracay, Venezuela",27,hou,houston-astros,2022-07-04T20:38:06Z
+Alex Bregman,3B,R,R,28,"6' 0""",192 lbs,"Albuquerque, NM",2,hou,houston-astros,2022-07-04T20:38:06Z
+Aledmys Diaz,SS,R,R,31,"6' 1""",195 lbs,"Santa Clara, Cuba",16,hou,houston-astros,2022-07-04T20:38:06Z
+Yuli Gurriel,1B,R,R,38,"6' 0""",215 lbs,"Sancti Spíritus, Cuba",10,hou,houston-astros,2022-07-04T20:38:06Z
+J.J. Matijevic,1B,L,R,26,"6' 0""",206 lbs,"North Huntingdon, PA",13,hou,houston-astros,2022-07-04T20:38:06Z
+Jeremy Pena,SS,R,R,24,"6' 0""",202 lbs,"Santo Domingo, Dominican Republic",3,hou,houston-astros,2022-07-04T20:38:06Z
+Yordan Alvarez,LF,L,R,25,"6' 5""",225 lbs,"Las Tunas, Cuba",44,hou,houston-astros,2022-07-04T20:38:06Z
+Mauricio Dubon,CF,R,R,27,"6' 0""",160 lbs,"San Pedro Sula, CA",14,hou,houston-astros,2022-07-04T20:38:06Z
+Chas McCormick,CF,R,L,27,"6' 0""",208 lbs,"Millersville, PA",20,hou,houston-astros,2022-07-04T20:38:06Z
+Jake Meyers,CF,R,L,26,"6' 0""",200 lbs,"Omaha, NE",6,hou,houston-astros,2022-07-04T20:38:06Z
+Kyle Tucker,RF,L,R,25,"6' 4""",199 lbs,"Tampa, FL",30,hou,houston-astros,2022-07-04T20:38:06Z
+Scott Barlow,RP,R,R,29,"6' 3""",215 lbs,"Canyon Country, CA",58,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Kris Bubic,SP,L,L,24,"6' 3""",220 lbs,"Cupertino, CA",50,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Taylor Clarke,RP,R,R,29,"6' 4""",220 lbs,"Ashburn, VA",45,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Dylan Coleman,RP,R,R,25,"6' 5""",215 lbs,"Potosi, MO",65,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Jose Cuas,RP,R,R,28,"6' 3""",180 lbs,"Santo Domingo, Dominican Republic",74,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Amir Garrett,RP,R,L,30,"6' 5""",239 lbs,"Victorville, CA",24,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Zack Greinke,SP,R,R,38,"6' 2""",200 lbs,"Orlando, FL",23,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Jonathan Heasley,SP,R,R,25,"6' 3""",215 lbs,"Plano, TX",49,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Brad Keller,SP,R,R,26,"6' 5""",230 lbs,"Flowery Branch, GA",56,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Jackson Kowar,SP,R,R,25,"6' 5""",180 lbs,"Charlotte, NC",37,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Wyatt Mills,RP,R,R,27,"6' 3""",175 lbs,"Spokane, WA",41,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Joel Payamps,RP,R,R,28,"6' 2""",225 lbs,"Santiago, Dominican Republic",38,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Brady Singer,SP,R,R,25,"6' 5""",210 lbs,"Eustis, FL",51,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Cam Gallagher,C,R,R,29,"6' 3""",230 lbs,"Lancaster, PA",36,kc,kansas-city-royals,2022-07-04T20:38:06Z
+MJ Melendez,C,L,R,23,"6' 1""",185 lbs,"Daytona Beach, FL",1,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Hunter Dozier,1B,R,R,30,"6' 4""",220 lbs,"Wichita Falls, TX",17,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Nicky Lopez,2B,L,R,27,"5' 11""",175 lbs,"Naperville, IL",8,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Whit Merrifield,2B,R,R,33,"6' 0""",195 lbs,"Florence, SC",15,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Ryan O'Hearn,1B,L,L,28,"6' 3""",200 lbs,"Frisco, TX",66,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Vinnie Pasquantino,1B,L,L,24,"6' 4""",245 lbs,"Richmond, VA",9,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Emmanuel Rivera,3B,R,R,26,"6' 2""",195 lbs,"Mayaguez, Puerto Rico",26,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Bobby Witt Jr.,SS,R,R,22,"6' 1""",190 lbs,"Colleyville, TX",7,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Andrew Benintendi,LF,L,L,27,"5' 10""",170 lbs,"Cincinnati, OH",16,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Kyle Isbel,RF,L,R,25,"5' 11""",183 lbs,"Fontana, CA",28,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Edward Olivares,RF,R,R,26,"6' 2""",186 lbs,"Caracas, Venezuela",14,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Michael A. Taylor,CF,R,R,31,"6' 4""",212 lbs,"Fort Lauderdale, FL",2,kc,kansas-city-royals,2022-07-04T20:38:06Z
+Jaime Barria,RP,R,R,25,"6' 1""",210 lbs,"Panama City, Panama",51,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Raisel Iglesias,RP,R,R,32,"6' 2""",190 lbs,"Isla de la Juventud, Cuba",32,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Michael Lorenzen,SP,R,R,30,"6' 3""",220 lbs,"Anaheim, CA",25,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Aaron Loup,RP,L,L,34,"5' 11""",210 lbs,"Raceland, LA",28,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Shohei Ohtani,SP,L,R,27,"6' 4""",210 lbs,"Oshu, Japan",17,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Oliver Ortega,RP,R,R,25,"6' 0""",165 lbs,"Nagua, Dominican Republic",62,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Elvis Peguero,RP,R,R,25,"6' 5""",208 lbs,"Cotui, Dominican Republic",59,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Jose Quijada,RP,L,L,26,"5' 11""",203 lbs,"Caripito, Venezuela",65,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Patrick Sandoval,SP,L,L,25,"6' 3""",190 lbs,"Mission Viejo, CA",43,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Chase Silseth,SP,R,R,22,"6' 0""",217 lbs,"Farmington, NM",63,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Jose Suarez,SP,L,L,24,"5' 10""",225 lbs,"Naguanagua, Venezuela",54,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Noah Syndergaard,SP,L,R,29,"6' 6""",240 lbs,"Mansfield, TX",34,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Ryan Tepera,RP,R,R,34,"6' 1""",195 lbs,"Houston, TX",52,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Andrew Wantz,RP,R,R,26,"6' 4""",235 lbs,"Holly Springs, NC",60,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Max Stassi,C,R,R,31,"5' 10""",200 lbs,"Woodland, CA",33,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Kurt Suzuki,C,R,R,38,"5' 11""",210 lbs,"Wailuku, HI",24,laa,los-angeles-angels,2022-07-04T20:38:06Z
+David MacKinnon,1B,R,R,27,"6' 2""",200 lbs,"Easton, MA",39,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Luis Rengifo,2B,B,R,25,"5' 10""",195 lbs,"Naguanagua, Venezuela",2,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Michael Stefanic,2B,R,R,26,"5' 10""",180 lbs,"Boise, ID",38,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Andrew Velazquez,SS,B,R,27,"5' 9""",170 lbs,"Bronx, NY",4,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Jonathan Villar,2B,B,R,31,"6' 0""",233 lbs,"La Vega, Dominican Republic",19,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Jared Walsh,1B,L,L,28,"6' 0""",210 lbs,"Duluth, GA",20,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Monte Harrison,LF,R,R,26,"6' 3""",225 lbs,"Lee's Summit, MO",13,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Brandon Marsh,LF,L,R,24,"6' 4""",215 lbs,"Buford, GA",16,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Mike Trout,CF,R,R,30,"6' 2""",235 lbs,"Vineland, NJ",27,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Taylor Ward,RF,R,R,28,"6' 1""",200 lbs,"Dayton, OH",3,laa,los-angeles-angels,2022-07-04T20:38:06Z
+Yency Almonte,RP,R,R,28,"6' 5""",223 lbs,"Miami, FL",38,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Tyler Anderson,SP,L,L,32,"6' 2""",220 lbs,"Las Vegas, NV",31,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Phil Bickford,RP,R,R,26,"6' 4""",200 lbs,"Newbury Park, CA",52,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Tony Gonsolin,SP,R,R,28,"6' 3""",205 lbs,"Vacaville, CA",26,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Brusdar Graterol,RP,R,R,23,"6' 1""",265 lbs,"Calabozo, Venezuela",48,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Clayton Kershaw,SP,L,L,34,"6' 4""",225 lbs,"Dallas, TX",22,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Craig Kimbrel,RP,R,R,34,"6' 0""",210 lbs,"Huntsville, AL",46,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Reyes Moronta,RP,R,R,29,"5' 11""",241 lbs,"Santiago, Dominican Republic",45,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Evan Phillips,RP,R,R,27,"6' 2""",215 lbs,"Salisbury, MD",59,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+David Price,RP,L,L,36,"6' 5""",215 lbs,"Murfreesboro, TN",33,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Julio Urias,SP,L,L,25,"6' 0""",225 lbs,"Culiacan, Mexico",7,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Alex Vesia,RP,L,L,26,"6' 1""",209 lbs,"Alpine, CA",51,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Mitch White,SP,R,R,27,"6' 3""",210 lbs,"San Jose, CA",66,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Austin Barnes,C,R,R,32,"5' 10""",187 lbs,"Fullerton, CA",15,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Will Smith,C,R,R,27,"5' 10""",195 lbs,"Louisville, KY",16,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Hanser Alberto,2B,R,R,29,"5' 11""",215 lbs,"San Francisco de Macoris, Dominican Republic",17,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Freddie Freeman,1B,L,R,32,"6' 5""",220 lbs,"Fountain Valley, CA",5,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Jake Lamb,3B,L,R,31,"6' 3""",215 lbs,"Seattle, WA",18,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Gavin Lux,2B,L,R,24,"6' 2""",190 lbs,"Kenosha, WI",9,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Max Muncy,3B,L,R,31,"6' 0""",215 lbs,"Midland, TX",13,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Justin Turner,3B,R,R,37,"5' 11""",202 lbs,"Long Beach, CA",10,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Trea Turner,SS,R,R,29,"6' 2""",185 lbs,"Boynton Beach, FL",6,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Cody Bellinger,CF,L,L,26,"6' 4""",203 lbs,"Scottsdale, AZ",35,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Mookie Betts,RF,R,R,29,"5' 9""",180 lbs,"Nashville, TN",50,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Chris Taylor,LF,R,R,31,"6' 1""",196 lbs,"Virginia Beach, VA",3,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Trayce Thompson,RF,R,R,31,"6' 3""",220 lbs,"Los Angeles, CA",25,lad,los-angeles-dodgers,2022-07-04T20:38:06Z
+Sandy Alcantara,SP,R,R,26,"6' 4""",200 lbs,"Azua Province, Dominican Republic",22,mia,miami-marlins,2022-07-04T20:38:06Z
+Anthony Bass,RP,R,R,34,"6' 2""",200 lbs,"Dearborn, MI",52,mia,miami-marlins,2022-07-04T20:38:06Z
+Richard Bleier,RP,L,L,35,"6' 3""",215 lbs,"Davie, FL",35,mia,miami-marlins,2022-07-04T20:38:06Z
+Daniel Castano,SP,L,L,27,"6' 3""",231 lbs,"Orlando, FL",20,mia,miami-marlins,2022-07-04T20:38:06Z
+Dylan Floro,RP,L,R,31,"6' 2""",203 lbs,"Merced, CA",36,mia,miami-marlins,2022-07-04T20:38:06Z
+Braxton Garrett,SP,R,L,24,"6' 2""",202 lbs,"Foley, AL",60,mia,miami-marlins,2022-07-04T20:38:06Z
+Pablo Lopez,SP,L,R,26,"6' 4""",225 lbs,"Cabimas, Venezuela",49,mia,miami-marlins,2022-07-04T20:38:06Z
+Tommy Nance,RP,R,R,31,"6' 6""",235 lbs,"Long Beach, CA",51,mia,miami-marlins,2022-07-04T20:38:06Z
+Steven Okert,RP,L,L,30,"6' 3""",210 lbs,"Riverside, CA",48,mia,miami-marlins,2022-07-04T20:38:06Z
+Zach Pop,RP,R,R,25,"6' 4""",220 lbs,"Brampton, ON",56,mia,miami-marlins,2022-07-04T20:38:06Z
+Trevor Rogers,SP,L,L,24,"6' 5""",217 lbs,"Carlsbad, NM",28,mia,miami-marlins,2022-07-04T20:38:06Z
+Tanner Scott,RP,R,L,27,"6' 2""",220 lbs,"Mogadore, OH",66,mia,miami-marlins,2022-07-04T20:38:06Z
+Jimmy Yacabonis,RP,R,R,30,"6' 3""",205 lbs,"Elizabeth, NJ",47,mia,miami-marlins,2022-07-04T20:38:06Z
+Nick Fortes,C,R,R,25,"5' 11""",198 lbs,"DeLand, FL",54,mia,miami-marlins,2022-07-04T20:38:06Z
+Jacob Stallings,C,R,R,32,"6' 5""",225 lbs,"Lawrence, KS",58,mia,miami-marlins,2022-07-04T20:38:06Z
+Jesus Aguilar,1B,R,R,32,"6' 3""",277 lbs,"Maracay, Venezuela",99,mia,miami-marlins,2022-07-04T20:38:06Z
+Brian Anderson,3B,R,R,29,"6' 3""",208 lbs,"Edmond, OK",15,mia,miami-marlins,2022-07-04T20:38:06Z
+Jon Berti,3B,R,R,32,"5' 10""",190 lbs,"Troy, MI",5,mia,miami-marlins,2022-07-04T20:38:06Z
+Garrett Cooper,1B,R,R,31,"6' 5""",235 lbs,"Auburn, AL",26,mia,miami-marlins,2022-07-04T20:38:06Z
+Miguel Rojas,SS,R,R,33,"6' 0""",188 lbs,"Los Teques, Venezuela",11,mia,miami-marlins,2022-07-04T20:38:06Z
+Joey Wendle,3B,L,R,32,"6' 1""",195 lbs,"Wilmington, DE",18,mia,miami-marlins,2022-07-04T20:38:06Z
+Luke Williams,3B,R,R,25,"6' 1""",180 lbs,"Park Ridge, IL",46,mia,miami-marlins,2022-07-04T20:38:06Z
+Bryan De La Cruz,CF,R,R,25,"6' 2""",175 lbs,"Santo Domingo, Dominican Republic",14,mia,miami-marlins,2022-07-04T20:38:06Z
+Avisail Garcia,RF,R,R,31,"6' 4""",250 lbs,"Anaco, Venezuela",24,mia,miami-marlins,2022-07-04T20:38:06Z
+Billy Hamilton,CF,R,R,31,"6' 0""",160 lbs,"Taylorsville, MS",6,mia,miami-marlins,2022-07-04T20:38:06Z
+Jesus Sanchez,CF,L,R,24,"6' 3""",222 lbs,"Higuey, Dominican Republic",7,mia,miami-marlins,2022-07-04T20:38:06Z
+Jason Alexander,SP,R,R,29,"6' 3""",200 lbs,"Windsor, CA",41,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Aaron Ashby,SP,R,L,24,"6' 2""",181 lbs,"Kansas City, MO",26,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Brad Boxberger,RP,R,R,34,"5' 10""",205 lbs,"Fullerton, CA",45,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Corbin Burnes,SP,R,R,27,"6' 3""",205 lbs,"Bakersfield, CA",39,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Chi Chi Gonzalez,SP,R,R,30,"6' 3""",210 lbs,"Delray Beach, FL",21,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Trevor Gott,RP,R,R,29,"6' 0""",185 lbs,"Lexington, KY",48,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Jandel Gustave,RP,R,R,29,"6' 2""",210 lbs,"Pimentel, Dominican Republic",31,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Josh Hader,RP,L,L,28,"6' 3""",185 lbs,"Millersville, MD",71,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Eric Lauer,SP,R,L,27,"6' 3""",205 lbs,"Elyria, OH",52,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Hoby Milner,RP,L,L,31,"6' 2""",165 lbs,"Dallas, TX",55,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Brent Suter,RP,L,L,32,"6' 5""",195 lbs,"Chicago, IL",35,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Devin Williams,RP,R,R,27,"6' 3""",165 lbs,"Florissant, MO",38,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Brandon Woodruff,SP,L,R,29,"6' 4""",215 lbs,"Tupelo, MS",53,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Victor Caratini,C,B,R,28,"6' 1""",215 lbs,"Coamo, Puerto Rico",7,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Omar Narvaez,C,L,R,30,"5' 11""",220 lbs,"Maracay, Venezuela",10,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Pedro Severino,C,R,R,28,"6' 1""",219 lbs,"Bonao, Dominican Republic",28,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Willy Adames,SS,R,R,26,"6' 0""",210 lbs,"Santiago, Dominican Republic",27,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Mike Brosseau,3B,R,R,28,"5' 10""",205 lbs,"Munster, IN",20,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Keston Hiura,1B,R,R,25,"5' 11""",190 lbs,"Valencia, CA",18,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Jace Peterson,3B,L,R,32,"6' 0""",210 lbs,"Lake Charles, LA",14,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Rowdy Tellez,1B,L,L,27,"6' 4""",255 lbs,"Sacramento, CA",11,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Luis Urias,SS,R,R,25,"5' 9""",185 lbs,"Sonora, Mexico",2,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Kolten Wong,2B,L,R,31,"5' 9""",185 lbs,"Hilo, HI",16,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Jonathan Davis,CF,R,R,30,"5' 8""",190 lbs,"Camden, AR",3,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Christian Yelich,LF,L,R,30,"6' 3""",195 lbs,"Thousand Oaks, CA",22,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Andrew McCutchen,DH,R,R,35,"5' 11""",195 lbs,"Fort Meade, FL",24,mil,milwaukee-brewers,2022-07-04T20:38:06Z
+Chris Archer,SP,R,R,33,"6' 2""",195 lbs,"Raleigh, NC",17,min,minnesota-twins,2022-07-04T20:38:06Z
+Dylan Bundy,SP,B,R,29,"6' 1""",200 lbs,"Tulsa, OK",37,min,minnesota-twins,2022-07-04T20:38:06Z
+Jharel Cotton,RP,R,R,30,"5' 11""",200 lbs,"Saint Thomas, VI",45,min,minnesota-twins,2022-07-04T20:38:06Z
+Tyler Duffey,RP,R,R,31,"6' 3""",220 lbs,"Houston, TX",21,min,minnesota-twins,2022-07-04T20:38:06Z
+Jhoan Duran,RP,R,R,24,"6' 5""",175 lbs,"Esperanza, Dominican Republic",59,min,minnesota-twins,2022-07-04T20:38:06Z
+Sonny Gray,SP,R,R,32,"5' 10""",195 lbs,"Nashville, TN",54,min,minnesota-twins,2022-07-04T20:38:06Z
+Griffin Jax,RP,R,R,27,"6' 2""",195 lbs,"Englewood, CO",65,min,minnesota-twins,2022-07-04T20:38:06Z
+Juan Minaya,RP,R,R,31,"6' 4""",210 lbs,"Maimon, Dominican Republic",49,min,minnesota-twins,2022-07-04T20:38:06Z
+Jovani Moran,RP,L,L,25,"6' 1""",167 lbs,"Mayaguez, Puerto Rico",71,min,minnesota-twins,2022-07-04T20:38:06Z
+Emilio Pagan,RP,L,R,31,"6' 2""",208 lbs,"Simpsonville, SC",12,min,minnesota-twins,2022-07-04T20:38:06Z
+Joe Ryan,SP,R,R,26,"6' 1""",185 lbs,"San Anselmo, CA",41,min,minnesota-twins,2022-07-04T20:38:06Z
+Devin Smeltzer,SP,R,L,26,"6' 3""",195 lbs,"Voorhees, NJ",31,min,minnesota-twins,2022-07-04T20:38:06Z
+Caleb Thielbar,RP,R,L,35,"6' 0""",195 lbs,"Northfield, MN",56,min,minnesota-twins,2022-07-04T20:38:06Z
+Ryan Jeffers,C,R,R,25,"6' 4""",225 lbs,"Raleigh, NC",27,min,minnesota-twins,2022-07-04T20:38:06Z
+Gary Sanchez,C,R,R,29,"6' 2""",230 lbs,"Santo Domingo, Dominican Republic",24,min,minnesota-twins,2022-07-04T20:38:06Z
+Luis Arraez,1B,L,R,25,"5' 10""",177 lbs,"San Felipe, Venezuela",2,min,minnesota-twins,2022-07-04T20:38:06Z
+Carlos Correa,SS,R,R,27,"6' 4""",220 lbs,"Ponce, Puerto Rico",4,min,minnesota-twins,2022-07-04T20:38:06Z
+Alex Kirilloff,1B,L,L,24,"6' 2""",195 lbs,"Pittsburgh, PA",19,min,minnesota-twins,2022-07-04T20:38:06Z
+Jose Miranda,1B,R,R,24,"6' 2""",180 lbs,"Manati, Puerto Rico",64,min,minnesota-twins,2022-07-04T20:38:06Z
+Jorge Polanco,2B,B,R,28,"5' 11""",200 lbs,"San Pedro de Macoris, Dominican Republic",11,min,minnesota-twins,2022-07-04T20:38:06Z
+Gio Urshela,3B,R,R,30,"6' 0""",215 lbs,"Cartagena, Colombia",15,min,minnesota-twins,2022-07-04T20:38:06Z
+Byron Buxton,CF,R,R,28,"6' 2""",190 lbs,"Baxley, GA",25,min,minnesota-twins,2022-07-04T20:38:06Z
+Gilberto Celestino,CF,R,L,23,"6' 0""",170 lbs,"Santo Domingo, Dominican Republic",67,min,minnesota-twins,2022-07-04T20:38:06Z
+Kyle Garlick,LF,R,R,30,"6' 1""",210 lbs,"La Habra, CA",30,min,minnesota-twins,2022-07-04T20:38:06Z
+Nick Gordon,LF,L,R,26,"6' 0""",160 lbs,"Avon Park, FL",1,min,minnesota-twins,2022-07-04T20:38:06Z
+Max Kepler,RF,L,L,29,"6' 4""",220 lbs,"Berlin, Germany",26,min,minnesota-twins,2022-07-04T20:38:06Z
+R.J. Alvarez,RP,R,R,31,"6' 2""",215 lbs,"West Palm Beach, FL",71,nym,new-york-mets,2022-07-04T20:38:06Z
+Carlos Carrasco,SP,R,R,35,"6' 4""",224 lbs,"Barquisimeto, Venezuela",59,nym,new-york-mets,2022-07-04T20:38:06Z
+Edwin Diaz,RP,R,R,28,"6' 3""",165 lbs,"Naguabo, Puerto Rico",39,nym,new-york-mets,2022-07-04T20:38:06Z
+Colin Holderman,RP,R,R,26,"6' 7""",240 lbs,"Bourbonnais, IL",35,nym,new-york-mets,2022-07-04T20:38:06Z
+Tommy Hunter,RP,R,R,36,"6' 3""",250 lbs,"Indianapolis, IN",34,nym,new-york-mets,2022-07-04T20:38:06Z
+Seth Lugo,RP,R,R,32,"6' 4""",225 lbs,"Shreveport, LA",67,nym,new-york-mets,2022-07-04T20:38:06Z
+Adonis Medina,RP,R,R,25,"6' 1""",185 lbs,"Santo Domingo, Dominican Republic",68,nym,new-york-mets,2022-07-04T20:38:06Z
+Adam Ottavino,RP,B,R,36,"6' 5""",246 lbs,"New York, NY",0,nym,new-york-mets,2022-07-04T20:38:06Z
+Joely Rodriguez,RP,L,L,30,"6' 1""",200 lbs,"Santo Domingo, Dominican Republic",30,nym,new-york-mets,2022-07-04T20:38:06Z
+Chasen Shreve,RP,L,L,31,"6' 4""",195 lbs,"Las Vegas, NV",43,nym,new-york-mets,2022-07-04T20:38:06Z
+Drew Smith,RP,R,R,28,"6' 2""",190 lbs,"Crowley, TX",62,nym,new-york-mets,2022-07-04T20:38:06Z
+Taijuan Walker,SP,R,R,29,"6' 4""",235 lbs,"Shreveport, LA",99,nym,new-york-mets,2022-07-04T20:38:06Z
+Trevor Williams,SP,R,R,30,"6' 3""",230 lbs,"San Diego, CA",29,nym,new-york-mets,2022-07-04T20:38:06Z
+James McCann,C,R,R,32,"6' 3""",220 lbs,"Santa Barbara, CA",33,nym,new-york-mets,2022-07-04T20:38:06Z
+Tomas Nido,C,R,R,28,"6' 0""",211 lbs,"Guaynabo, FL",3,nym,new-york-mets,2022-07-04T20:38:06Z
+Pete Alonso,1B,R,R,27,"6' 3""",245 lbs,"Tampa, FL",20,nym,new-york-mets,2022-07-04T20:38:06Z
+Eduardo Escobar,3B,B,R,33,"5' 10""",210 lbs,"Villa de Cura, Venezuela",10,nym,new-york-mets,2022-07-04T20:38:06Z
+Luis Guillorme,2B,L,R,27,"5' 10""",190 lbs,"Caracas, FL",13,nym,new-york-mets,2022-07-04T20:38:06Z
+Francisco Lindor,SS,B,R,28,"5' 11""",190 lbs,"Caguas, Puerto Rico",12,nym,new-york-mets,2022-07-04T20:38:06Z
+Jeff McNeil,2B,L,R,30,"6' 1""",195 lbs,"Santa Barbara, CA",1,nym,new-york-mets,2022-07-04T20:38:06Z
+Dominic Smith,1B,L,L,27,"6' 0""",239 lbs,"Los Angeles, CA",2,nym,new-york-mets,2022-07-04T20:38:06Z
+Mark Canha,LF,R,R,33,"6' 2""",209 lbs,"San Jose, CA",19,nym,new-york-mets,2022-07-04T20:38:06Z
+Ender Inciarte,CF,L,L,31,"5' 11""",190 lbs,"Maracaibo, Venezuela",22,nym,new-york-mets,2022-07-04T20:38:06Z
+Starling Marte,RF,R,R,33,"6' 1""",195 lbs,"Santo Domingo, Dominican Republic",6,nym,new-york-mets,2022-07-04T20:38:06Z
+Brandon Nimmo,CF,L,R,29,"6' 3""",206 lbs,"Cheyenne, WY",9,nym,new-york-mets,2022-07-04T20:38:06Z
+J.D. Davis,DH,R,R,29,"6' 3""",218 lbs,"Elk Grove, CA",28,nym,new-york-mets,2022-07-04T20:38:06Z
+Albert Abreu,RP,R,R,26,"6' 2""",190 lbs,"Guayubin, Dominican Republic",84,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Aroldis Chapman,RP,L,L,34,"6' 4""",218 lbs,"Holguin, Cuba",54,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Gerrit Cole,SP,R,R,31,"6' 4""",220 lbs,"Newport Beach, CA",45,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Nestor Cortes,SP,R,L,27,"5' 11""",210 lbs,"San Jose de las Lajas, FL",65,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Clay Holmes,RP,R,R,29,"6' 5""",225 lbs,"Dothan, AL",35,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Michael King,RP,R,R,27,"6' 3""",210 lbs,"Rochester, NY",34,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Lucas Luetge,RP,L,L,35,"6' 4""",205 lbs,"Industry, TX",63,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Jordan Montgomery,SP,L,L,29,"6' 6""",228 lbs,"Sumter, SC",47,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Wandy Peralta,RP,L,L,30,"6' 0""",220 lbs,"San Francisco de Macoris, Dominican Republic",58,nyy,new-york-yankees,2022-07-04T20:38:06Z
+JP Sears,SP,R,L,26,"5' 11""",170 lbs,"Sumter, SC",92,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Luis Severino,SP,R,R,28,"6' 2""",218 lbs,"Sabana de la Mar, Dominican Republic",40,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Jameson Taillon,SP,R,R,30,"6' 5""",230 lbs,"Lakeland, FL",50,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Ryan Weber,RP,R,R,31,"6' 1""",175 lbs,"St. Petersburg, FL",85,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Kyle Higashioka,C,R,R,32,"6' 1""",202 lbs,"Huntington Beach, CA",66,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Jose Trevino,C,R,R,29,"5' 11""",211 lbs,"Corpus Christi, TX",39,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Josh Donaldson,3B,R,R,36,"6' 1""",210 lbs,"Pensacola, FL",28,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Marwin Gonzalez,SS,B,R,33,"6' 1""",205 lbs,"Puerto Ordaz, Venezuela",14,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Isiah Kiner-Falefa,SS,R,R,27,"5' 10""",176 lbs,"Honolulu, HI",12,nyy,new-york-yankees,2022-07-04T20:38:06Z
+DJ LeMahieu,3B,R,R,33,"6' 4""",220 lbs,"Visalia, CA",26,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Anthony Rizzo,1B,L,L,32,"6' 3""",240 lbs,"Fort Lauderdale, FL",48,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Gleyber Torres,2B,R,R,25,"6' 1""",205 lbs,"Caracas, Venezuela",25,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Joey Gallo,RF,L,R,28,"6' 5""",235 lbs,"Henderson, NV",13,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Aaron Hicks,LF,B,R,32,"6' 1""",205 lbs,"San Pedro, CA",31,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Aaron Judge,CF,R,R,30,"6' 7""",282 lbs,"Linden, CA",99,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Matt Carpenter,DH,L,R,36,"6' 4""",210 lbs,"Galveston, TX",24,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Giancarlo Stanton,DH,R,R,32,"6' 6""",245 lbs,"Panorama City, CA",27,nyy,new-york-yankees,2022-07-04T20:38:06Z
+Domingo Acevedo,RP,R,R,28,"6' 7""",240 lbs,"Mao, Dominican Republic",68,oak,oakland-athletics,2022-07-04T20:38:06Z
+Paul Blackburn,SP,R,R,28,"6' 1""",200 lbs,"Antioch, CA",58,oak,oakland-athletics,2022-07-04T20:38:06Z
+Cole Irvin,SP,L,L,28,"6' 4""",217 lbs,"Yorba Linda, CA",19,oak,oakland-athletics,2022-07-04T20:38:06Z
+Zach Jackson,RP,R,R,27,"6' 4""",215 lbs,"Tulsa, OK",61,oak,oakland-athletics,2022-07-04T20:38:06Z
+James Kaprielian,SP,R,R,28,"6' 3""",225 lbs,"Tustin, CA",32,oak,oakland-athletics,2022-07-04T20:38:06Z
+Adrian Martinez,SP,R,R,25,"6' 2""",215 lbs,"Mexicali, Mexico",55,oak,oakland-athletics,2022-07-04T20:38:06Z
+Sam Moll,RP,L,L,30,"5' 9""",188 lbs,"Lakeland, TN",60,oak,oakland-athletics,2022-07-04T20:38:06Z
+Frankie Montas,SP,R,R,29,"6' 2""",255 lbs,"Sainagua, Dominican Republic",47,oak,oakland-athletics,2022-07-04T20:38:06Z
+Austin Pruitt,RP,R,R,32,"5' 10""",185 lbs,"The Woodlands, TX",29,oak,oakland-athletics,2022-07-04T20:38:06Z
+A.J. Puk,RP,L,L,27,"6' 7""",248 lbs,"Cedar Rapids, IA",33,oak,oakland-athletics,2022-07-04T20:38:06Z
+Sam Selman,RP,R,L,31,"6' 3""",195 lbs,"Austin, TX",40,oak,oakland-athletics,2022-07-04T20:38:06Z
+Kirby Snead,RP,L,L,27,"6' 0""",200 lbs,"Alachua, FL",54,oak,oakland-athletics,2022-07-04T20:38:06Z
+Lou Trivino,RP,R,R,30,"6' 5""",235 lbs,"Green Lane, PA",62,oak,oakland-athletics,2022-07-04T20:38:06Z
+Sean Murphy,C,R,R,27,"6' 3""",228 lbs,"Peekskill, NY",12,oak,oakland-athletics,2022-07-04T20:38:06Z
+Stephen Vogt,C,L,R,37,"6' 0""",211 lbs,"Visalia, CA",21,oak,oakland-athletics,2022-07-04T20:38:06Z
+Nick Allen,2B,R,R,23,"5' 8""",166 lbs,"San Diego, CA",2,oak,oakland-athletics,2022-07-04T20:38:06Z
+Elvis Andrus,SS,R,R,33,"6' 0""",210 lbs,"Maracay, Venezuela",17,oak,oakland-athletics,2022-07-04T20:38:06Z
+Christian Bethancourt,1B,R,R,30,"6' 2""",205 lbs,"Panama City, Panama",23,oak,oakland-athletics,2022-07-04T20:38:06Z
+Seth Brown,1B,L,L,29,"6' 1""",223 lbs,"Klamath Falls, OR",15,oak,oakland-athletics,2022-07-04T20:38:06Z
+Tony Kemp,2B,L,R,30,"5' 6""",160 lbs,"Franklin, TN",5,oak,oakland-athletics,2022-07-04T20:38:06Z
+Vimael Machin,SS,L,R,28,"5' 11""",185 lbs,"Humacao, Puerto Rico",31,oak,oakland-athletics,2022-07-04T20:38:06Z
+Sheldon Neuse,3B,R,R,27,"6' 0""",232 lbs,"Fort Worth, TX",26,oak,oakland-athletics,2022-07-04T20:38:06Z
+Skye Bolt,CF,B,R,28,"6' 2""",180 lbs,"Woodstock, GA",11,oak,oakland-athletics,2022-07-04T20:38:06Z
+Ramon Laureano,RF,R,R,27,"5' 11""",203 lbs,"Santo Domingo, FL",22,oak,oakland-athletics,2022-07-04T20:38:06Z
+Chad Pinder,LF,R,R,30,"6' 2""",210 lbs,"Richmond, VA",10,oak,oakland-athletics,2022-07-04T20:38:06Z
+Stephen Piscotty,RF,R,R,31,"6' 4""",211 lbs,"Pleasanton, CA",25,oak,oakland-athletics,2022-07-04T20:38:06Z
+Jose Alvarado,RP,L,L,27,"6' 2""",245 lbs,"Maracaibo, Venezuela",46,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Mark Appel,RP,R,R,30,"6' 5""",220 lbs,"Houston, TX",22,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Andrew Bellatti,RP,R,R,30,"6' 1""",190 lbs,"San Diego, CA",64,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Seranthony Dominguez,RP,R,R,27,"6' 1""",185 lbs,"Esperanza, Dominican Republic",58,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Bailey Falter,SP,R,L,25,"6' 4""",175 lbs,"Chino Hills, CA",70,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Jeurys Familia,RP,R,R,32,"6' 3""",240 lbs,"Santo Domingo, Dominican Republic",31,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Kyle Gibson,SP,R,R,34,"6' 6""",215 lbs,"Greenfield, IN",44,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Brad Hand,RP,L,L,32,"6' 3""",224 lbs,"Minneapolis, MN",52,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Corey Knebel,RP,R,R,30,"6' 3""",224 lbs,"Denton, TX",23,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Nick Nelson,RP,R,R,26,"6' 1""",205 lbs,"Panama City, FL",57,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Aaron Nola,SP,R,R,29,"6' 2""",195 lbs,"Baton Rouge, LA",27,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Zack Wheeler,SP,L,R,32,"6' 4""",195 lbs,"Smyrna, GA",45,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+J.T. Realmuto,C,R,R,31,"6' 1""",210 lbs,"Del City, OK",10,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Garrett Stubbs,C,L,R,29,"5' 10""",170 lbs,"Del Mar, CA",21,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Alec Bohm,3B,R,R,25,"6' 5""",225 lbs,"Omaha, NE",28,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Didi Gregorius,SS,L,R,32,"6' 3""",205 lbs,"Amsterdam, Netherlands",18,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Darick Hall,1B,L,R,26,"6' 4""",236 lbs,"Sierra Vista, AZ",25,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Rhys Hoskins,1B,R,R,29,"6' 4""",225 lbs,"Sacramento, CA",17,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Yairo Munoz,2B,R,R,27,"5' 11""",200 lbs,"Nagua, Dominican Republic",41,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Bryson Stott,2B,L,R,24,"6' 3""",200 lbs,"Las Vegas, NV",5,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Nick Castellanos,RF,R,R,30,"6' 4""",203 lbs,"Davie, FL",8,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Odubel Herrera,CF,L,R,30,"5' 11""",205 lbs,"San José de Guanipa, Venezuela",37,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Mickey Moniak,CF,L,R,24,"6' 2""",185 lbs,"Encinitas, CA",16,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Kyle Schwarber,LF,L,R,29,"6' 0""",229 lbs,"Middletown, OH",12,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+Matt Vierling,CF,R,R,25,"6' 3""",205 lbs,"St. Louis, MO",19,phi,philadelphia-phillies,2022-07-04T20:38:06Z
+David Bednar,RP,L,R,27,"6' 1""",245 lbs,"Pittsburgh, PA",51,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Tyler Beede,RP,R,R,29,"6' 3""",211 lbs,"Worcester, MA",48,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Austin Brice,RP,R,R,30,"6' 4""",238 lbs,"Hong Kong, Hong Kong",70,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+JT Brubaker,SP,R,R,28,"6' 3""",180 lbs,"Springfield, OH",34,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Roansy Contreras,SP,R,R,22,"6' 0""",175 lbs,"Yamasa, Dominican Republic",59,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Wil Crowe,RP,R,R,27,"6' 2""",235 lbs,"Sevierville, TN",29,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Chase De Jong,RP,L,R,28,"6' 4""",205 lbs,"Long Beach, CA",37,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Mitch Keller,SP,R,R,26,"6' 2""",220 lbs,"Cedar Rapids, IA",23,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Jose Quintana,SP,R,L,33,"6' 1""",220 lbs,"Arjona, Colombia",62,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Chris Stratton,RP,R,R,31,"6' 2""",205 lbs,"Tupelo, MS",46,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Zach Thompson,SP,R,R,28,"6' 7""",230 lbs,"Burleson, TX",39,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Duane Underwood Jr.,RP,R,R,27,"6' 2""",210 lbs,"Raleigh, NC",56,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Cam Vieaux,RP,L,L,28,"6' 3""",200 lbs,"Novi, MI",68,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Tyler Heineman,C,B,R,31,"5' 11""",195 lbs,"Pacific Palisades, CA",54,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Michael Perez,C,L,R,29,"5' 10""",195 lbs,"Catano, Puerto Rico",5,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Diego Castillo,SS,R,R,24,"6' 0""",170 lbs,"Barquisimeto, Venezuela",64,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Michael Chavis,1B,R,R,26,"5' 10""",210 lbs,"Marietta, GA",2,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Oneil Cruz,SS,L,R,23,"6' 7""",215 lbs,"Nizao, Dominican Republic",15,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Ke'Bryan Hayes,3B,R,R,25,"6' 2""",205 lbs,"Tomball, TX",13,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Tucupita Marcano,2B,L,R,22,"6' 0""",170 lbs,"San Antonio de Maturin, Venezuela",30,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Hoy Park,SS,L,R,26,"6' 1""",175 lbs,"Seoul, South Korea",44,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Josh VanMeter,2B,L,R,27,"5' 11""",190 lbs,"Ossian, IN",26,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Bligh Madris,RF,L,R,26,"6' 2""",200 lbs,"Las Vegas, NV",66,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Bryan Reynolds,CF,B,R,27,"6' 3""",210 lbs,"Baltimore, MD",10,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Jack Suwinski,RF,L,L,23,"6' 2""",206 lbs,"Chicago, IL",65,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Daniel Vogelbach,DH,L,R,29,"6' 0""",250 lbs,"Orlando, FL",19,pit,pittsburgh-pirates,2022-07-04T20:38:06Z
+Mike Clevinger,SP,R,R,31,"6' 4""",215 lbs,"Jacksonville, FL",52,sd,san-diego-padres,2022-07-04T20:38:06Z
+Nabil Crismatt,RP,R,R,27,"6' 1""",215 lbs,"Barranquilla, Colombia",74,sd,san-diego-padres,2022-07-04T20:38:06Z
+Yu Darvish,SP,R,R,35,"6' 5""",220 lbs,"Osaka, Japan",11,sd,san-diego-padres,2022-07-04T20:38:06Z
+Luis Garcia,RP,R,R,35,"6' 2""",240 lbs,"Santo Domingo, Dominican Republic",66,sd,san-diego-padres,2022-07-04T20:38:06Z
+MacKenzie Gore,SP,L,L,23,"6' 2""",197 lbs,"Wilmington, NC",1,sd,san-diego-padres,2022-07-04T20:38:06Z
+Tim Hill,RP,R,L,32,"6' 4""",200 lbs,"Sylmar, CA",25,sd,san-diego-padres,2022-07-04T20:38:06Z
+Sean Manaea,SP,R,L,30,"6' 5""",245 lbs,"Valparaiso, IN",55,sd,san-diego-padres,2022-07-04T20:38:06Z
+Nick Martinez,SP,L,R,31,"6' 1""",175 lbs,"Hialeah, FL",22,sd,san-diego-padres,2022-07-04T20:38:06Z
+Joe Musgrove,SP,R,R,29,"6' 5""",230 lbs,"El Cajon, CA",44,sd,san-diego-padres,2022-07-04T20:38:06Z
+Taylor Rogers,RP,L,L,31,"6' 3""",190 lbs,"Littleton, CO",17,sd,san-diego-padres,2022-07-04T20:38:06Z
+Tayler Scott,RP,R,R,30,"6' 3""",185 lbs,"Johannesburg, South Africa",62,sd,san-diego-padres,2022-07-04T20:38:06Z
+Blake Snell,SP,L,L,29,"6' 4""",225 lbs,"Seattle, WA",4,sd,san-diego-padres,2022-07-04T20:38:06Z
+Craig Stammen,RP,R,R,38,"6' 2""",228 lbs,"North Star, OH",34,sd,san-diego-padres,2022-07-04T20:38:06Z
+Jorge Alfaro,C,R,R,29,"6' 3""",230 lbs,"Sincelejo, Colombia",38,sd,san-diego-padres,2022-07-04T20:38:06Z
+Austin Nola,C,R,R,32,"6' 0""",197 lbs,"Baton Rouge, LA",26,sd,san-diego-padres,2022-07-04T20:38:06Z
+C.J. Abrams,SS,L,R,21,"6' 2""",185 lbs,"Alpharetta, GA",77,sd,san-diego-padres,2022-07-04T20:38:06Z
+Matthew Batten,2B,R,R,27,"5' 11""",180 lbs,"Shelton, CT",37,sd,san-diego-padres,2022-07-04T20:38:06Z
+Jake Cronenworth,2B,L,R,28,"6' 0""",187 lbs,"Saint Clair, MI",9,sd,san-diego-padres,2022-07-04T20:38:06Z
+Eric Hosmer,1B,L,L,32,"6' 4""",226 lbs,"South Miami, FL",30,sd,san-diego-padres,2022-07-04T20:38:06Z
+Ha-Seong Kim,SS,R,R,26,"5' 9""",168 lbs,"Seoul, South Korea",7,sd,san-diego-padres,2022-07-04T20:38:06Z
+Manny Machado,3B,R,R,29,"6' 3""",218 lbs,"Miami, FL",13,sd,san-diego-padres,2022-07-04T20:38:06Z
+Jose Azocar,RF,R,R,26,"5' 11""",165 lbs,"Güiria, Venezuela",28,sd,san-diego-padres,2022-07-04T20:38:06Z
+Trent Grisham,CF,L,L,25,"5' 11""",224 lbs,"Fort Worth, TX",2,sd,san-diego-padres,2022-07-04T20:38:06Z
+Nomar Mazara,RF,L,L,27,"6' 4""",215 lbs,"Santo Domingo, Dominican Republic",16,sd,san-diego-padres,2022-07-04T20:38:06Z
+Jurickson Profar,LF,B,R,29,"6' 0""",184 lbs,"Willemstad, Curacao",10,sd,san-diego-padres,2022-07-04T20:38:06Z
+Luke Voit,DH,R,R,31,"6' 3""",255 lbs,"Wildwood, MO",45,sd,san-diego-padres,2022-07-04T20:38:06Z
+John Brebbia,RP,L,R,32,"6' 1""",185 lbs,"Sharon, MA",59,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Alex Cobb,SP,R,R,34,"6' 3""",205 lbs,"Boston, MA",38,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Camilo Doval,RP,R,R,24,"6' 2""",185 lbs,"Yamasa, Dominican Republic",75,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Jarlin Garcia,RP,L,L,29,"6' 3""",215 lbs,"Santo Domingo, Dominican Republic",66,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Dominic Leone,RP,R,R,30,"5' 10""",215 lbs,"Norwich, CT",52,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Sam Long,RP,L,L,26,"6' 1""",185 lbs,"Fair Oaks, CA",73,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Jake McGee,RP,L,L,35,"6' 4""",237 lbs,"San Jose, CA",17,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Carlos Rodon,SP,L,L,29,"6' 3""",250 lbs,"Miami, FL",16,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Tyler Rogers,RP,R,R,31,"6' 5""",187 lbs,"Littleton, CO",71,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Logan Webb,SP,R,R,25,"6' 2""",220 lbs,"Rocklin, CA",62,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Alex Wood,SP,R,L,31,"6' 4""",215 lbs,"Charlotte, NC",57,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Curt Casali,C,R,R,33,"6' 2""",220 lbs,"Walnut Creek, CA",2,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Austin Wynns,C,R,R,31,"6' 2""",205 lbs,"San Diego, CA",14,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Brandon Belt,1B,L,L,34,"6' 4""",235 lbs,"Nacogdoches, TX",9,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Wilmer Flores,3B,R,R,30,"6' 3""",205 lbs,"Valencia, Venezuela",41,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Evan Longoria,3B,R,R,36,"6' 1""",215 lbs,"Downey, CA",10,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Yermin Mercedes,1B,R,R,29,"5' 11""",245 lbs,"La Romana, Dominican Republic",6,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Darin Ruf,1B,R,R,35,"6' 3""",250 lbs,"Omaha, NE",33,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Donovan Walton,2B,L,R,28,"5' 10""",190 lbs,"Dallas, TX",37,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Joc Pederson,LF,L,L,30,"6' 1""",220 lbs,"Palo Alto, CA",23,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Austin Slater,CF,R,R,29,"6' 2""",197 lbs,"Jacksonville, FL",13,sf,san-francisco-giants,2022-07-04T20:38:06Z
+LaMonte Wade Jr.,RF,L,L,28,"6' 1""",205 lbs,"Baltimore, MD",31,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Mike Yastrzemski,CF,L,L,31,"5' 11""",180 lbs,"Andover, MA",5,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Tommy La Stella,DH,L,R,33,"5' 11""",180 lbs,"Westwood, NJ",8,sf,san-francisco-giants,2022-07-04T20:38:06Z
+Ryan Borucki,RP,L,L,28,"6' 4""",215 lbs,"Mundelein, IL",30,sea,seattle-mariners,2022-07-04T20:38:06Z
+Diego Castillo,RP,R,R,28,"6' 3""",250 lbs,"Cabrera, Dominican Republic",63,sea,seattle-mariners,2022-07-04T20:38:06Z
+Chris Flexen,SP,R,R,28,"6' 3""",250 lbs,"Newark, CA",77,sea,seattle-mariners,2022-07-04T20:38:06Z
+Logan Gilbert,SP,R,R,25,"6' 6""",225 lbs,"Apopka, FL",36,sea,seattle-mariners,2022-07-04T20:38:06Z
+Ken Giles,RP,R,R,31,"6' 3""",210 lbs,"Albuquerque, NM",58,sea,seattle-mariners,2022-07-04T20:38:06Z
+Marco Gonzales,SP,L,L,30,"6' 1""",197 lbs,"Fort Collins, CO",7,sea,seattle-mariners,2022-07-04T20:38:06Z
+George Kirby,SP,R,R,24,"6' 4""",201 lbs,"Rye, NY",68,sea,seattle-mariners,2022-07-04T20:38:06Z
+Tommy Milone,RP,L,L,35,"6' 0""",215 lbs,"Saugus, CA",53,sea,seattle-mariners,2022-07-04T20:38:06Z
+Andres Munoz,RP,R,R,23,"6' 2""",165 lbs,"Los Mochis, Mexico",75,sea,seattle-mariners,2022-07-04T20:38:06Z
+Penn Murfee,RP,R,R,28,"6' 2""",200 lbs,"Nashville, TN",56,sea,seattle-mariners,2022-07-04T20:38:06Z
+Robbie Ray,SP,L,L,30,"6' 2""",195 lbs,"Brentwood, TN",38,sea,seattle-mariners,2022-07-04T20:38:06Z
+Paul Sewald,RP,R,R,32,"6' 3""",207 lbs,"Las Vegas, NV",37,sea,seattle-mariners,2022-07-04T20:38:06Z
+Erik Swanson,RP,R,R,28,"6' 3""",235 lbs,"Fargo, ND",50,sea,seattle-mariners,2022-07-04T20:38:06Z
+Andrew Knapp,C,B,R,30,"6' 1""",195 lbs,"Roseville, CA",40,sea,seattle-mariners,2022-07-04T20:38:06Z
+Cal Raleigh,C,B,R,25,"6' 3""",225 lbs,"Cullowhee, NC",29,sea,seattle-mariners,2022-07-04T20:38:06Z
+J.P. Crawford,SS,L,R,27,"6' 2""",199 lbs,"Long Beach, CA",3,sea,seattle-mariners,2022-07-04T20:38:06Z
+Adam Frazier,2B,L,R,30,"5' 10""",185 lbs,"Athens, GA",26,sea,seattle-mariners,2022-07-04T20:38:06Z
+Sam Haggerty,2B,B,R,28,"5' 11""",175 lbs,"Phoenix, AZ",0,sea,seattle-mariners,2022-07-04T20:38:06Z
+Dylan Moore,2B,R,R,29,"6' 0""",185 lbs,"Newport Beach, CA",25,sea,seattle-mariners,2022-07-04T20:38:06Z
+Carlos Santana,1B,B,R,36,"5' 11""",210 lbs,"Santo Domingo, Dominican Republic",41,sea,seattle-mariners,2022-07-04T20:38:06Z
+Eugenio Suarez,3B,R,R,30,"5' 11""",213 lbs,"Puerto Ordaz, Venezuela",28,sea,seattle-mariners,2022-07-04T20:38:06Z
+Abraham Toro,2B,B,R,25,"6' 0""",206 lbs,"Longueuil, PQ",13,sea,seattle-mariners,2022-07-04T20:38:06Z
+Julio Rodriguez,CF,R,R,21,"6' 3""",180 lbs,"Loma de Cabrera, Dominican Republic",44,sea,seattle-mariners,2022-07-04T20:38:06Z
+Marcus Wilson,CF,R,R,25,"6' 2""",198 lbs,"Los Angeles, CA",60,sea,seattle-mariners,2022-07-04T20:38:06Z
+Justin Upton,DH,R,R,34,"6' 1""",215 lbs,"Norfolk, VA",8,sea,seattle-mariners,2022-07-04T20:38:06Z
+Junior Fernandez,RP,R,R,25,"6' 1""",180 lbs,"Santo Domingo, Dominican Republic",44,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Giovanny Gallegos,RP,R,R,30,"6' 2""",215 lbs,"Obregon, Mexico",65,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Ryan Helsley,RP,R,R,27,"6' 1""",195 lbs,"Tahlequah, OK",56,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Jordan Hicks,RP,R,R,25,"6' 2""",220 lbs,"Houston, TX",12,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Dakota Hudson,SP,R,R,27,"6' 5""",215 lbs,"Chattanooga, TN",43,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Matthew Liberatore,SP,L,L,22,"6' 5""",200 lbs,"Glendale, AZ",52,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Miles Mikolas,SP,R,R,33,"6' 4""",230 lbs,"Jupiter, FL",39,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+James Naile,SP,R,R,29,"6' 4""",185 lbs,"Cape Girardeau, MO",68,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Packy Naughton,RP,R,L,26,"6' 2""",195 lbs,"Boston, MA",70,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Johan Oviedo,RP,R,R,24,"6' 6""",210 lbs,"Havana, Cuba",59,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Andre Pallante,SP,R,R,23,"6' 0""",203 lbs,"Mission Viejo, CA",53,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Zack Thompson,RP,L,L,24,"6' 2""",225 lbs,"Selma, IN",57,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Adam Wainwright,SP,R,R,40,"6' 7""",230 lbs,"Brunswick, GA",50,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Andrew Knizner,C,R,R,27,"6' 1""",225 lbs,"Glen Allen, VA",7,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Austin Romine,C,R,R,33,"6' 1""",220 lbs,"Lake Forest, CA",19,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Nolan Arenado,3B,R,R,31,"6' 2""",215 lbs,"Newport Beach, CA",28,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Tommy Edman,2B,B,R,27,"5' 10""",180 lbs,"San Diego, CA",19,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Paul Goldschmidt,1B,R,R,34,"6' 3""",220 lbs,"Wilmington, DE",46,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Nolan Gorman,2B,L,R,22,"6' 1""",210 lbs,"Phoenix, AZ",16,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Edmundo Sosa,SS,R,R,26,"6' 0""",210 lbs,"Panama City, Panama",63,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Conner Capel,CF,L,L,25,"6' 1""",185 lbs,"Katy, TX",71,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Dylan Carlson,RF,B,L,23,"6' 2""",205 lbs,"Elk Grove, CA",3,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Brendan Donovan,LF,L,R,25,"6' 2""",200 lbs,"Enterprise, AL",33,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Lars Nootbaar,RF,L,R,24,"6' 3""",210 lbs,"El Segundo, CA",21,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Albert Pujols,DH,R,R,42,"6' 3""",235 lbs,"Santo Domingo, Dominican Republic",5,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Juan Yepez,DH,R,R,24,"6' 1""",200 lbs,"Caracas, Venezuela",36,stl,st-louis-cardinals,2022-07-04T20:38:06Z
+Jason Adam,RP,R,R,30,"6' 4""",225 lbs,"Overland Park, KS",47,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Shawn Armstrong,RP,R,R,31,"6' 2""",225 lbs,"New Bern, NC",64,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Shane Baz,SP,R,R,23,"6' 3""",190 lbs,"Cypress, TX",11,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Jalen Beeks,RP,L,L,28,"5' 11""",200 lbs,"Fayetteville, AR",68,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Calvin Faucher,RP,R,R,26,"6' 1""",190 lbs,"Chula Vista, CA",58,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Josh Fleming,RP,L,L,26,"6' 2""",210 lbs,"Bridgeton, MO",19,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Corey Kluber,SP,R,R,36,"6' 4""",215 lbs,"Birmingham, AL",28,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Shane McClanahan,SP,L,L,25,"6' 1""",188 lbs,"Cape Coral, FL",18,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Colin Poche,RP,L,L,28,"6' 3""",235 lbs,"Flower Mound, TX",38,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Brooks Raley,RP,L,L,34,"6' 3""",200 lbs,"Uvalde, TX",30,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Drew Rasmussen,SP,R,R,26,"6' 1""",225 lbs,"Spokane, WA",57,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Ryan Thompson,RP,R,R,30,"6' 5""",210 lbs,"Turner, OR",81,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Matt Wisler,RP,R,R,29,"6' 3""",215 lbs,"Bryan, OH",37,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Francisco Mejia,C,B,R,26,"5' 8""",188 lbs,"Bani, Dominican Republic",21,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Rene Pinto,C,R,R,25,"5' 11""",195 lbs,"Maracay, Venezuela",50,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Vidal Brujan,2B,B,R,24,"5' 9""",155 lbs,"San Pedro de Macoris, Dominican Republic",7,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Ji-Man Choi,1B,L,R,31,"6' 1""",260 lbs,"Incheon, South Korea",26,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Yandy Diaz,3B,R,R,30,"6' 2""",215 lbs,"Villa Clara, Cuba",2,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Wander Franco,SS,B,R,21,"5' 10""",190 lbs,"Bani, Dominican Republic",5,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Isaac Paredes,2B,R,R,23,"5' 11""",213 lbs,"Sonora, Mexico",17,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Taylor Walls,SS,B,R,25,"5' 10""",180 lbs,"Cordele, GA",6,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Randy Arozarena,LF,R,R,27,"5' 11""",185 lbs,"Havana, Cuba",56,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Kevin Kiermaier,CF,L,R,32,"6' 1""",210 lbs,"Fort Wayne, IN",39,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Josh Lowe,RF,L,R,24,"6' 4""",205 lbs,"Marietta, GA",15,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Brett Phillips,RF,L,R,28,"6' 0""",195 lbs,"Seminole, FL",35,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Harold Ramirez,DH,R,R,27,"5' 10""",220 lbs,"Cartagena, Colombia",43,tb,tampa-bay-rays,2022-07-04T20:38:06Z
+Joe Barlow,RP,R,R,26,"6' 3""",195 lbs,"Riverton, UT",68,tex,texas-rangers,2022-07-04T20:38:06Z
+Brock Burke,RP,L,L,25,"6' 4""",180 lbs,"Chicago, IL",46,tex,texas-rangers,2022-07-04T20:38:06Z
+Dane Dunning,SP,R,R,27,"6' 4""",225 lbs,"Fleming Island, FL",33,tex,texas-rangers,2022-07-04T20:38:06Z
+Jon Gray,SP,R,R,30,"6' 4""",225 lbs,"Shawnee, OK",22,tex,texas-rangers,2022-07-04T20:38:06Z
+John King,RP,L,L,27,"6' 2""",215 lbs,"Laredo, TX",32,tex,texas-rangers,2022-07-04T20:38:06Z
+Jose Leclerc,RP,R,R,28,"6' 0""",190 lbs,"Esperanza, Dominican Republic",25,tex,texas-rangers,2022-07-04T20:38:06Z
+Brett Martin,RP,L,L,27,"6' 4""",190 lbs,"Morristown, TN",59,tex,texas-rangers,2022-07-04T20:38:06Z
+Matt Moore,RP,L,L,33,"6' 3""",210 lbs,"Fort Walton Beach, FL",45,tex,texas-rangers,2022-07-04T20:38:06Z
+Glenn Otto,SP,R,R,26,"6' 3""",240 lbs,"Houston, TX",49,tex,texas-rangers,2022-07-04T20:38:06Z
+Martin Perez,SP,L,L,31,"6' 0""",200 lbs,"Guanare, Venezuela",54,tex,texas-rangers,2022-07-04T20:38:06Z
+Garrett Richards,RP,R,R,34,"6' 2""",210 lbs,"Riverside, CA",43,tex,texas-rangers,2022-07-04T20:38:06Z
+Dennis Santana,RP,R,R,26,"6' 2""",190 lbs,"San Pedro de Macoris, Dominican Republic",19,tex,texas-rangers,2022-07-04T20:38:06Z
+Josh Sborz,RP,R,R,28,"6' 3""",215 lbs,"Mclean, VA",66,tex,texas-rangers,2022-07-04T20:38:06Z
+Jonah Heim,C,B,R,27,"6' 4""",220 lbs,"Amherst, NY",28,tex,texas-rangers,2022-07-04T20:38:06Z
+Meibrys Viloria,C,L,R,25,"5' 11""",220 lbs,"Cartagena, Colombia",60,tex,texas-rangers,2022-07-04T20:38:06Z
+Charlie Culberson,3B,R,R,33,"6' 0""",200 lbs,"Rome, GA",11,tex,texas-rangers,2022-07-04T20:38:06Z
+Nathaniel Lowe,1B,L,R,26,"6' 3""",245 lbs,"Marietta, GA",30,tex,texas-rangers,2022-07-04T20:38:06Z
+Corey Seager,SS,L,R,28,"6' 4""",215 lbs,"Charlotte, NC",5,tex,texas-rangers,2022-07-04T20:38:06Z
+Marcus Semien,2B,R,R,31,"6' 0""",195 lbs,"San Francisco, CA",2,tex,texas-rangers,2022-07-04T20:38:06Z
+Josh Smith,3B,L,R,24,"5' 10""",172 lbs,"Greenwell Springs, LA",47,tex,texas-rangers,2022-07-04T20:38:06Z
+Kole Calhoun,RF,L,L,34,"5' 10""",210 lbs,"Buckeye, AZ",56,tex,texas-rangers,2022-07-04T20:38:06Z
+Steven Duggar,CF,L,R,28,"6' 2""",195 lbs,"Moore, SC",9,tex,texas-rangers,2022-07-04T20:38:06Z
+Adolis Garcia,RF,R,R,29,"6' 1""",180 lbs,"Ciego de Avila, Cuba",53,tex,texas-rangers,2022-07-04T20:38:06Z
+Brad Miller,LF,L,R,32,"6' 2""",215 lbs,"Orlando, FL",13,tex,texas-rangers,2022-07-04T20:38:06Z
+Leody Taveras,CF,B,R,23,"6' 1""",171 lbs,"Tenares, Dominican Republic",3,tex,texas-rangers,2022-07-04T20:38:06Z
+Mitch Garver,DH,R,R,31,"6' 1""",220 lbs,"Albuquerque, NM",18,tex,texas-rangers,2022-07-04T20:38:06Z
+Jose Berrios,SP,R,R,28,"6' 0""",205 lbs,"Bayamon, Puerto Rico",17,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Adam Cimber,RP,R,R,31,"6' 3""",195 lbs,"Portland, OR",90,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Matt Gage,RP,L,L,29,"6' 4""",240 lbs,"Johnstown, NY",91,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Kevin Gausman,SP,L,R,31,"6' 3""",190 lbs,"Centennial, CO",34,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Yusei Kikuchi,SP,L,L,31,"6' 0""",200 lbs,"Iwate, Japan",16,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Alek Manoah,SP,R,R,24,"6' 6""",260 lbs,"Homestead, FL",6,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Tim Mayza,RP,L,L,30,"6' 3""",220 lbs,"Allentown, PA",58,tor,toronto-bluejays,2022-07-04T20:38:06Z
+David Phelps,RP,R,R,35,"6' 3""",200 lbs,"St. Louis, MO",35,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Trevor Richards,RP,R,R,29,"6' 2""",195 lbs,"Aviston, IL",33,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Jordan Romano,RP,R,R,29,"6' 4""",200 lbs,"Markham, ON",68,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Sergio Romo,RP,R,R,39,"5' 11""",185 lbs,"Brawley, CA",54,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Ross Stripling,SP,R,R,32,"6' 2""",220 lbs,"Blue Bell, PA",48,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Trent Thornton,RP,R,R,28,"6' 0""",195 lbs,"Pittsburgh, PA",57,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Zack Collins,C,L,R,27,"6' 3""",230 lbs,"Pembroke Pines, FL",21,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Alejandro Kirk,C,R,R,23,"5' 9""",220 lbs,"Tijuana, Mexico",30,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Gabriel Moreno,C,R,R,22,"5' 11""",160 lbs,"Barquisimeto, Venezuela",55,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Bo Bichette,SS,R,R,24,"6' 0""",185 lbs,"Orlando, FL",11,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Cavan Biggio,1B,L,R,27,"6' 2""",200 lbs,"Houston, TX",8,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Matt Chapman,3B,R,R,29,"6' 0""",215 lbs,"Victorville, CA",26,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Santiago Espinal,2B,R,R,27,"5' 10""",175 lbs,"Santiago, Dominican Republic",5,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Vladimir Guerrero Jr.,1B,R,R,23,"6' 2""",250 lbs,"Montreal, PQ",27,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Lourdes Gurriel Jr.,LF,R,R,28,"6' 3""",215 lbs,"Sancti Spíritus, Cuba",13,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Teoscar Hernandez,RF,R,R,29,"6' 2""",205 lbs,"Cotui, Dominican Republic",37,tor,toronto-bluejays,2022-07-04T20:38:06Z
+George Springer,CF,R,R,32,"6' 3""",215 lbs,"New Britain, CT",4,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Raimel Tapia,LF,L,L,28,"6' 3""",175 lbs,"San Pedro de Macoris, Dominican Republic",15,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Bradley Zimmer,CF,L,R,29,"6' 5""",220 lbs,"La Jolla, CA",7,tor,toronto-bluejays,2022-07-04T20:38:06Z
+Steve Cishek,RP,R,R,36,"6' 6""",215 lbs,"Falmouth, MA",33,wsh,washington-nationals,2022-07-04T20:38:06Z
+Patrick Corbin,SP,L,L,32,"6' 4""",220 lbs,"Clay, NY",46,wsh,washington-nationals,2022-07-04T20:38:06Z
+Carl Edwards Jr.,RP,R,R,30,"6' 3""",170 lbs,"Newberry, SC",58,wsh,washington-nationals,2022-07-04T20:38:06Z
+Paolo Espino,RP,R,R,35,"5' 10""",215 lbs,"Panama City, Panama",30,wsh,washington-nationals,2022-07-04T20:38:06Z
+Erick Fedde,SP,R,R,29,"6' 4""",200 lbs,"Las Vegas, NV",32,wsh,washington-nationals,2022-07-04T20:38:06Z
+Kyle Finnegan,RP,R,R,30,"6' 2""",200 lbs,"Detroit, MI",67,wsh,washington-nationals,2022-07-04T20:38:06Z
+Reed Garrett,RP,R,R,29,"6' 2""",170 lbs,"Henrico, VA",53,wsh,washington-nationals,2022-07-04T20:38:06Z
+Josiah Gray,SP,R,R,24,"6' 1""",190 lbs,"New Rochelle, NY",40,wsh,washington-nationals,2022-07-04T20:38:06Z
+Andres Machado,RP,R,R,29,"6' 0""",220 lbs,"Valencia, Venezuela",57,wsh,washington-nationals,2022-07-04T20:38:06Z
+Tanner Rainey,RP,R,R,29,"6' 2""",247 lbs,"Folsom, LA",21,wsh,washington-nationals,2022-07-04T20:38:06Z
+Erasmo Ramirez,RP,R,R,32,"6' 0""",220 lbs,"Rivas, Nicaragua",61,wsh,washington-nationals,2022-07-04T20:38:06Z
+Mason Thompson,RP,R,R,24,"6' 7""",223 lbs,"Round Rock, TX",71,wsh,washington-nationals,2022-07-04T20:38:06Z
+Jordan Weems,RP,L,R,29,"6' 3""",175 lbs,"Columbus, GA",51,wsh,washington-nationals,2022-07-04T20:38:06Z
+Tres Barrera,C,R,R,27,"6' 0""",215 lbs,"Eagle Pass, TX",38,wsh,washington-nationals,2022-07-04T20:38:06Z
+Keibert Ruiz,C,B,R,23,"6' 0""",200 lbs,"Valencia, Venezuela",20,wsh,washington-nationals,2022-07-04T20:38:06Z
+Ehire Adrianza,3B,B,R,32,"6' 1""",195 lbs,"Guarenas, Venezuela",5,wsh,washington-nationals,2022-07-04T20:38:06Z
+Josh Bell,1B,B,R,29,"6' 4""",250 lbs,"Irving, TX",19,wsh,washington-nationals,2022-07-04T20:38:06Z
+Alcides Escobar,SS,R,R,35,"6' 1""",185 lbs,"Guayana, Venezuela",3,wsh,washington-nationals,2022-07-04T20:38:06Z
+Maikel Franco,3B,R,R,29,"6' 1""",215 lbs,"Azua Province, Dominican Republic",7,wsh,washington-nationals,2022-07-04T20:38:06Z
+Luis Garcia,SS,L,R,22,"6' 0""",190 lbs,"New York, NY",2,wsh,washington-nationals,2022-07-04T20:38:06Z
+Cesar Hernandez,2B,B,R,32,"5' 10""",195 lbs,"Valencia, Venezuela",1,wsh,washington-nationals,2022-07-04T20:38:06Z
+Yadiel Hernandez,LF,L,R,34,"5' 9""",185 lbs,"Matanzas, Cuba",29,wsh,washington-nationals,2022-07-04T20:38:06Z
+Victor Robles,CF,R,R,25,"6' 0""",205 lbs,"Santo Domingo, Dominican Republic",16,wsh,washington-nationals,2022-07-04T20:38:06Z
+Juan Soto,RF,L,L,23,"6' 2""",224 lbs,"Santo Domingo, Dominican Republic",22,wsh,washington-nationals,2022-07-04T20:38:06Z
+Lane Thomas,LF,R,R,26,"6' 1""",210 lbs,"Knoxville, TN",28,wsh,washington-nationals,2022-07-04T20:38:06Z
+Nelson Cruz,DH,R,R,42,"6' 2""",230 lbs,"Las Matas de Santa Cruz, Dominican Republic",23,wsh,washington-nationals,2022-07-04T20:38:06Z
