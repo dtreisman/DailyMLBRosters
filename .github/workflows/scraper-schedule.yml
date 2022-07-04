@@ -3,6 +3,7 @@ name: mlb-roster-scraper
 on:
   schedule:
     - cron: '0 20 * * *' # runs at 18:00 UTC everyday
+    
   workflow_dispatch:
     inputs:
       logLevel:
@@ -25,18 +26,7 @@ on:
 
           
 jobs:
-  log-the-inputs:
-    runs-on: ubuntu-latest
-    steps:
-      - run: |
-          echo "Log level: $LEVEL"
-          echo "Tags: $TAGS"
-          echo "Environment: $ENVIRONMENT"
-        env:
-          LEVEL: ${{ inputs.logLevel }}
-          TAGS: ${{ inputs.tags }}
-          ENVIRONMENT: ${{ inputs.environment }}
-          
+
   build:
     runs-on: ubuntu-latest
     steps:
