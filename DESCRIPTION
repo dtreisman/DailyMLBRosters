@@ -4,7 +4,7 @@ Authors@R:
     person("Dani", "Treisman", , "danitreisman@gmail.com", role = c("aut", "cre"))
 Description: This repository holds automated data releases from ESPN's active MLB rosters.
 License: CC BY 4.0
-URL: https://github.com/dtreisman/DailyMLBRosters/data
+URL: https://github.com/dtreisman/DailyMLBRosters
 Depends: 
     R (>= 4.1.0)
 Imports: 
