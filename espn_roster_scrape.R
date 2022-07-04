@@ -8,7 +8,7 @@ team_abbr = c('ari','atl','bal','bos','chc','chw','cin','cle','col','det','hou',
 
 
 team_name = c('arizona-dbacks','atlanta-braves','baltimore-orioles','boston-redsox','chicago-cubs',
-             'chicago-whitesox','cincinattireds','cleveland-guardians','colorado-rockies',
+             'chicago-whitesox','cincinatti-reds','cleveland-guardians','colorado-rockies',
              'detroit-tigers','houston-astros','kansas-city-royals','los-angeles-angels',
              'los-angeles-dodgers','miami-marlins','milwaukee-brewers','minnesota-twins',
              'new-york-mets','new-york-yankees','oakland-athletics','philadelphia-phillies',
