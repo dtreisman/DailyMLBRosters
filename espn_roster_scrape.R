@@ -7,13 +7,13 @@ team_abbr = c('ari','atl','bal','bos','chc','chw','cin','cle','col','det','hou',
               'sea','stl','tb','tex','tor','wsh')
 
 
-team_name = c('arizona-dbacks','atlanta-braves','baltimore-orioles','boston-redsox','chicago-cubs',
-              'chicago-whitesox','cincinnati- reds','cleveland-guardians','colorado-rockies',
+team_name = c('arizona-diamondbacks','atlanta-braves','baltimore-orioles','boston-red-sox','chicago-cubs',
+              'chicago-white-sox','cincinnati- reds','cleveland-guardians','colorado-rockies',
               'detroit-tigers','houston-astros','kansas-city-royals','los-angeles-angels',
               'los-angeles-dodgers','miami-marlins','milwaukee-brewers','minnesota-twins',
               'new-york-mets','new-york-yankees','oakland-athletics','philadelphia-phillies',
               'pittsburgh-pirates','san-diego-padres','san-francisco-giants','seattle-mariners',
-              'st-louis-cardinals','tampa-bay-rays','texas-rangers','toronto-bluejays','washington-nationals')
+              'st-louis-cardinals','tampa-bay-rays','texas-rangers','toronto-blue-jays','washington-nationals')
 
 
 teams <- bind_cols(team_abbr, team_name) 
