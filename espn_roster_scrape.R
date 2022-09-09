@@ -52,7 +52,7 @@ for (i in 1:nrow(teams)) {
     html_attr("href") %>%
     data.frame() %>%
     rename(link = ".") %>%
-    filter(str_detect(link, "player")) %>%
+    filter(str_detect(link, "player/")) %>%
     unique() %>%
     mutate(id = str_extract(link, "[0-9]+")) %>%
     select(id) %>%
