@@ -9139,3 +9139,784 @@ Alex Call,LF,R,R,28,"5' 11""",189 lbs,"Burnsville, MN",17,wsh,washington-nationa
 Stone Garrett,LF,R,R,27,"6' 2""",224 lbs,"Sugar Land, TX",36,wsh,washington-nationals,2023-04-05T20:23:07Z,35063,https://www.espn.com/mlb/player/_/id/35063
 Victor Robles,CF,R,R,25,"6' 0""",194 lbs,"Santo Domingo, Dominican Republic",16,wsh,washington-nationals,2023-04-05T20:23:07Z,35042,https://www.espn.com/mlb/player/_/id/35042
 Lane Thomas,RF,R,R,27,"6' 0""",198 lbs,"Knoxville, TN",28,wsh,washington-nationals,2023-04-05T20:23:07Z,36409,https://www.espn.com/mlb/player/_/id/36409
+name,pos,bats,throws,age,height,weight,birthplace,jersey,team_abbr,team_name,date,player_id,player_link
+Madison Bumgarner,SP,R,L,33,"6' 4""",240 lbs,"Hickory, NC",40,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,29949,https://www.espn.com/mlb/player/_/id/29949
+Miguel Castro,RP,R,R,28,"6' 7""",201 lbs,"La Romana, Dominican Republic",50,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,33820,https://www.espn.com/mlb/player/_/id/33820
+Andrew Chafin,RP,R,L,32,"6' 2""",235 lbs,"Kettering, OH",57,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,32810,https://www.espn.com/mlb/player/_/id/32810
+Zach Davies,SP,R,R,30,"6' 0""",180 lbs,"Puyallup, WA",27,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,33829,https://www.espn.com/mlb/player/_/id/33829
+Zac Gallen,SP,R,R,27,"6' 2""",189 lbs,"Somerdale, NJ",23,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,39910,https://www.espn.com/mlb/player/_/id/39910
+Kevin Ginkel,RP,L,R,29,"6' 4""",235 lbs,"San Diego, CA",37,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,41432,https://www.espn.com/mlb/player/_/id/41432
+Drey Jameson,RP,R,R,25,"6' 0""",165 lbs,"Greenfield, IN",99,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,4415753,https://www.espn.com/mlb/player/_/id/4415753
+Merrill Kelly,SP,R,R,34,"6' 2""",202 lbs,"Houston, TX",29,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,32968,https://www.espn.com/mlb/player/_/id/32968
+Scott McGough,RP,R,R,33,"5' 11""",190 lbs,"Monroeville, PA",30,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,34834,https://www.espn.com/mlb/player/_/id/34834
+Kyle Nelson,RP,L,L,26,"6' 1""",175 lbs,"San Francisco, CA",24,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,42012,https://www.espn.com/mlb/player/_/id/42012
+Ryne Nelson,RP,R,R,25,"6' 3""",184 lbs,"Henderson, NV",19,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,4916269,https://www.espn.com/mlb/player/_/id/4916269
+Cole Sulser,RP,R,R,33,"6' 1""",190 lbs,"Santa Ysabel, CA",54,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,37825,https://www.espn.com/mlb/player/_/id/37825
+Carlos Vargas,RP,R,R,23,"6' 4""",210 lbs,"Moca, Dominican Republic",45,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,42504,https://www.espn.com/mlb/player/_/id/42504
+Jose Herrera,C,B,R,26,"5' 10""",217 lbs,"San Carlos, Venezuela",11,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,40851,https://www.espn.com/mlb/player/_/id/40851
+Gabriel Moreno,C,R,R,23,"5' 11""",195 lbs,"Barquisimeto, Venezuela",14,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,42464,https://www.espn.com/mlb/player/_/id/42464
+Nick Ahmed,SS,R,R,33,"6' 2""",201 lbs,"East Longmeadow, MA",13,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,32355,https://www.espn.com/mlb/player/_/id/32355
+Evan Longoria,3B,R,R,37,"6' 1""",213 lbs,"Downey, CA",3,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,28639,https://www.espn.com/mlb/player/_/id/28639
+Ketel Marte,2B,B,R,29,"6' 1""",210 lbs,"Nizao, Dominican Republic",4,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,32512,https://www.espn.com/mlb/player/_/id/32512
+Geraldo Perdomo,SS,B,R,23,"6' 2""",203 lbs,"Santo Domingo, Dominican Republic",2,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,41355,https://www.espn.com/mlb/player/_/id/41355
+Josh Rojas,3B,L,R,28,"6' 1""",207 lbs,"Litchfield Park, AZ",10,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,40718,https://www.espn.com/mlb/player/_/id/40718
+Christian Walker,1B,R,R,32,"6' 0""",208 lbs,"Norristown, PA",53,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,32758,https://www.espn.com/mlb/player/_/id/32758
+Corbin Carroll,CF,L,L,22,"5' 10""",165 lbs,"Seattle, WA",7,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,42404,https://www.espn.com/mlb/player/_/id/42404
+Lourdes Gurriel Jr.,LF,R,R,29,"6' 4""",215 lbs,"Sancti Spíritus, Cuba",12,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,36040,https://www.espn.com/mlb/player/_/id/36040
+Kyle Lewis,LF,R,R,27,"6' 4""",222 lbs,"Snellville, GA",1,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,36188,https://www.espn.com/mlb/player/_/id/36188
+Jake McCarthy,RF,L,L,25,"6' 2""",215 lbs,"Scranton, PA",31,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,41197,https://www.espn.com/mlb/player/_/id/41197
+Alek Thomas,CF,L,L,22,"5' 11""",175 lbs,"Chicago, IL",5,ari,arizona-diamondbacks,2023-04-06T20:20:23Z,41215,https://www.espn.com/mlb/player/_/id/41215
+Nick Anderson,RP,R,R,32,"6' 4""",205 lbs,"Crosby, MN",61,atl,atlanta-braves,2023-04-06T20:20:23Z,38102,https://www.espn.com/mlb/player/_/id/38102
+Jesse Chavez,RP,R,R,39,"6' 1""",175 lbs,"San Gabriel, CA",60,atl,atlanta-braves,2023-04-06T20:20:23Z,29220,https://www.espn.com/mlb/player/_/id/29220
+Dylan Dodd,SP,L,L,24,"6' 2""",210 lbs,"Danville, IL",46,atl,atlanta-braves,2023-04-06T20:20:23Z,4416462,https://www.espn.com/mlb/player/_/id/4416462
+Bryce Elder,SP,R,R,23,"6' 2""",220 lbs,"Decatur, TX",55,atl,atlanta-braves,2023-04-06T20:20:23Z,4301067,https://www.espn.com/mlb/player/_/id/4301067
+Joe Jimenez,RP,R,R,28,"6' 3""",277 lbs,"San Juan, Puerto Rico",77,atl,atlanta-braves,2023-04-06T20:20:23Z,33760,https://www.espn.com/mlb/player/_/id/33760
+Dylan Lee,RP,L,L,28,"6' 3""",214 lbs,"Dinuba, CA",52,atl,atlanta-braves,2023-04-06T20:20:23Z,41455,https://www.espn.com/mlb/player/_/id/41455
+Lucas Luetge,RP,L,L,36,"6' 4""",205 lbs,"Brenham, TX",63,atl,atlanta-braves,2023-04-06T20:20:23Z,32030,https://www.espn.com/mlb/player/_/id/32030
+A.J. Minter,RP,L,L,29,"6' 0""",215 lbs,"Tyler, TX",33,atl,atlanta-braves,2023-04-06T20:20:23Z,36133,https://www.espn.com/mlb/player/_/id/36133
+Charlie Morton,SP,R,R,39,"6' 5""",215 lbs,"Flemington, NJ",50,atl,atlanta-braves,2023-04-06T20:20:23Z,29155,https://www.espn.com/mlb/player/_/id/29155
+Jared Shuster,SP,L,L,24,"6' 3""",210 lbs,"New Bedford, MA",45,atl,atlanta-braves,2023-04-06T20:20:23Z,4623366,https://www.espn.com/mlb/player/_/id/4623366
+Spencer Strider,SP,R,R,24,"6' 0""",195 lbs,"Columbus, OH",99,atl,atlanta-braves,2023-04-06T20:20:23Z,4307825,https://www.espn.com/mlb/player/_/id/4307825
+Michael Tonkin,RP,R,R,33,"6' 7""",220 lbs,"Glendale, CA",51,atl,atlanta-braves,2023-04-06T20:20:23Z,32594,https://www.espn.com/mlb/player/_/id/32594
+Kirby Yates,RP,L,R,36,"5' 10""",205 lbs,"Lihue, HI",22,atl,atlanta-braves,2023-04-06T20:20:23Z,32623,https://www.espn.com/mlb/player/_/id/32623
+Travis d'Arnaud,C,R,R,34,"6' 2""",210 lbs,"Long Beach, CA",16,atl,atlanta-braves,2023-04-06T20:20:23Z,29951,https://www.espn.com/mlb/player/_/id/29951
+Sean Murphy,C,R,R,28,"6' 3""",228 lbs,"Peekskill, NY",12,atl,atlanta-braves,2023-04-06T20:20:23Z,33557,https://www.espn.com/mlb/player/_/id/33557
+Ehire Adrianza,2B,B,R,33,"6' 1""",198 lbs,"Guarenas, Venezuela",9,atl,atlanta-braves,2023-04-06T20:20:23Z,30471,https://www.espn.com/mlb/player/_/id/30471
+Ozzie Albies,2B,B,R,26,"5' 8""",165 lbs,"Willemstad, Curacao",1,atl,atlanta-braves,2023-04-06T20:20:23Z,33783,https://www.espn.com/mlb/player/_/id/33783
+Orlando Arcia,SS,R,R,28,"6' 0""",187 lbs,"Anaco, Venezuela",11,atl,atlanta-braves,2023-04-06T20:20:23Z,32530,https://www.espn.com/mlb/player/_/id/32530
+Matt Olson,1B,L,R,29,"6' 5""",225 lbs,"Atlanta, GA",28,atl,atlanta-braves,2023-04-06T20:20:23Z,32767,https://www.espn.com/mlb/player/_/id/32767
+Austin Riley,3B,R,R,26,"6' 3""",240 lbs,"Memphis, TN",27,atl,atlanta-braves,2023-04-06T20:20:23Z,34982,https://www.espn.com/mlb/player/_/id/34982
+Ronald Acuna Jr.,RF,R,R,25,"6' 0""",205 lbs,"La Guaira, Venezuela",13,atl,atlanta-braves,2023-04-06T20:20:23Z,36185,https://www.espn.com/mlb/player/_/id/36185
+Michael Harris II,CF,L,L,22,"6' 0""",195 lbs,"DeKalb, GA",23,atl,atlanta-braves,2023-04-06T20:20:23Z,42470,https://www.espn.com/mlb/player/_/id/42470
+Sam Hilliard,CF,L,L,29,"6' 5""",236 lbs,"Mansfield, TX",14,atl,atlanta-braves,2023-04-06T20:20:23Z,35831,https://www.espn.com/mlb/player/_/id/35831
+Marcell Ozuna,LF,R,R,32,"6' 1""",225 lbs,"Santo Domingo, Dominican Republic",20,atl,atlanta-braves,2023-04-06T20:20:23Z,31668,https://www.espn.com/mlb/player/_/id/31668
+Kevin Pillar,LF,R,R,34,"6' 0""",200 lbs,"West Hills, CA",17,atl,atlanta-braves,2023-04-06T20:20:23Z,32859,https://www.espn.com/mlb/player/_/id/32859
+Eddie Rosario,LF,L,R,31,"6' 1""",180 lbs,"Guayama, Puerto Rico",8,atl,atlanta-braves,2023-04-06T20:20:23Z,31944,https://www.espn.com/mlb/player/_/id/31944
+Keegan Akin,RP,L,L,28,"6' 0""",240 lbs,"Alma, MI",45,bal,baltimore-orioles,2023-04-06T20:20:23Z,36724,https://www.espn.com/mlb/player/_/id/36724
+Bryan Baker,RP,R,R,28,"6' 6""",235 lbs,"Fort Walton Beach, FL",43,bal,baltimore-orioles,2023-04-06T20:20:23Z,40884,https://www.espn.com/mlb/player/_/id/40884
+Mike Baumann,SP,R,R,27,"6' 4""",240 lbs,"Mahtomedi, MN",53,bal,baltimore-orioles,2023-04-06T20:20:23Z,40543,https://www.espn.com/mlb/player/_/id/40543
+Felix Bautista,RP,R,R,27,"6' 8""",285 lbs,"Santo Domingo, Dominican Republic",74,bal,baltimore-orioles,2023-04-06T20:20:23Z,4905859,https://www.espn.com/mlb/player/_/id/4905859
+Danny Coulombe,RP,L,L,33,"5' 10""",190 lbs,"St. Louis, MO",54,bal,baltimore-orioles,2023-04-06T20:20:23Z,33638,https://www.espn.com/mlb/player/_/id/33638
+Kyle Gibson,SP,R,R,35,"6' 6""",200 lbs,"Greenfield, IN",48,bal,baltimore-orioles,2023-04-06T20:20:23Z,31053,https://www.espn.com/mlb/player/_/id/31053
+Logan Gillaspie,RP,R,R,25,"6' 2""",215 lbs,"Bakersfield, CA",71,bal,baltimore-orioles,2023-04-06T20:20:23Z,4905860,https://www.espn.com/mlb/player/_/id/4905860
+Cole Irvin,SP,L,L,29,"6' 4""",225 lbs,"Anaheim, CA",19,bal,baltimore-orioles,2023-04-06T20:20:23Z,39869,https://www.espn.com/mlb/player/_/id/39869
+Dean Kremer,SP,R,R,27,"6' 2""",210 lbs,"Stockton, CA",64,bal,baltimore-orioles,2023-04-06T20:20:23Z,38295,https://www.espn.com/mlb/player/_/id/38295
+Cionel Perez,RP,R,L,26,"6' 0""",175 lbs,"Matanzas, Cuba",58,bal,baltimore-orioles,2023-04-06T20:20:23Z,36089,https://www.espn.com/mlb/player/_/id/36089
+Grayson Rodriguez,SP,L,R,23,"6' 5""",230 lbs,"Houston, TX",30,bal,baltimore-orioles,2023-04-06T20:20:23Z,41196,https://www.espn.com/mlb/player/_/id/41196
+Austin Voth,SP,R,R,30,"6' 2""",215 lbs,"Redmond, WA",51,bal,baltimore-orioles,2023-04-06T20:20:23Z,35044,https://www.espn.com/mlb/player/_/id/35044
+Tyler Wells,SP,R,R,28,"6' 8""",260 lbs,"Tulsa, OK",68,bal,baltimore-orioles,2023-04-06T20:20:23Z,4717904,https://www.espn.com/mlb/player/_/id/4717904
+Anthony Bemboom,C,L,R,33,"6' 2""",195 lbs,"Saint Cloud, MN",37,bal,baltimore-orioles,2023-04-06T20:20:23Z,34102,https://www.espn.com/mlb/player/_/id/34102
+Adley Rutschman,C,B,R,25,"6' 2""",230 lbs,"Portland, OR",35,bal,baltimore-orioles,2023-04-06T20:20:23Z,42178,https://www.espn.com/mlb/player/_/id/42178
+Adam Frazier,2B,L,R,31,"5' 10""",180 lbs,"Athens, GA",12,bal,baltimore-orioles,2023-04-06T20:20:23Z,33546,https://www.espn.com/mlb/player/_/id/33546
+Gunnar Henderson,SS,L,R,21,"6' 3""",220 lbs,"Montgomery, AL",2,bal,baltimore-orioles,2023-04-06T20:20:23Z,42507,https://www.espn.com/mlb/player/_/id/42507
+Jorge Mateo,SS,R,R,27,"6' 1""",200 lbs,"Santo Domingo, Dominican Republic",3,bal,baltimore-orioles,2023-04-06T20:20:23Z,33832,https://www.espn.com/mlb/player/_/id/33832
+Ryan Mountcastle,1B,R,R,26,"6' 4""",220 lbs,"Winter Springs, FL",6,bal,baltimore-orioles,2023-04-06T20:20:23Z,34940,https://www.espn.com/mlb/player/_/id/34940
+Ramon Urias,3B,R,R,28,"5' 10""",185 lbs,"Sonora, Mexico",29,bal,baltimore-orioles,2023-04-06T20:20:23Z,40610,https://www.espn.com/mlb/player/_/id/40610
+Terrin Vavra,2B,L,R,25,"6' 0""",185 lbs,"Menomonie, WI",23,bal,baltimore-orioles,2023-04-06T20:20:23Z,41099,https://www.espn.com/mlb/player/_/id/41099
+Austin Hays,CF,R,R,27,"5' 11""",200 lbs,"Daytona Beach, FL",21,bal,baltimore-orioles,2023-04-06T20:20:23Z,36928,https://www.espn.com/mlb/player/_/id/36928
+Ryan McKenna,CF,R,R,26,"5' 11""",195 lbs,"Grants Pass, OR",26,bal,baltimore-orioles,2023-04-06T20:20:23Z,39147,https://www.espn.com/mlb/player/_/id/39147
+Cedric Mullins,CF,L,L,28,"5' 9""",175 lbs,"Greensboro, NC",31,bal,baltimore-orioles,2023-04-06T20:20:23Z,35578,https://www.espn.com/mlb/player/_/id/35578
+Anthony Santander,RF,B,R,28,"6' 2""",230 lbs,"Margarita Island, Venezuela",25,bal,baltimore-orioles,2023-04-06T20:20:23Z,36084,https://www.espn.com/mlb/player/_/id/36084
+Kyle Stowers,LF,L,L,25,"6' 3""",215 lbs,"El Cajon, CA",28,bal,baltimore-orioles,2023-04-06T20:20:23Z,42796,https://www.espn.com/mlb/player/_/id/42796
+Richard Bleier,RP,L,L,35,"6' 3""",215 lbs,"Miami Beach, FL",35,bos,boston-red-sox,2023-04-06T20:20:23Z,33513,https://www.espn.com/mlb/player/_/id/33513
+Ryan Brasier,RP,R,R,35,"6' 0""",227 lbs,"Wichita Falls, TX",70,bos,boston-red-sox,2023-04-06T20:20:23Z,30189,https://www.espn.com/mlb/player/_/id/30189
+Kutter Crawford,SP,R,R,27,"6' 1""",209 lbs,"Okeechobee, FL",50,bos,boston-red-sox,2023-04-06T20:20:23Z,41277,https://www.espn.com/mlb/player/_/id/41277
+Tanner Houck,RP,R,R,26,"6' 5""",230 lbs,"St. Louis, MO",89,bos,boston-red-sox,2023-04-06T20:20:23Z,41009,https://www.espn.com/mlb/player/_/id/41009
+Kenley Jansen,RP,B,R,35,"6' 5""",265 lbs,"Willemstad, Curacao",74,bos,boston-red-sox,2023-04-06T20:20:23Z,29630,https://www.espn.com/mlb/player/_/id/29630
+Zack Kelly,RP,R,R,28,"6' 3""",205 lbs,"Roanoke, VA",76,bos,boston-red-sox,2023-04-06T20:20:23Z,41569,https://www.espn.com/mlb/player/_/id/41569
+Corey Kluber,SP,R,R,36,"6' 4""",215 lbs,"Birmingham, AL",28,bos,boston-red-sox,2023-04-06T20:20:23Z,30981,https://www.espn.com/mlb/player/_/id/30981
+Chris Martin,RP,R,R,36,"6' 8""",225 lbs,"Arlington, TX",55,bos,boston-red-sox,2023-04-06T20:20:23Z,32903,https://www.espn.com/mlb/player/_/id/32903
+Kaleb Ort,RP,R,R,31,"6' 4""",240 lbs,"Grand Rapids, MI",61,bos,boston-red-sox,2023-04-06T20:20:23Z,42639,https://www.espn.com/mlb/player/_/id/42639
+Nick Pivetta,SP,R,R,30,"6' 5""",214 lbs,"Victoria, BC",37,bos,boston-red-sox,2023-04-06T20:20:23Z,36071,https://www.espn.com/mlb/player/_/id/36071
+Chris Sale,SP,L,L,34,"6' 6""",183 lbs,"Lakeland, FL",41,bos,boston-red-sox,2023-04-06T20:20:23Z,30948,https://www.espn.com/mlb/player/_/id/30948
+John Schreiber,RP,R,R,29,"6' 2""",210 lbs,"Wyandotte, MI",46,bos,boston-red-sox,2023-04-06T20:20:23Z,39949,https://www.espn.com/mlb/player/_/id/39949
+Josh Winckowski,SP,R,R,24,"6' 4""",202 lbs,"Toledo, OH",25,bos,boston-red-sox,2023-04-06T20:20:23Z,4713488,https://www.espn.com/mlb/player/_/id/4713488
+Reese McGuire,C,L,R,28,"6' 0""",218 lbs,"Seattle, WA",3,bos,boston-red-sox,2023-04-06T20:20:23Z,33250,https://www.espn.com/mlb/player/_/id/33250
+Connor Wong,C,R,R,26,"6' 1""",181 lbs,"Houston, TX",12,bos,boston-red-sox,2023-04-06T20:20:23Z,40086,https://www.espn.com/mlb/player/_/id/40086
+Christian Arroyo,2B,R,R,27,"6' 1""",210 lbs,"Tampa, FL",39,bos,boston-red-sox,2023-04-06T20:20:23Z,33185,https://www.espn.com/mlb/player/_/id/33185
+Triston Casas,1B,L,R,23,"6' 4""",252 lbs,"Miami, FL",36,bos,boston-red-sox,2023-04-06T20:20:23Z,41180,https://www.espn.com/mlb/player/_/id/41180
+Yu Chang,2B,R,R,27,"6' 1""",180 lbs,"Taitung, Taiwan",20,bos,boston-red-sox,2023-04-06T20:20:23Z,33876,https://www.espn.com/mlb/player/_/id/33876
+Rafael Devers,3B,L,R,26,"6' 0""",240 lbs,"Sanchez, Dominican Republic",11,bos,boston-red-sox,2023-04-06T20:20:23Z,33859,https://www.espn.com/mlb/player/_/id/33859
+Enrique Hernandez,SS,R,R,31,"5' 11""",190 lbs,"San Juan, Puerto Rico",5,bos,boston-red-sox,2023-04-06T20:20:23Z,31358,https://www.espn.com/mlb/player/_/id/31358
+Justin Turner,1B,R,R,38,"5' 11""",202 lbs,"Long Beach, CA",2,bos,boston-red-sox,2023-04-06T20:20:23Z,29607,https://www.espn.com/mlb/player/_/id/29607
+Adam Duvall,CF,R,R,34,"6' 1""",215 lbs,"Louisville, KY",18,bos,boston-red-sox,2023-04-06T20:20:23Z,32664,https://www.espn.com/mlb/player/_/id/32664
+Rob Refsnyder,RF,R,R,32,"6' 0""",205 lbs,"Seoul, South Korea",30,bos,boston-red-sox,2023-04-06T20:20:23Z,33411,https://www.espn.com/mlb/player/_/id/33411
+Raimel Tapia,LF,L,L,29,"6' 3""",175 lbs,"San Pedro de Macoris, Dominican Republic",17,bos,boston-red-sox,2023-04-06T20:20:23Z,33264,https://www.espn.com/mlb/player/_/id/33264
+Alex Verdugo,RF,L,L,26,"6' 0""",192 lbs,"Tucson, AZ",99,bos,boston-red-sox,2023-04-06T20:20:23Z,33786,https://www.espn.com/mlb/player/_/id/33786
+Masataka Yoshida,LF,L,R,29,"5' 8""",176 lbs,"Fukui, Japan",7,bos,boston-red-sox,2023-04-06T20:20:23Z,4872598,https://www.espn.com/mlb/player/_/id/4872598
+Adbert Alzolay,SP,R,R,28,"6' 1""",208 lbs,"San Felix, Venezuela",73,chc,chicago-cubs,2023-04-06T20:20:23Z,39802,https://www.espn.com/mlb/player/_/id/39802
+Javier Assad,SP,R,R,25,"6' 1""",200 lbs,"Tijuana, Mexico",72,chc,chicago-cubs,2023-04-06T20:20:23Z,5002950,https://www.espn.com/mlb/player/_/id/5002950
+Brad Boxberger,RP,R,R,34,"5' 10""",211 lbs,"Fullerton, CA",25,chc,chicago-cubs,2023-04-06T20:20:23Z,31495,https://www.espn.com/mlb/player/_/id/31495
+Michael Fulmer,RP,R,R,30,"6' 3""",224 lbs,"Oklahoma City, OK",32,chc,chicago-cubs,2023-04-06T20:20:23Z,34842,https://www.espn.com/mlb/player/_/id/34842
+Mark Leiter Jr.,RP,R,R,32,"6' 0""",210 lbs,"Fort Lauderdale, FL",38,chc,chicago-cubs,2023-04-06T20:20:23Z,36202,https://www.espn.com/mlb/player/_/id/36202
+Julian Merryweather,RP,R,R,31,"6' 4""",215 lbs,"Berkeley, CA",66,chc,chicago-cubs,2023-04-06T20:20:23Z,39816,https://www.espn.com/mlb/player/_/id/39816
+Michael Rucker,RP,R,R,28,"6' 1""",195 lbs,"Columbus, MS",59,chc,chicago-cubs,2023-04-06T20:20:23Z,40996,https://www.espn.com/mlb/player/_/id/40996
+Drew Smyly,SP,L,L,33,"6' 2""",188 lbs,"Little Rock, AR",11,chc,chicago-cubs,2023-04-06T20:20:23Z,31816,https://www.espn.com/mlb/player/_/id/31816
+Justin Steele,SP,L,L,27,"6' 2""",205 lbs,"Lucedale, MS",35,chc,chicago-cubs,2023-04-06T20:20:23Z,41022,https://www.espn.com/mlb/player/_/id/41022
+Marcus Stroman,SP,R,R,31,"5' 7""",180 lbs,"Medford, NY",0,chc,chicago-cubs,2023-04-06T20:20:23Z,32815,https://www.espn.com/mlb/player/_/id/32815
+Jameson Taillon,SP,R,R,31,"6' 5""",230 lbs,"Lakeland, FL",50,chc,chicago-cubs,2023-04-06T20:20:23Z,31258,https://www.espn.com/mlb/player/_/id/31258
+Keegan Thompson,SP,R,R,28,"6' 1""",210 lbs,"Cullman, AL",71,chc,chicago-cubs,2023-04-06T20:20:23Z,41086,https://www.espn.com/mlb/player/_/id/41086
+Hayden Wesneski,SP,R,R,25,"6' 3""",210 lbs,"Houston, TX",19,chc,chicago-cubs,2023-04-06T20:20:23Z,42996,https://www.espn.com/mlb/player/_/id/42996
+Tucker Barnhart,C,L,R,32,"5' 11""",192 lbs,"Indianapolis, IN",18,chc,chicago-cubs,2023-04-06T20:20:23Z,31173,https://www.espn.com/mlb/player/_/id/31173
+Yan Gomes,C,R,R,35,"6' 2""",212 lbs,"Sao Paulo, Brazil",15,chc,chicago-cubs,2023-04-06T20:20:23Z,32108,https://www.espn.com/mlb/player/_/id/32108
+Luis Torrens,C,R,R,26,"6' 0""",217 lbs,"Valencia, Venezuela",22,chc,chicago-cubs,2023-04-06T20:20:23Z,33805,https://www.espn.com/mlb/player/_/id/33805
+Nico Hoerner,2B,R,R,25,"6' 1""",200 lbs,"Oakland, CA",2,chc,chicago-cubs,2023-04-06T20:20:23Z,41219,https://www.espn.com/mlb/player/_/id/41219
+Eric Hosmer,1B,L,L,33,"6' 4""",226 lbs,"South Miami, FL",51,chc,chicago-cubs,2023-04-06T20:20:23Z,30993,https://www.espn.com/mlb/player/_/id/30993
+Nick Madrigal,3B,R,R,26,"5' 8""",175 lbs,"Sacramento, CA",1,chc,chicago-cubs,2023-04-06T20:20:23Z,41170,https://www.espn.com/mlb/player/_/id/41170
+Trey Mancini,1B,R,R,31,"6' 3""",230 lbs,"Winter Haven, FL",36,chc,chicago-cubs,2023-04-06T20:20:23Z,33351,https://www.espn.com/mlb/player/_/id/33351
+Miles Mastrobuoni,SS,L,R,27,"5' 11""",185 lbs,"San Ramon, CA",20,chc,chicago-cubs,2023-04-06T20:20:23Z,40900,https://www.espn.com/mlb/player/_/id/40900
+Edwin Rios,3B,L,R,28,"6' 3""",220 lbs,"Caguas, Puerto Rico",30,chc,chicago-cubs,2023-04-06T20:20:23Z,36645,https://www.espn.com/mlb/player/_/id/36645
+Dansby Swanson,SS,R,R,29,"6' 1""",190 lbs,"Kennesaw, GA",7,chc,chicago-cubs,2023-04-06T20:20:23Z,34895,https://www.espn.com/mlb/player/_/id/34895
+Patrick Wisdom,3B,R,R,31,"6' 2""",220 lbs,"Murrieta, CA",16,chc,chicago-cubs,2023-04-06T20:20:23Z,32861,https://www.espn.com/mlb/player/_/id/32861
+Cody Bellinger,CF,L,L,27,"6' 4""",203 lbs,"Scottsdale, AZ",24,chc,chicago-cubs,2023-04-06T20:20:23Z,33912,https://www.espn.com/mlb/player/_/id/33912
+Ian Happ,LF,B,R,28,"6' 0""",205 lbs,"Pittsburgh, PA",8,chc,chicago-cubs,2023-04-06T20:20:23Z,34945,https://www.espn.com/mlb/player/_/id/34945
+Aaron Bummer,RP,L,L,29,"6' 3""",215 lbs,"Valencia, CA",39,chw,chicago-white-sox,2023-04-06T20:20:23Z,36131,https://www.espn.com/mlb/player/_/id/36131
+Dylan Cease,SP,R,R,27,"6' 2""",195 lbs,"Milton, GA",84,chw,chicago-white-sox,2023-04-06T20:20:23Z,34943,https://www.espn.com/mlb/player/_/id/34943
+Mike Clevinger,SP,R,R,32,"6' 4""",215 lbs,"Jacksonville, FL",52,chw,chicago-white-sox,2023-04-06T20:20:23Z,32769,https://www.espn.com/mlb/player/_/id/32769
+Jake Diekman,RP,R,L,36,"6' 4""",195 lbs,"Wymore, NE",55,chw,chicago-white-sox,2023-04-06T20:20:23Z,32178,https://www.espn.com/mlb/player/_/id/32178
+Lucas Giolito,SP,R,R,28,"6' 6""",245 lbs,"Santa Monica, CA",27,chw,chicago-white-sox,2023-04-06T20:20:23Z,32697,https://www.espn.com/mlb/player/_/id/32697
+Kendall Graveman,RP,R,R,32,"6' 2""",200 lbs,"Alexander City, AL",49,chw,chicago-white-sox,2023-04-06T20:20:23Z,33636,https://www.espn.com/mlb/player/_/id/33636
+Joe Kelly,RP,R,R,34,"6' 1""",174 lbs,"Anaheim, CA",17,chw,chicago-white-sox,2023-04-06T20:20:23Z,31992,https://www.espn.com/mlb/player/_/id/31992
+Michael Kopech,SP,R,R,26,"6' 3""",210 lbs,"Longview, TX",34,chw,chicago-white-sox,2023-04-06T20:20:23Z,33763,https://www.espn.com/mlb/player/_/id/33763
+Jimmy Lambert,RP,R,R,28,"6' 2""",190 lbs,"Arcadia, CA",58,chw,chicago-white-sox,2023-04-06T20:20:23Z,41389,https://www.espn.com/mlb/player/_/id/41389
+Reynaldo Lopez,RP,R,R,29,"6' 1""",225 lbs,"San Pedro de Macoris, Dominican Republic",40,chw,chicago-white-sox,2023-04-06T20:20:23Z,33860,https://www.espn.com/mlb/player/_/id/33860
+Lance Lynn,SP,B,R,35,"6' 5""",270 lbs,"Marion, IN",33,chw,chicago-white-sox,2023-04-06T20:20:23Z,30820,https://www.espn.com/mlb/player/_/id/30820
+Jose Ruiz,RP,R,R,28,"6' 1""",245 lbs,"Guacara, Venezuela",66,chw,chicago-white-sox,2023-04-06T20:20:23Z,36053,https://www.espn.com/mlb/player/_/id/36053
+Gregory Santos,RP,R,R,23,"6' 2""",190 lbs,"San Cristobal, Dominican Republic",60,chw,chicago-white-sox,2023-04-06T20:20:23Z,39682,https://www.espn.com/mlb/player/_/id/39682
+Yasmani Grandal,C,B,R,34,"6' 2""",225 lbs,"Havana, Cuba",24,chw,chicago-white-sox,2023-04-06T20:20:23Z,30950,https://www.espn.com/mlb/player/_/id/30950
+Seby Zavala,C,R,R,29,"5' 11""",205 lbs,"Fort Hood, TX",44,chw,chicago-white-sox,2023-04-06T20:20:23Z,37919,https://www.espn.com/mlb/player/_/id/37919
+Hanser Alberto,SS,R,R,30,"5' 11""",215 lbs,"San Francisco de Macoris, Dominican Republic",26,chw,chicago-white-sox,2023-04-06T20:20:23Z,32839,https://www.espn.com/mlb/player/_/id/32839
+Tim Anderson,SS,R,R,29,"6' 1""",185 lbs,"Tuscaloosa, AL",7,chw,chicago-white-sox,2023-04-06T20:20:23Z,33184,https://www.espn.com/mlb/player/_/id/33184
+Elvis Andrus,2B,R,R,34,"6' 0""",210 lbs,"Maracay, Venezuela",1,chw,chicago-white-sox,2023-04-06T20:20:23Z,29515,https://www.espn.com/mlb/player/_/id/29515
+Jake Burger,1B,R,R,26,"6' 2""",230 lbs,"St. Louis, MO",30,chw,chicago-white-sox,2023-04-06T20:20:23Z,39882,https://www.espn.com/mlb/player/_/id/39882
+Romy Gonzalez,2B,R,R,26,"6' 1""",215 lbs,"Miami, FL",12,chw,chicago-white-sox,2023-04-06T20:20:23Z,42826,https://www.espn.com/mlb/player/_/id/42826
+Yoan Moncada,3B,B,R,27,"6' 2""",225 lbs,"Cienfuegos, Cuba",10,chw,chicago-white-sox,2023-04-06T20:20:23Z,33984,https://www.espn.com/mlb/player/_/id/33984
+Gavin Sheets,1B,L,L,26,"6' 5""",230 lbs,"Lutherville, MD",32,chw,chicago-white-sox,2023-04-06T20:20:23Z,40700,https://www.espn.com/mlb/player/_/id/40700
+Andrew Vaughn,1B,R,R,25,"6' 0""",215 lbs,"Santa Rosa, CA",25,chw,chicago-white-sox,2023-04-06T20:20:23Z,42394,https://www.espn.com/mlb/player/_/id/42394
+Andrew Benintendi,LF,L,L,28,"5' 9""",180 lbs,"Cincinnati, OH",23,chw,chicago-white-sox,2023-04-06T20:20:23Z,34986,https://www.espn.com/mlb/player/_/id/34986
+Oscar Colas,RF,L,L,24,"5' 11""",209 lbs,"Santiago de Cuba, Cuba",22,chw,chicago-white-sox,2023-04-06T20:20:23Z,4987420,https://www.espn.com/mlb/player/_/id/4987420
+Luis Robert Jr.,CF,R,R,25,"6' 2""",220 lbs,"Havana, Cuba",88,chw,chicago-white-sox,2023-04-06T20:20:23Z,39631,https://www.espn.com/mlb/player/_/id/39631
+Graham Ashcraft,SP,L,R,25,"6' 2""",248 lbs,"Huntsville, AL",51,cin,cincinnati-reds,2023-04-06T20:20:23Z,4084179,https://www.espn.com/mlb/player/_/id/4084179
+Luis Cessa,RP,R,R,30,"6' 0""",222 lbs,"Cordoba, Mexico",85,cin,cincinnati-reds,2023-04-06T20:20:23Z,34837,https://www.espn.com/mlb/player/_/id/34837
+Fernando Cruz,SP,R,R,33,"6' 2""",237 lbs,"Bayamon, Puerto Rico",63,cin,cincinnati-reds,2023-04-06T20:20:23Z,34068,https://www.espn.com/mlb/player/_/id/34068
+Alexis Diaz,RP,R,R,26,"6' 2""",224 lbs,"Humacao, Puerto Rico",43,cin,cincinnati-reds,2023-04-06T20:20:23Z,4905920,https://www.espn.com/mlb/player/_/id/4905920
+Buck Farmer,RP,L,R,32,"6' 4""",243 lbs,"Conyers, GA",46,cin,cincinnati-reds,2023-04-06T20:20:23Z,33627,https://www.espn.com/mlb/player/_/id/33627
+Ian Gibaut,RP,R,R,29,"6' 3""",250 lbs,"Houston, TX",79,cin,cincinnati-reds,2023-04-06T20:20:23Z,37979,https://www.espn.com/mlb/player/_/id/37979
+Hunter Greene,SP,R,R,23,"6' 5""",242 lbs,"Los Angeles, CA",21,cin,cincinnati-reds,2023-04-06T20:20:23Z,39635,https://www.espn.com/mlb/player/_/id/39635
+Kevin Herget,RP,L,R,32,"5' 10""",185 lbs,"Teaneck, NJ",57,cin,cincinnati-reds,2023-04-06T20:20:23Z,38314,https://www.espn.com/mlb/player/_/id/38314
+Derek Law,RP,R,R,32,"6' 3""",225 lbs,"Pittsburgh, PA",47,cin,cincinnati-reds,2023-04-06T20:20:23Z,33139,https://www.espn.com/mlb/player/_/id/33139
+Nick Lodolo,SP,L,L,25,"6' 6""",216 lbs,"La Verne, CA",40,cin,cincinnati-reds,2023-04-06T20:20:23Z,42433,https://www.espn.com/mlb/player/_/id/42433
+Connor Overton,SP,L,R,29,"6' 0""",205 lbs,"Richmond, VA",71,cin,cincinnati-reds,2023-04-06T20:20:23Z,42972,https://www.espn.com/mlb/player/_/id/42972
+Reiver Sanmartin,RP,L,L,26,"6' 2""",160 lbs,"Cartagena, Colombia",52,cin,cincinnati-reds,2023-04-06T20:20:23Z,39799,https://www.espn.com/mlb/player/_/id/39799
+Alex Young,RP,L,L,29,"6' 3""",220 lbs,"Westlake, OH",48,cin,cincinnati-reds,2023-04-06T20:20:23Z,34972,https://www.espn.com/mlb/player/_/id/34972
+Curt Casali,C,R,R,34,"6' 2""",220 lbs,"Walnut Creek, CA",12,cin,cincinnati-reds,2023-04-06T20:20:23Z,32049,https://www.espn.com/mlb/player/_/id/32049
+Luke Maile,C,R,R,32,"6' 3""",225 lbs,"Edgewood, KY",22,cin,cincinnati-reds,2023-04-06T20:20:23Z,33271,https://www.espn.com/mlb/player/_/id/33271
+Tyler Stephenson,C,R,R,26,"6' 4""",225 lbs,"Atlanta, GA",37,cin,cincinnati-reds,2023-04-06T20:20:23Z,34975,https://www.espn.com/mlb/player/_/id/34975
+Jose Barrero,SS,R,R,25,"6' 2""",211 lbs,"Havana, Cuba",2,cin,cincinnati-reds,2023-04-06T20:20:23Z,40951,https://www.espn.com/mlb/player/_/id/40951
+Jonathan India,2B,R,R,26,"6' 0""",200 lbs,"Coral Springs, FL",6,cin,cincinnati-reds,2023-04-06T20:20:23Z,41171,https://www.espn.com/mlb/player/_/id/41171
+Kevin Newman,SS,R,R,29,"6' 1""",195 lbs,"Poway, CA",28,cin,cincinnati-reds,2023-04-06T20:20:23Z,35022,https://www.espn.com/mlb/player/_/id/35022
+Spencer Steer,3B,R,R,25,"5' 11""",185 lbs,"Long Beach, CA",7,cin,cincinnati-reds,2023-04-06T20:20:23Z,4722857,https://www.espn.com/mlb/player/_/id/4722857
+Jason Vosler,3B,L,R,29,"6' 1""",220 lbs,"West Nyack, NY",32,cin,cincinnati-reds,2023-04-06T20:20:23Z,35159,https://www.espn.com/mlb/player/_/id/35159
+Will Benson,CF,L,L,24,"6' 5""",230 lbs,"Atlanta, GA",30,cin,cincinnati-reds,2023-04-06T20:20:23Z,39216,https://www.espn.com/mlb/player/_/id/39216
+Stuart Fairchild,LF,R,R,27,"6' 0""",205 lbs,"Seattle, WA",17,cin,cincinnati-reds,2023-04-06T20:20:23Z,40346,https://www.espn.com/mlb/player/_/id/40346
+Jake Fraley,LF,L,L,27,"6' 0""",206 lbs,"Frederick, MD",27,cin,cincinnati-reds,2023-04-06T20:20:23Z,37974,https://www.espn.com/mlb/player/_/id/37974
+TJ Friedl,CF,L,L,27,"5' 10""",180 lbs,"Sewickley, PA",29,cin,cincinnati-reds,2023-04-06T20:20:23Z,36020,https://www.espn.com/mlb/player/_/id/36020
+Wil Myers,RF,R,R,32,"6' 3""",207 lbs,"Thomasville, NC",4,cin,cincinnati-reds,2023-04-06T20:20:23Z,31265,https://www.espn.com/mlb/player/_/id/31265
+Shane Bieber,SP,R,R,27,"6' 3""",200 lbs,"Orange, CA",57,cle,cleveland-guardians,2023-04-06T20:20:23Z,40912,https://www.espn.com/mlb/player/_/id/40912
+Aaron Civale,SP,R,R,27,"6' 2""",215 lbs,"East Windsor, CT",43,cle,cleveland-guardians,2023-04-06T20:20:23Z,40934,https://www.espn.com/mlb/player/_/id/40934
+Emmanuel Clase,RP,R,R,25,"6' 2""",206 lbs,"Rio San Juan, Dominican Republic",48,cle,cleveland-guardians,2023-04-06T20:20:23Z,41743,https://www.espn.com/mlb/player/_/id/41743
+Xzavion Curry,SP,R,R,24,"6' 0""",195 lbs,"Orangeburg, SC",44,cle,cleveland-guardians,2023-04-06T20:20:23Z,4204524,https://www.espn.com/mlb/player/_/id/4204524
+Enyel De Los Santos,RP,R,R,27,"6' 3""",235 lbs,"San Pedro de Macoris, Dominican Republic",62,cle,cleveland-guardians,2023-04-06T20:20:23Z,35026,https://www.espn.com/mlb/player/_/id/35026
+Hunter Gaddis,SP,R,R,24,"6' 6""",260 lbs,"Canton, GA",33,cle,cleveland-guardians,2023-04-06T20:20:23Z,4187661,https://www.espn.com/mlb/player/_/id/4187661
+Tim Herrin,RP,L,L,26,"6' 6""",230 lbs,"Terre Haute, IN",29,cle,cleveland-guardians,2023-04-06T20:20:23Z,4228579,https://www.espn.com/mlb/player/_/id/4228579
+James Karinchak,RP,R,R,27,"6' 3""",215 lbs,"Newburgh, NY",99,cle,cleveland-guardians,2023-04-06T20:20:23Z,40715,https://www.espn.com/mlb/player/_/id/40715
+Eli Morgan,RP,R,R,26,"5' 10""",190 lbs,"Rancho Palos Verdes, CA",49,cle,cleveland-guardians,2023-04-06T20:20:23Z,41324,https://www.espn.com/mlb/player/_/id/41324
+Zach Plesac,SP,R,R,28,"6' 3""",220 lbs,"Crown Point, IN",34,cle,cleveland-guardians,2023-04-06T20:20:23Z,42169,https://www.espn.com/mlb/player/_/id/42169
+Cal Quantrill,SP,L,R,28,"6' 3""",195 lbs,"Port Hope, ON",47,cle,cleveland-guardians,2023-04-06T20:20:23Z,39875,https://www.espn.com/mlb/player/_/id/39875
+Nick Sandlin,RP,R,R,26,"5' 11""",175 lbs,"Evans, GA",52,cle,cleveland-guardians,2023-04-06T20:20:23Z,41385,https://www.espn.com/mlb/player/_/id/41385
+Trevor Stephan,RP,R,R,27,"6' 5""",225 lbs,"Magnolia, TX",37,cle,cleveland-guardians,2023-04-06T20:20:23Z,41003,https://www.espn.com/mlb/player/_/id/41003
+Cam Gallagher,C,R,R,30,"6' 3""",230 lbs,"Lancaster, PA",35,cle,cleveland-guardians,2023-04-06T20:20:23Z,33698,https://www.espn.com/mlb/player/_/id/33698
+Meibrys Viloria,C,L,R,26,"5' 11""",225 lbs,"Cartagena, Colombia",46,cle,cleveland-guardians,2023-04-06T20:20:23Z,39810,https://www.espn.com/mlb/player/_/id/39810
+Mike Zunino,C,R,R,32,"6' 2""",235 lbs,"Cape Coral, FL",10,cle,cleveland-guardians,2023-04-06T20:20:23Z,32657,https://www.espn.com/mlb/player/_/id/32657
+Gabriel Arias,2B,R,R,23,"6' 1""",217 lbs,"La Victoria, Venezuela",13,cle,cleveland-guardians,2023-04-06T20:20:23Z,40344,https://www.espn.com/mlb/player/_/id/40344
+Josh Bell,1B,B,R,30,"6' 4""",261 lbs,"Irving, TX",55,cle,cleveland-guardians,2023-04-06T20:20:23Z,32517,https://www.espn.com/mlb/player/_/id/32517
+Andres Gimenez,2B,L,R,24,"5' 11""",161 lbs,"Barquisimeto, Venezuela",0,cle,cleveland-guardians,2023-04-06T20:20:23Z,37729,https://www.espn.com/mlb/player/_/id/37729
+Josh Naylor,1B,L,L,25,"5' 11""",250 lbs,"Mississauga, ON",22,cle,cleveland-guardians,2023-04-06T20:20:23Z,35066,https://www.espn.com/mlb/player/_/id/35066
+Jose Ramirez,3B,B,R,30,"5' 9""",190 lbs,"Bani, Dominican Republic",11,cle,cleveland-guardians,2023-04-06T20:20:23Z,32801,https://www.espn.com/mlb/player/_/id/32801
+Amed Rosario,SS,R,R,27,"6' 2""",190 lbs,"Santo Domingo, Dominican Republic",1,cle,cleveland-guardians,2023-04-06T20:20:23Z,33215,https://www.espn.com/mlb/player/_/id/33215
+Will Brennan,RF,L,L,25,"6' 0""",200 lbs,"Colorado Springs, CO",17,cle,cleveland-guardians,2023-04-06T20:20:23Z,4088296,https://www.espn.com/mlb/player/_/id/4088296
+Oscar Gonzalez,RF,R,R,25,"6' 4""",240 lbs,"Sabana Grande de Palenque, Dominican Republic",39,cle,cleveland-guardians,2023-04-06T20:20:23Z,39400,https://www.espn.com/mlb/player/_/id/39400
+Steven Kwan,LF,L,L,25,"5' 9""",170 lbs,"Los Gatos, CA",38,cle,cleveland-guardians,2023-04-06T20:20:23Z,41996,https://www.espn.com/mlb/player/_/id/41996
+Myles Straw,CF,R,R,28,"5' 10""",178 lbs,"Garden Grove, CA",7,cle,cleveland-guardians,2023-04-06T20:20:23Z,39105,https://www.espn.com/mlb/player/_/id/39105
+Jake Bird,RP,R,R,27,"6' 3""",200 lbs,"Newhall, CA",59,col,colorado-rockies,2023-04-06T20:20:23Z,3459223,https://www.espn.com/mlb/player/_/id/3459223
+Ty Blach,RP,R,L,32,"6' 1""",215 lbs,"Denver, CO",50,col,colorado-rockies,2023-04-06T20:20:23Z,33138,https://www.espn.com/mlb/player/_/id/33138
+Ryan Feltner,SP,R,R,26,"6' 4""",190 lbs,"Orlando, FL",18,col,colorado-rockies,2023-04-06T20:20:23Z,4019484,https://www.espn.com/mlb/player/_/id/4019484
+Kyle Freeland,SP,L,L,29,"6' 4""",204 lbs,"Denver, CO",21,col,colorado-rockies,2023-04-06T20:20:23Z,33839,https://www.espn.com/mlb/player/_/id/33839
+Austin Gomber,SP,L,L,29,"6' 5""",220 lbs,"Winter Garden, FL",26,col,colorado-rockies,2023-04-06T20:20:23Z,34897,https://www.espn.com/mlb/player/_/id/34897
+Brad Hand,RP,L,L,33,"6' 3""",224 lbs,"Minneapolis, MN",55,col,colorado-rockies,2023-04-06T20:20:23Z,31077,https://www.espn.com/mlb/player/_/id/31077
+Pierce Johnson,RP,R,R,31,"6' 2""",202 lbs,"Denver, CO",36,col,colorado-rockies,2023-04-06T20:20:23Z,32777,https://www.espn.com/mlb/player/_/id/32777
+Dinelson Lamet,RP,R,R,30,"6' 3""",228 lbs,"Santiago, Dominican Republic",32,col,colorado-rockies,2023-04-06T20:20:23Z,36157,https://www.espn.com/mlb/player/_/id/36157
+Justin Lawrence,RP,R,R,28,"6' 3""",213 lbs,"Panama City, Panama",61,col,colorado-rockies,2023-04-06T20:20:23Z,41310,https://www.espn.com/mlb/player/_/id/41310
+German Marquez,SP,R,R,28,"6' 1""",230 lbs,"San Felix, Venezuela",48,col,colorado-rockies,2023-04-06T20:20:23Z,34874,https://www.espn.com/mlb/player/_/id/34874
+Connor Seabold,SP,R,R,27,"6' 2""",190 lbs,"Laguna Hills, CA",43,col,colorado-rockies,2023-04-06T20:20:23Z,41367,https://www.espn.com/mlb/player/_/id/41367
+Brent Suter,RP,L,L,33,"6' 4""",213 lbs,"Chicago, IL",39,col,colorado-rockies,2023-04-06T20:20:23Z,36023,https://www.espn.com/mlb/player/_/id/36023
+Jose Urena,SP,R,R,31,"6' 2""",208 lbs,"Santo Domingo, Dominican Republic",51,col,colorado-rockies,2023-04-06T20:20:23Z,33107,https://www.espn.com/mlb/player/_/id/33107
+Elias Diaz,C,R,R,32,"6' 1""",223 lbs,"Maracaibo, Venezuela",35,col,colorado-rockies,2023-04-06T20:20:23Z,33594,https://www.espn.com/mlb/player/_/id/33594
+Brian Serven,C,R,R,27,"6' 0""",207 lbs,"Palm Desert, CA",6,col,colorado-rockies,2023-04-06T20:20:23Z,41441,https://www.espn.com/mlb/player/_/id/41441
+C.J. Cron,1B,R,R,33,"6' 4""",235 lbs,"Fullerton, CA",25,col,colorado-rockies,2023-04-06T20:20:23Z,32155,https://www.espn.com/mlb/player/_/id/32155
+Ryan McMahon,2B,L,R,28,"6' 2""",219 lbs,"Yorba Linda, CA",24,col,colorado-rockies,2023-04-06T20:20:23Z,33247,https://www.espn.com/mlb/player/_/id/33247
+Elehuris Montero,3B,R,R,24,"6' 3""",235 lbs,"Santo Domingo, Dominican Republic",44,col,colorado-rockies,2023-04-06T20:20:23Z,41222,https://www.espn.com/mlb/player/_/id/41222
+Mike Moustakas,1B,L,R,34,"6' 0""",225 lbs,"Los Angeles, CA",11,col,colorado-rockies,2023-04-06T20:20:23Z,29999,https://www.espn.com/mlb/player/_/id/29999
+Ezequiel Tovar,SS,R,R,21,"6' 0""",162 lbs,"Maracay, Venezuela",14,col,colorado-rockies,2023-04-06T20:20:23Z,4905919,https://www.espn.com/mlb/player/_/id/4905919
+Alan Trejo,SS,R,R,26,"6' 2""",205 lbs,"Los Angeles, CA",13,col,colorado-rockies,2023-04-06T20:20:23Z,40572,https://www.espn.com/mlb/player/_/id/40572
+Charlie Blackmon,RF,L,L,36,"6' 3""",221 lbs,"Dallas, TX",19,col,colorado-rockies,2023-04-06T20:20:23Z,31084,https://www.espn.com/mlb/player/_/id/31084
+Kris Bryant,RF,R,R,31,"6' 5""",230 lbs,"Las Vegas, NV",23,col,colorado-rockies,2023-04-06T20:20:23Z,33172,https://www.espn.com/mlb/player/_/id/33172
+Harold Castro,LF,L,R,29,"5' 10""",195 lbs,"Caracas, Venezuela",30,col,colorado-rockies,2023-04-06T20:20:23Z,32521,https://www.espn.com/mlb/player/_/id/32521
+Yonathan Daza,CF,R,R,29,"6' 2""",207 lbs,"Maracay, Venezuela",2,col,colorado-rockies,2023-04-06T20:20:23Z,34086,https://www.espn.com/mlb/player/_/id/34086
+Jurickson Profar,LF,B,R,30,"6' 0""",184 lbs,"Willemstad, Curacao",29,col,colorado-rockies,2023-04-06T20:20:23Z,31117,https://www.espn.com/mlb/player/_/id/31117
+Tyler Alexander,RP,R,L,28,"6' 2""",203 lbs,"Chicago, IL",70,det,detroit-tigers,2023-04-06T20:20:23Z,40360,https://www.espn.com/mlb/player/_/id/40360
+Matthew Boyd,SP,L,L,32,"6' 3""",223 lbs,"Mercer Island, WA",48,det,detroit-tigers,2023-04-06T20:20:23Z,34401,https://www.espn.com/mlb/player/_/id/34401
+Jose Cisnero,RP,R,R,33,"6' 3""",258 lbs,"Bajos de Haina, Dominican Republic",67,det,detroit-tigers,2023-04-06T20:20:23Z,31673,https://www.espn.com/mlb/player/_/id/31673
+Mason Englert,SP,B,R,23,"6' 4""",206 lbs,"Forney, TX",53,det,detroit-tigers,2023-04-06T20:20:23Z,41386,https://www.espn.com/mlb/player/_/id/41386
+Jason Foley,RP,R,R,27,"6' 4""",215 lbs,"Manhasset, NY",68,det,detroit-tigers,2023-04-06T20:20:23Z,42698,https://www.espn.com/mlb/player/_/id/42698
+Garrett Hill,SP,R,R,27,"6' 0""",185 lbs,"Petaluma, CA",50,det,detroit-tigers,2023-04-06T20:20:23Z,4301941,https://www.espn.com/mlb/player/_/id/4301941
+Alex Lange,RP,R,R,27,"6' 3""",202 lbs,"Riverside, CA",55,det,detroit-tigers,2023-04-06T20:20:23Z,40976,https://www.espn.com/mlb/player/_/id/40976
+Matt Manning,SP,R,R,25,"6' 6""",195 lbs,"Sacramento, CA",25,det,detroit-tigers,2023-04-06T20:20:23Z,40920,https://www.espn.com/mlb/player/_/id/40920
+Eduardo Rodriguez,SP,L,L,29,"6' 2""",231 lbs,"Valencia, Venezuela",57,det,detroit-tigers,2023-04-06T20:20:23Z,32675,https://www.espn.com/mlb/player/_/id/32675
+Chasen Shreve,RP,L,L,32,"6' 4""",180 lbs,"Las Vegas, NV",36,det,detroit-tigers,2023-04-06T20:20:23Z,33014,https://www.espn.com/mlb/player/_/id/33014
+Spencer Turnbull,SP,R,R,30,"6' 3""",210 lbs,"Demopolis, AL",56,det,detroit-tigers,2023-04-06T20:20:23Z,33732,https://www.espn.com/mlb/player/_/id/33732
+Joey Wentz,SP,L,L,25,"6' 5""",220 lbs,"Lawrence, KS",43,det,detroit-tigers,2023-04-06T20:20:23Z,40927,https://www.espn.com/mlb/player/_/id/40927
+Trey Wingenter,RP,R,R,28,"6' 7""",237 lbs,"Huntsville, AL",62,det,detroit-tigers,2023-04-06T20:20:23Z,42218,https://www.espn.com/mlb/player/_/id/42218
+Eric Haase,C,R,R,30,"5' 10""",210 lbs,"Detroit, MI",13,det,detroit-tigers,2023-04-06T20:20:23Z,33452,https://www.espn.com/mlb/player/_/id/33452
+Jake Rogers,C,R,R,27,"6' 1""",201 lbs,"Canyon, TX",34,det,detroit-tigers,2023-04-06T20:20:23Z,39900,https://www.espn.com/mlb/player/_/id/39900
+Javier Baez,SS,R,R,30,"6' 0""",190 lbs,"Bayamon, Puerto Rico",28,det,detroit-tigers,2023-04-06T20:20:23Z,32127,https://www.espn.com/mlb/player/_/id/32127
+Ryan Kreidler,SS,R,R,25,"6' 4""",208 lbs,"Davis, CA",32,det,detroit-tigers,2023-04-06T20:20:23Z,42701,https://www.espn.com/mlb/player/_/id/42701
+Nick Maton,3B,L,R,26,"6' 2""",178 lbs,"Chatham, IL",9,det,detroit-tigers,2023-04-06T20:20:23Z,41284,https://www.espn.com/mlb/player/_/id/41284
+Zach McKinstry,3B,L,R,27,"6' 0""",180 lbs,"Toledo, OH",39,det,detroit-tigers,2023-04-06T20:20:23Z,38420,https://www.espn.com/mlb/player/_/id/38420
+Jonathan Schoop,3B,R,R,31,"6' 1""",247 lbs,"Willemstad, Curacao",7,det,detroit-tigers,2023-04-06T20:20:23Z,31988,https://www.espn.com/mlb/player/_/id/31988
+Spencer Torkelson,1B,R,R,23,"6' 1""",220 lbs,"Petaluma, CA",20,det,detroit-tigers,2023-04-06T20:20:23Z,4424286,https://www.espn.com/mlb/player/_/id/4424286
+Kerry Carpenter,LF,L,R,25,"6' 2""",220 lbs,"Eustis, FL",30,det,detroit-tigers,2023-04-06T20:20:23Z,42714,https://www.espn.com/mlb/player/_/id/42714
+Riley Greene,CF,L,L,22,"6' 3""",200 lbs,"Orlando, FL",31,det,detroit-tigers,2023-04-06T20:20:23Z,42179,https://www.espn.com/mlb/player/_/id/42179
+Austin Meadows,RF,L,L,27,"6' 3""",225 lbs,"Atlanta, GA",17,det,detroit-tigers,2023-04-06T20:20:23Z,33197,https://www.espn.com/mlb/player/_/id/33197
+Matt Vierling,CF,R,R,26,"6' 3""",205 lbs,"St. Louis, MO",8,det,detroit-tigers,2023-04-06T20:20:23Z,41636,https://www.espn.com/mlb/player/_/id/41636
+Miguel Cabrera,DH,R,R,39,"6' 4""",267 lbs,"Maracay, Venezuela",24,det,detroit-tigers,2023-04-06T20:20:23Z,5544,https://www.espn.com/mlb/player/_/id/5544
+Bryan Abreu,RP,R,R,25,"6' 1""",225 lbs,"Santo Domingo, Dominican Republic",52,hou,houston-astros,2023-04-06T20:20:23Z,41208,https://www.espn.com/mlb/player/_/id/41208
+Ronel Blanco,RP,R,R,29,"6' 0""",180 lbs,"Santiago, Dominican Republic",56,hou,houston-astros,2023-04-06T20:20:23Z,41829,https://www.espn.com/mlb/player/_/id/41829
+Hunter Brown,SP,R,R,24,"6' 2""",212 lbs,"Detroit, MI",58,hou,houston-astros,2023-04-06T20:20:23Z,4717803,https://www.espn.com/mlb/player/_/id/4717803
+Luis Garcia,SP,R,R,26,"5' 11""",244 lbs,"Barinitas, Venezuela",77,hou,houston-astros,2023-04-06T20:20:23Z,4684365,https://www.espn.com/mlb/player/_/id/4684365
+Cristian Javier,SP,R,R,26,"6' 1""",213 lbs,"Santo Domingo, Dominican Republic",53,hou,houston-astros,2023-04-06T20:20:23Z,41261,https://www.espn.com/mlb/player/_/id/41261
+Seth Martinez,RP,R,R,28,"6' 2""",200 lbs,"Peoria, AZ",61,hou,houston-astros,2023-04-06T20:20:23Z,42742,https://www.espn.com/mlb/player/_/id/42742
+Phil Maton,RP,R,R,30,"6' 2""",206 lbs,"Paducah, KY",88,hou,houston-astros,2023-04-06T20:20:23Z,36161,https://www.espn.com/mlb/player/_/id/36161
+Rafael Montero,RP,R,R,32,"6' 0""",190 lbs,"Higuerito, Dominican Republic",47,hou,houston-astros,2023-04-06T20:20:23Z,32631,https://www.espn.com/mlb/player/_/id/32631
+Hector Neris,RP,R,R,33,"6' 2""",227 lbs,"Villa Altagracia, Dominican Republic",50,hou,houston-astros,2023-04-06T20:20:23Z,32377,https://www.espn.com/mlb/player/_/id/32377
+Ryan Pressly,RP,R,R,34,"6' 2""",206 lbs,"Dallas, TX",55,hou,houston-astros,2023-04-06T20:20:23Z,33072,https://www.espn.com/mlb/player/_/id/33072
+Ryne Stanek,RP,R,R,31,"6' 4""",226 lbs,"St. Louis, MO",45,hou,houston-astros,2023-04-06T20:20:23Z,33301,https://www.espn.com/mlb/player/_/id/33301
+Jose Urquidy,SP,R,R,27,"6' 0""",217 lbs,"Sinaloa, Mexico",65,hou,houston-astros,2023-04-06T20:20:23Z,35759,https://www.espn.com/mlb/player/_/id/35759
+Framber Valdez,SP,R,L,29,"5' 11""",239 lbs,"Sabana Grande de Palenque, Dominican Republic",59,hou,houston-astros,2023-04-06T20:20:23Z,36581,https://www.espn.com/mlb/player/_/id/36581
+Yainer Diaz,C,R,R,24,"6' 0""",195 lbs,"Azua Province, Dominican Republic",21,hou,houston-astros,2023-04-06T20:20:23Z,4781491,https://www.espn.com/mlb/player/_/id/4781491
+Martin Maldonado,C,R,R,36,"6' 0""",230 lbs,"Naguabo, Puerto Rico",15,hou,houston-astros,2023-04-06T20:20:23Z,30289,https://www.espn.com/mlb/player/_/id/30289
+Cesar Salazar,C,L,R,27,"5' 9""",185 lbs,"Hermosillo, Mexico",18,hou,houston-astros,2023-04-06T20:20:23Z,41907,https://www.espn.com/mlb/player/_/id/41907
+Jose Abreu,1B,R,R,36,"6' 3""",235 lbs,"Cienfuegos, Cuba",79,hou,houston-astros,2023-04-06T20:20:23Z,33095,https://www.espn.com/mlb/player/_/id/33095
+Alex Bregman,3B,R,R,29,"6' 0""",192 lbs,"Albuquerque, NM",2,hou,houston-astros,2023-04-06T20:20:23Z,34886,https://www.espn.com/mlb/player/_/id/34886
+Mauricio Dubon,2B,R,R,28,"6' 0""",173 lbs,"San Pedro Sula, CA",14,hou,houston-astros,2023-04-06T20:20:23Z,35304,https://www.espn.com/mlb/player/_/id/35304
+David Hensley,1B,R,R,27,"6' 6""",190 lbs,"San Diego, CA",17,hou,houston-astros,2023-04-06T20:20:23Z,3898501,https://www.espn.com/mlb/player/_/id/3898501
+Jeremy Pena,SS,R,R,25,"6' 0""",202 lbs,"Santo Domingo, Dominican Republic",3,hou,houston-astros,2023-04-06T20:20:23Z,41273,https://www.espn.com/mlb/player/_/id/41273
+Yordan Alvarez,LF,L,R,25,"6' 5""",225 lbs,"Las Tunas, Cuba",44,hou,houston-astros,2023-04-06T20:20:23Z,36018,https://www.espn.com/mlb/player/_/id/36018
+Corey Julks,RF,R,R,27,"6' 1""",185 lbs,"Friendswood, TX",9,hou,houston-astros,2023-04-06T20:20:23Z,41526,https://www.espn.com/mlb/player/_/id/41526
+Chas McCormick,CF,R,L,27,"6' 0""",208 lbs,"West Chester, PA",20,hou,houston-astros,2023-04-06T20:20:23Z,40574,https://www.espn.com/mlb/player/_/id/40574
+Jake Meyers,CF,R,L,26,"6' 0""",200 lbs,"Omaha, NE",6,hou,houston-astros,2023-04-06T20:20:23Z,40719,https://www.espn.com/mlb/player/_/id/40719
+Kyle Tucker,RF,L,R,26,"6' 4""",199 lbs,"Tampa, FL",30,hou,houston-astros,2023-04-06T20:20:23Z,34967,https://www.espn.com/mlb/player/_/id/34967
+Scott Barlow,RP,R,R,30,"6' 3""",210 lbs,"New London, CT",58,kc,kansas-city-royals,2023-04-06T20:20:23Z,32156,https://www.espn.com/mlb/player/_/id/32156
+Kris Bubic,SP,L,L,25,"6' 3""",225 lbs,"Cupertino, CA",50,kc,kansas-city-royals,2023-04-06T20:20:23Z,41201,https://www.espn.com/mlb/player/_/id/41201
+Aroldis Chapman,RP,L,L,35,"6' 4""",218 lbs,"Holguin, Cuba",54,kc,kansas-city-royals,2023-04-06T20:20:23Z,30442,https://www.espn.com/mlb/player/_/id/30442
+Taylor Clarke,RP,R,R,29,"6' 4""",217 lbs,"Ashburn, VA",45,kc,kansas-city-royals,2023-04-06T20:20:23Z,35277,https://www.espn.com/mlb/player/_/id/35277
+Dylan Coleman,RP,R,R,26,"6' 5""",230 lbs,"Potosi, MO",65,kc,kansas-city-royals,2023-04-06T20:20:23Z,41393,https://www.espn.com/mlb/player/_/id/41393
+Jose Cuas,RP,R,R,28,"6' 3""",195 lbs,"Santo Domingo, Dominican Republic",74,kc,kansas-city-royals,2023-04-06T20:20:23Z,35432,https://www.espn.com/mlb/player/_/id/35432
+Amir Garrett,RP,R,L,30,"6' 5""",239 lbs,"Victorville, CA",22,kc,kansas-city-royals,2023-04-06T20:20:23Z,33652,https://www.espn.com/mlb/player/_/id/33652
+Zack Greinke,SP,R,R,39,"6' 2""",200 lbs,"Orlando, FL",23,kc,kansas-city-royals,2023-04-06T20:20:23Z,5883,https://www.espn.com/mlb/player/_/id/5883
+Carlos Hernandez,RP,R,R,26,"6' 4""",245 lbs,"Guayana, Venezuela",43,kc,kansas-city-royals,2023-04-06T20:20:23Z,41233,https://www.espn.com/mlb/player/_/id/41233
+Brad Keller,SP,R,R,27,"6' 5""",255 lbs,"Snellville, GA",56,kc,kansas-city-royals,2023-04-06T20:20:23Z,35292,https://www.espn.com/mlb/player/_/id/35292
+Jordan Lyles,SP,R,R,32,"6' 5""",230 lbs,"Hartsville, SC",24,kc,kansas-city-royals,2023-04-06T20:20:23Z,31061,https://www.espn.com/mlb/player/_/id/31061
+Brady Singer,SP,R,R,26,"6' 5""",215 lbs,"Leesburg, FL",51,kc,kansas-city-royals,2023-04-06T20:20:23Z,41172,https://www.espn.com/mlb/player/_/id/41172
+Ryan Yarbrough,SP,R,L,31,"6' 5""",205 lbs,"Austin, TX",48,kc,kansas-city-royals,2023-04-06T20:20:23Z,33735,https://www.espn.com/mlb/player/_/id/33735
+MJ Melendez,C,L,R,24,"6' 1""",190 lbs,"Daytona Beach, FL",1,kc,kansas-city-royals,2023-04-06T20:20:23Z,40948,https://www.espn.com/mlb/player/_/id/40948
+Salvador Perez,C,R,R,32,"6' 3""",255 lbs,"Valencia, Venezuela",13,kc,kansas-city-royals,2023-04-06T20:20:23Z,31127,https://www.espn.com/mlb/player/_/id/31127
+Hunter Dozier,3B,R,R,31,"6' 4""",220 lbs,"Wichita Falls, TX",17,kc,kansas-city-royals,2023-04-06T20:20:23Z,33233,https://www.espn.com/mlb/player/_/id/33233
+Matt Duffy,3B,R,R,32,"6' 2""",190 lbs,"Long Beach, CA",15,kc,kansas-city-royals,2023-04-06T20:20:23Z,33453,https://www.espn.com/mlb/player/_/id/33453
+Nate Eaton,2B,R,R,26,"5' 11""",185 lbs,"Chester, VA",18,kc,kansas-city-royals,2023-04-06T20:20:23Z,42845,https://www.espn.com/mlb/player/_/id/42845
+Nicky Lopez,SS,L,R,28,"5' 11""",180 lbs,"Naperville, IL",8,kc,kansas-city-royals,2023-04-06T20:20:23Z,38106,https://www.espn.com/mlb/player/_/id/38106
+Michael Massey,2B,L,R,25,"6' 0""",190 lbs,"Palos Park, IL",19,kc,kansas-city-royals,2023-04-06T20:20:23Z,4109223,https://www.espn.com/mlb/player/_/id/4109223
+Vinnie Pasquantino,1B,L,L,25,"6' 4""",245 lbs,"Richmond, VA",9,kc,kansas-city-royals,2023-04-06T20:20:23Z,4109109,https://www.espn.com/mlb/player/_/id/4109109
+Nick Pratto,1B,L,L,24,"6' 1""",215 lbs,"Huntington Beach, CA",32,kc,kansas-city-royals,2023-04-06T20:20:23Z,39641,https://www.espn.com/mlb/player/_/id/39641
+Bobby Witt Jr.,SS,R,R,22,"6' 1""",200 lbs,"Colleyville, TX",7,kc,kansas-city-royals,2023-04-06T20:20:23Z,42403,https://www.espn.com/mlb/player/_/id/42403
+Jackie Bradley Jr.,CF,L,R,32,"5' 10""",196 lbs,"Richmond, VA",41,kc,kansas-city-royals,2023-04-06T20:20:23Z,32362,https://www.espn.com/mlb/player/_/id/32362
+Edward Olivares,LF,R,R,27,"6' 2""",190 lbs,"Caracas, Venezuela",14,kc,kansas-city-royals,2023-04-06T20:20:23Z,36463,https://www.espn.com/mlb/player/_/id/36463
+Franmil Reyes,RF,R,R,27,"6' 5""",265 lbs,"Sabana Grande de Palenque, Dominican Republic",99,kc,kansas-city-royals,2023-04-06T20:20:23Z,33339,https://www.espn.com/mlb/player/_/id/33339
+Tyler Anderson,SP,L,L,33,"6' 2""",220 lbs,"Las Vegas, NV",31,laa,los-angeles-angels,2023-04-06T20:20:23Z,32151,https://www.espn.com/mlb/player/_/id/32151
+Jaime Barria,RP,R,R,26,"6' 1""",210 lbs,"Panama City, Panama",51,laa,los-angeles-angels,2023-04-06T20:20:23Z,34956,https://www.espn.com/mlb/player/_/id/34956
+Tucker Davidson,SP,L,L,27,"6' 2""",215 lbs,"Amarillo, TX",32,laa,los-angeles-angels,2023-04-06T20:20:23Z,41069,https://www.espn.com/mlb/player/_/id/41069
+Reid Detmers,SP,L,L,23,"6' 2""",210 lbs,"Nokomis, IL",48,laa,los-angeles-angels,2023-04-06T20:20:23Z,4326697,https://www.espn.com/mlb/player/_/id/4326697
+Carlos Estevez,RP,R,R,30,"6' 6""",277 lbs,"Santo Domingo, Dominican Republic",53,laa,los-angeles-angels,2023-04-06T20:20:23Z,34861,https://www.espn.com/mlb/player/_/id/34861
+Jimmy Herget,RP,R,R,29,"6' 3""",170 lbs,"Tampa, FL",46,laa,los-angeles-angels,2023-04-06T20:20:23Z,36093,https://www.espn.com/mlb/player/_/id/36093
+Aaron Loup,RP,L,L,35,"5' 11""",210 lbs,"Raceland, LA",28,laa,los-angeles-angels,2023-04-06T20:20:23Z,32397,https://www.espn.com/mlb/player/_/id/32397
+Matt Moore,RP,L,L,33,"6' 3""",210 lbs,"Fort Walton Beach, FL",55,laa,los-angeles-angels,2023-04-06T20:20:23Z,31099,https://www.espn.com/mlb/player/_/id/31099
+Jose Quijada,RP,L,L,27,"5' 11""",215 lbs,"Caripito, Venezuela",65,laa,los-angeles-angels,2023-04-06T20:20:23Z,39142,https://www.espn.com/mlb/player/_/id/39142
+Patrick Sandoval,SP,L,L,26,"6' 3""",190 lbs,"Mission Viejo, CA",43,laa,los-angeles-angels,2023-04-06T20:20:23Z,40975,https://www.espn.com/mlb/player/_/id/40975
+Jose Suarez,SP,L,L,25,"5' 10""",225 lbs,"Naguanagua, Venezuela",54,laa,los-angeles-angels,2023-04-06T20:20:23Z,40981,https://www.espn.com/mlb/player/_/id/40981
+Ryan Tepera,RP,R,R,35,"6' 1""",195 lbs,"Houston, TX",52,laa,los-angeles-angels,2023-04-06T20:20:23Z,32107,https://www.espn.com/mlb/player/_/id/32107
+Andrew Wantz,RP,R,R,27,"6' 4""",235 lbs,"Holly Springs, NC",60,laa,los-angeles-angels,2023-04-06T20:20:23Z,42809,https://www.espn.com/mlb/player/_/id/42809
+Logan O'Hoppe,C,R,R,23,"6' 2""",185 lbs,"West Islip, NY",14,laa,los-angeles-angels,2023-04-06T20:20:23Z,42047,https://www.espn.com/mlb/player/_/id/42047
+Matt Thaiss,C,L,R,27,"6' 0""",215 lbs,"Jackson, NJ",21,laa,los-angeles-angels,2023-04-06T20:20:23Z,36176,https://www.espn.com/mlb/player/_/id/36176
+Brandon Drury,2B,R,R,30,"6' 2""",230 lbs,"Grants Pass, OR",23,laa,los-angeles-angels,2023-04-06T20:20:23Z,32269,https://www.espn.com/mlb/player/_/id/32269
+David Fletcher,SS,R,R,28,"5' 9""",185 lbs,"Orange, CA",22,laa,los-angeles-angels,2023-04-06T20:20:23Z,35156,https://www.espn.com/mlb/player/_/id/35156
+Luis Rengifo,2B,B,R,26,"5' 10""",195 lbs,"Naguanagua, Venezuela",2,laa,los-angeles-angels,2023-04-06T20:20:23Z,37237,https://www.espn.com/mlb/player/_/id/37237
+Gio Urshela,SS,R,R,31,"6' 0""",215 lbs,"Cartagena, Colombia",10,laa,los-angeles-angels,2023-04-06T20:20:23Z,32721,https://www.espn.com/mlb/player/_/id/32721
+Jake Lamb,LF,L,R,32,"6' 3""",215 lbs,"Seattle, WA",18,laa,los-angeles-angels,2023-04-06T20:20:23Z,32742,https://www.espn.com/mlb/player/_/id/32742
+Brett Phillips,CF,L,R,28,"6' 0""",195 lbs,"Seminole, FL",8,laa,los-angeles-angels,2023-04-06T20:20:23Z,33822,https://www.espn.com/mlb/player/_/id/33822
+Hunter Renfroe,RF,R,R,31,"6' 1""",230 lbs,"Crystal Springs, MS",12,laa,los-angeles-angels,2023-04-06T20:20:23Z,33205,https://www.espn.com/mlb/player/_/id/33205
+Mike Trout,CF,R,R,31,"6' 2""",235 lbs,"Vineland, NJ",27,laa,los-angeles-angels,2023-04-06T20:20:23Z,30836,https://www.espn.com/mlb/player/_/id/30836
+Taylor Ward,LF,R,R,29,"6' 1""",200 lbs,"Dayton, OH",3,laa,los-angeles-angels,2023-04-06T20:20:23Z,34923,https://www.espn.com/mlb/player/_/id/34923
+Shohei Ohtani,DH,L,R,28,"6' 4""",210 lbs,"Oshu, Japan",17,laa,los-angeles-angels,2023-04-06T20:20:23Z,39832,https://www.espn.com/mlb/player/_/id/39832
+Yency Almonte,RP,R,R,28,"6' 5""",223 lbs,"Miami, FL",38,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,36064,https://www.espn.com/mlb/player/_/id/36064
+Phil Bickford,RP,R,R,27,"6' 4""",200 lbs,"Ventura, CA",52,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,34989,https://www.espn.com/mlb/player/_/id/34989
+Caleb Ferguson,RP,R,L,26,"6' 3""",226 lbs,"Columbus, OH",64,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,41017,https://www.espn.com/mlb/player/_/id/41017
+Brusdar Graterol,RP,R,R,24,"6' 1""",265 lbs,"Calabozo, Venezuela",48,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,40965,https://www.espn.com/mlb/player/_/id/40965
+Michael Grove,SP,R,R,26,"6' 3""",200 lbs,"Wheeling, WV",78,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,41242,https://www.espn.com/mlb/player/_/id/41242
+Andre Jackson,SP,R,R,26,"6' 3""",210 lbs,"Vail, AZ",44,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,4684364,https://www.espn.com/mlb/player/_/id/4684364
+Clayton Kershaw,SP,L,L,35,"6' 4""",225 lbs,"Dallas, TX",22,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,28963,https://www.espn.com/mlb/player/_/id/28963
+Dustin May,SP,R,R,25,"6' 6""",180 lbs,"Justin, TX",85,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,40937,https://www.espn.com/mlb/player/_/id/40937
+Shelby Miller,RP,R,R,32,"6' 3""",225 lbs,"Round Rock, TX",18,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,30738,https://www.espn.com/mlb/player/_/id/30738
+Evan Phillips,RP,R,R,28,"6' 2""",215 lbs,"Salisbury, MD",59,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,37911,https://www.espn.com/mlb/player/_/id/37911
+Noah Syndergaard,SP,L,R,30,"6' 6""",242 lbs,"Mansfield, TX",43,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,31730,https://www.espn.com/mlb/player/_/id/31730
+Julio Urias,SP,L,L,26,"6' 0""",225 lbs,"Culiacan, Mexico",7,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,33223,https://www.espn.com/mlb/player/_/id/33223
+Alex Vesia,RP,L,L,26,"6' 1""",209 lbs,"Alpine, CA",51,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,42622,https://www.espn.com/mlb/player/_/id/42622
+Austin Barnes,C,R,R,33,"5' 10""",187 lbs,"Riverside, CA",15,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,32856,https://www.espn.com/mlb/player/_/id/32856
+Will Smith,C,R,R,28,"5' 10""",195 lbs,"Louisville, KY",16,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,38309,https://www.espn.com/mlb/player/_/id/38309
+Freddie Freeman,1B,L,R,33,"6' 5""",220 lbs,"Villa Park, CA",5,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,30193,https://www.espn.com/mlb/player/_/id/30193
+Max Muncy,3B,L,R,32,"6' 0""",215 lbs,"Midland, TX",13,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,33303,https://www.espn.com/mlb/player/_/id/33303
+Miguel Rojas,SS,R,R,34,"6' 0""",188 lbs,"Los Teques, Venezuela",11,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,30791,https://www.espn.com/mlb/player/_/id/30791
+Miguel Vargas,2B,R,R,23,"6' 3""",205 lbs,"Havana, Cuba",17,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,42453,https://www.espn.com/mlb/player/_/id/42453
+Mookie Betts,RF,R,R,30,"5' 9""",180 lbs,"Nashville, TN",50,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,33039,https://www.espn.com/mlb/player/_/id/33039
+Jason Heyward,CF,L,L,33,"6' 5""",240 lbs,"Ridgewood, NJ",23,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,29551,https://www.espn.com/mlb/player/_/id/29551
+J.D. Martinez,LF,R,R,35,"6' 3""",230 lbs,"Miami, FL",28,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,31065,https://www.espn.com/mlb/player/_/id/31065
+James Outman,CF,L,R,25,"6' 3""",215 lbs,"Redwood City, CA",33,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,41802,https://www.espn.com/mlb/player/_/id/41802
+David Peralta,LF,L,L,35,"6' 1""",210 lbs,"Valencia, Venezuela",6,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,33384,https://www.espn.com/mlb/player/_/id/33384
+Chris Taylor,LF,R,R,32,"6' 1""",196 lbs,"Virginia Beach, VA",3,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,32900,https://www.espn.com/mlb/player/_/id/32900
+Trayce Thompson,CF,R,R,32,"6' 3""",225 lbs,"Los Angeles, CA",25,lad,los-angeles-dodgers,2023-04-06T20:20:23Z,30743,https://www.espn.com/mlb/player/_/id/30743
+Sandy Alcantara,SP,R,R,27,"6' 5""",200 lbs,"Azua Province, Dominican Republic",22,mia,miami-marlins,2023-04-06T20:20:23Z,35241,https://www.espn.com/mlb/player/_/id/35241
+Matt Barnes,RP,R,R,32,"6' 4""",208 lbs,"Danbury, CT",32,mia,miami-marlins,2023-04-06T20:20:23Z,32147,https://www.espn.com/mlb/player/_/id/32147
+Huascar Brazoban,RP,R,R,33,"6' 3""",155 lbs,"Villa Mella, Dominican Republic",31,mia,miami-marlins,2023-04-06T20:20:23Z,4916509,https://www.espn.com/mlb/player/_/id/4916509
+Edward Cabrera,SP,R,R,24,"6' 5""",217 lbs,"Santiago, Dominican Republic",27,mia,miami-marlins,2023-04-06T20:20:23Z,40944,https://www.espn.com/mlb/player/_/id/40944
+Daniel Castano,SP,L,L,28,"6' 3""",231 lbs,"Orlando, FL",20,mia,miami-marlins,2023-04-06T20:20:23Z,42621,https://www.espn.com/mlb/player/_/id/42621
+JT Chargois,RP,B,R,32,"6' 3""",200 lbs,"Sulphur, LA",84,mia,miami-marlins,2023-04-06T20:20:23Z,34854,https://www.espn.com/mlb/player/_/id/34854
+Dylan Floro,RP,L,R,32,"6' 2""",203 lbs,"Merced, CA",36,mia,miami-marlins,2023-04-06T20:20:23Z,33852,https://www.espn.com/mlb/player/_/id/33852
+Braxton Garrett,SP,R,L,25,"6' 2""",202 lbs,"Foley, AL",29,mia,miami-marlins,2023-04-06T20:20:23Z,40971,https://www.espn.com/mlb/player/_/id/40971
+Jesus Luzardo,SP,L,L,25,"6' 0""",218 lbs,"Lima, FL",44,mia,miami-marlins,2023-04-06T20:20:23Z,39667,https://www.espn.com/mlb/player/_/id/39667
+Andrew Nardi,RP,L,L,24,"6' 3""",215 lbs,"West Hills, CA",43,mia,miami-marlins,2023-04-06T20:20:23Z,3975840,https://www.espn.com/mlb/player/_/id/3975840
+A.J. Puk,RP,L,L,27,"6' 7""",248 lbs,"Minneapolis, MN",35,mia,miami-marlins,2023-04-06T20:20:23Z,36201,https://www.espn.com/mlb/player/_/id/36201
+Trevor Rogers,SP,L,L,25,"6' 5""",217 lbs,"Carlsbad, NM",28,mia,miami-marlins,2023-04-06T20:20:23Z,39640,https://www.espn.com/mlb/player/_/id/39640
+Tanner Scott,RP,R,L,28,"6' 0""",235 lbs,"Warren, OH",66,mia,miami-marlins,2023-04-06T20:20:23Z,35135,https://www.espn.com/mlb/player/_/id/35135
+Nick Fortes,C,R,R,26,"5' 11""",198 lbs,"DeLand, FL",4,mia,miami-marlins,2023-04-06T20:20:23Z,41674,https://www.espn.com/mlb/player/_/id/41674
+Jacob Stallings,C,R,R,33,"6' 5""",225 lbs,"Lawrence, KS",58,mia,miami-marlins,2023-04-06T20:20:23Z,34089,https://www.espn.com/mlb/player/_/id/34089
+Luis Arraez,2B,L,R,25,"5' 10""",175 lbs,"San Felipe, Venezuela",3,mia,miami-marlins,2023-04-06T20:20:23Z,39572,https://www.espn.com/mlb/player/_/id/39572
+Jon Berti,3B,R,R,33,"5' 10""",190 lbs,"Troy, MI",5,mia,miami-marlins,2023-04-06T20:20:23Z,32273,https://www.espn.com/mlb/player/_/id/32273
+Garrett Cooper,1B,R,R,32,"6' 5""",235 lbs,"Torrance, CA",26,mia,miami-marlins,2023-04-06T20:20:23Z,33398,https://www.espn.com/mlb/player/_/id/33398
+Yuli Gurriel,1B,R,R,38,"6' 0""",215 lbs,"Sancti Spíritus, Cuba",10,mia,miami-marlins,2023-04-06T20:20:23Z,36006,https://www.espn.com/mlb/player/_/id/36006
+Garrett Hampson,SS,R,R,28,"5' 11""",196 lbs,"Reno, NV",1,mia,miami-marlins,2023-04-06T20:20:23Z,39899,https://www.espn.com/mlb/player/_/id/39899
+Jean Segura,3B,R,R,33,"5' 10""",220 lbs,"San Juan, Dominican Republic",9,mia,miami-marlins,2023-04-06T20:20:23Z,31037,https://www.espn.com/mlb/player/_/id/31037
+Jazz Chisholm Jr.,CF,L,R,25,"5' 11""",184 lbs,"Nassau, Bahamas",2,mia,miami-marlins,2023-04-06T20:20:23Z,41433,https://www.espn.com/mlb/player/_/id/41433
+Bryan De La Cruz,LF,R,R,26,"6' 2""",175 lbs,"Santo Domingo, Dominican Republic",14,mia,miami-marlins,2023-04-06T20:20:23Z,40787,https://www.espn.com/mlb/player/_/id/40787
+Avisail Garcia,RF,R,R,31,"6' 4""",250 lbs,"Anaco, Venezuela",24,mia,miami-marlins,2023-04-06T20:20:23Z,30729,https://www.espn.com/mlb/player/_/id/30729
+Jesus Sanchez,RF,L,R,25,"6' 3""",222 lbs,"Higuey, Dominican Republic",7,mia,miami-marlins,2023-04-06T20:20:23Z,39957,https://www.espn.com/mlb/player/_/id/39957
+Jorge Soler,LF,R,R,31,"6' 4""",235 lbs,"Havana, Cuba",12,mia,miami-marlins,2023-04-06T20:20:23Z,32558,https://www.espn.com/mlb/player/_/id/32558
+Corbin Burnes,SP,R,R,28,"6' 3""",246 lbs,"Bakersfield, CA",39,mil,milwaukee-brewers,2023-04-06T20:20:23Z,39878,https://www.espn.com/mlb/player/_/id/39878
+Matt Bush,RP,R,R,37,"5' 10""",193 lbs,"San Diego, CA",21,mil,milwaukee-brewers,2023-04-06T20:20:23Z,30074,https://www.espn.com/mlb/player/_/id/30074
+Javy Guerra,RP,L,R,27,"6' 0""",190 lbs,"David, Panama",12,mil,milwaukee-brewers,2023-04-06T20:20:23Z,34675,https://www.espn.com/mlb/player/_/id/34675
+Eric Lauer,SP,R,L,27,"6' 3""",209 lbs,"Elyria, OH",52,mil,milwaukee-brewers,2023-04-06T20:20:23Z,39915,https://www.espn.com/mlb/player/_/id/39915
+Wade Miley,SP,L,L,36,"6' 1""",220 lbs,"Hammond, LA",20,mil,milwaukee-brewers,2023-04-06T20:20:23Z,31094,https://www.espn.com/mlb/player/_/id/31094
+Hoby Milner,RP,L,L,32,"6' 3""",184 lbs,"Dallas, TX",55,mil,milwaukee-brewers,2023-04-06T20:20:23Z,36088,https://www.espn.com/mlb/player/_/id/36088
+Joel Payamps,RP,R,R,28,"6' 2""",217 lbs,"Santiago, Dominican Republic",31,mil,milwaukee-brewers,2023-04-06T20:20:23Z,40021,https://www.espn.com/mlb/player/_/id/40021
+Freddy Peralta,SP,R,R,26,"6' 0""",196 lbs,"Moca, Dominican Republic",51,mil,milwaukee-brewers,2023-04-06T20:20:23Z,39825,https://www.espn.com/mlb/player/_/id/39825
+Peter Strzelecki,RP,R,R,28,"6' 2""",216 lbs,"Queens, NY",32,mil,milwaukee-brewers,2023-04-06T20:20:23Z,4012625,https://www.espn.com/mlb/player/_/id/4012625
+Gus Varland,RP,L,R,26,"6' 1""",213 lbs,"Maplewood, MN",47,mil,milwaukee-brewers,2023-04-06T20:20:23Z,41552,https://www.espn.com/mlb/player/_/id/41552
+Devin Williams,RP,R,R,28,"6' 2""",192 lbs,"St. Louis, MO",38,mil,milwaukee-brewers,2023-04-06T20:20:23Z,33224,https://www.espn.com/mlb/player/_/id/33224
+Bryse Wilson,SP,R,R,25,"6' 2""",267 lbs,"Durham, NC",46,mil,milwaukee-brewers,2023-04-06T20:20:23Z,40922,https://www.espn.com/mlb/player/_/id/40922
+Brandon Woodruff,SP,L,R,30,"6' 4""",244 lbs,"Tupelo, MS",53,mil,milwaukee-brewers,2023-04-06T20:20:23Z,37515,https://www.espn.com/mlb/player/_/id/37515
+Victor Caratini,C,B,R,29,"5' 11""",225 lbs,"Ponce, Puerto Rico",7,mil,milwaukee-brewers,2023-04-06T20:20:23Z,33229,https://www.espn.com/mlb/player/_/id/33229
+William Contreras,C,R,R,25,"5' 11""",216 lbs,"Puerto Cabello, Venezuela",24,mil,milwaukee-brewers,2023-04-06T20:20:23Z,39895,https://www.espn.com/mlb/player/_/id/39895
+Willy Adames,SS,R,R,27,"6' 1""",214 lbs,"Santiago, Dominican Republic",27,mil,milwaukee-brewers,2023-04-06T20:20:23Z,33675,https://www.espn.com/mlb/player/_/id/33675
+Brian Anderson,3B,R,R,29,"6' 2""",215 lbs,"Edmond, OK",9,mil,milwaukee-brewers,2023-04-06T20:20:23Z,33776,https://www.espn.com/mlb/player/_/id/33776
+Mike Brosseau,3B,R,R,29,"5' 11""",203 lbs,"Munster, IN",10,mil,milwaukee-brewers,2023-04-06T20:20:23Z,40533,https://www.espn.com/mlb/player/_/id/40533
+Owen Miller,1B,R,R,26,"5' 11""",195 lbs,"Mequon, WI",6,mil,milwaukee-brewers,2023-04-06T20:20:23Z,41187,https://www.espn.com/mlb/player/_/id/41187
+Rowdy Tellez,1B,L,L,28,"6' 4""",270 lbs,"Sacramento, CA",11,mil,milwaukee-brewers,2023-04-06T20:20:23Z,34287,https://www.espn.com/mlb/player/_/id/34287
+Brice Turang,SS,L,R,23,"6' 0""",176 lbs,"Corona, CA",0,mil,milwaukee-brewers,2023-04-06T20:20:23Z,41179,https://www.espn.com/mlb/player/_/id/41179
+Luke Voit,1B,R,R,32,"6' 2""",258 lbs,"Wildwood, MO",45,mil,milwaukee-brewers,2023-04-06T20:20:23Z,35201,https://www.espn.com/mlb/player/_/id/35201
+Garrett Mitchell,CF,L,R,24,"6' 3""",224 lbs,"Orange, CA",5,mil,milwaukee-brewers,2023-04-06T20:20:23Z,4313442,https://www.espn.com/mlb/player/_/id/4313442
+Joey Wiemer,CF,R,R,24,"6' 4""",220 lbs,"Sylvania, OH",28,mil,milwaukee-brewers,2023-04-06T20:20:23Z,4417134,https://www.espn.com/mlb/player/_/id/4417134
+Jesse Winker,LF,L,L,29,"6' 2""",230 lbs,"Buffalo, NY",33,mil,milwaukee-brewers,2023-04-06T20:20:23Z,32833,https://www.espn.com/mlb/player/_/id/32833
+Christian Yelich,LF,L,R,31,"6' 3""",207 lbs,"Thousand Oaks, CA",22,mil,milwaukee-brewers,2023-04-06T20:20:23Z,31283,https://www.espn.com/mlb/player/_/id/31283
+Jorge Alcala,RP,R,R,27,"6' 3""",205 lbs,"Bajos de Haina, Dominican Republic",66,min,minnesota-twins,2023-04-06T20:20:23Z,41031,https://www.espn.com/mlb/player/_/id/41031
+Jhoan Duran,RP,R,R,25,"6' 5""",230 lbs,"Esperanza, Dominican Republic",59,min,minnesota-twins,2023-04-06T20:20:23Z,41109,https://www.espn.com/mlb/player/_/id/41109
+Sonny Gray,SP,R,R,33,"5' 10""",195 lbs,"Smyrna, TN",54,min,minnesota-twins,2023-04-06T20:20:23Z,32082,https://www.espn.com/mlb/player/_/id/32082
+Griffin Jax,RP,R,R,28,"6' 2""",195 lbs,"Phoenix, AZ",22,min,minnesota-twins,2023-04-06T20:20:23Z,42604,https://www.espn.com/mlb/player/_/id/42604
+Jorge Lopez,RP,R,R,30,"6' 3""",200 lbs,"Caguas, Puerto Rico",48,min,minnesota-twins,2023-04-06T20:20:23Z,33833,https://www.espn.com/mlb/player/_/id/33833
+Pablo Lopez,SP,L,R,27,"6' 4""",225 lbs,"Cabimas, Venezuela",49,min,minnesota-twins,2023-04-06T20:20:23Z,39671,https://www.espn.com/mlb/player/_/id/39671
+Kenta Maeda,SP,R,R,34,"6' 1""",185 lbs,"Osaka, Japan",18,min,minnesota-twins,2023-04-06T20:20:23Z,34892,https://www.espn.com/mlb/player/_/id/34892
+Tyler Mahle,SP,R,R,28,"6' 3""",210 lbs,"Newport Beach, CA",51,min,minnesota-twins,2023-04-06T20:20:23Z,34973,https://www.espn.com/mlb/player/_/id/34973
+Jovani Moran,RP,L,L,25,"6' 1""",167 lbs,"Mayaguez, Puerto Rico",71,min,minnesota-twins,2023-04-06T20:20:23Z,4722926,https://www.espn.com/mlb/player/_/id/4722926
+Emilio Pagan,RP,L,R,31,"6' 2""",208 lbs,"Simpsonville, SC",15,min,minnesota-twins,2023-04-06T20:20:23Z,33403,https://www.espn.com/mlb/player/_/id/33403
+Joe Ryan,SP,R,R,26,"6' 2""",205 lbs,"San Francisco, CA",41,min,minnesota-twins,2023-04-06T20:20:23Z,42450,https://www.espn.com/mlb/player/_/id/42450
+Cole Sands,SP,R,R,25,"6' 3""",215 lbs,"Tallahassee, FL",77,min,minnesota-twins,2023-04-06T20:20:23Z,3983841,https://www.espn.com/mlb/player/_/id/3983841
+Caleb Thielbar,RP,R,L,36,"6' 0""",205 lbs,"Northfield, MN",56,min,minnesota-twins,2023-04-06T20:20:23Z,32440,https://www.espn.com/mlb/player/_/id/32440
+Ryan Jeffers,C,R,R,25,"6' 4""",235 lbs,"Raleigh, NC",27,min,minnesota-twins,2023-04-06T20:20:23Z,41587,https://www.espn.com/mlb/player/_/id/41587
+Christian Vazquez,C,R,R,32,"5' 9""",205 lbs,"Bayamon, Puerto Rico",8,min,minnesota-twins,2023-04-06T20:20:23Z,31389,https://www.espn.com/mlb/player/_/id/31389
+Carlos Correa,SS,R,R,28,"6' 4""",220 lbs,"Ponce, Puerto Rico",4,min,minnesota-twins,2023-04-06T20:20:23Z,32653,https://www.espn.com/mlb/player/_/id/32653
+Kyle Farmer,3B,R,R,32,"6' 0""",205 lbs,"Atlanta, GA",12,min,minnesota-twins,2023-04-06T20:20:23Z,33287,https://www.espn.com/mlb/player/_/id/33287
+Nick Gordon,2B,L,R,27,"6' 0""",160 lbs,"Avon Park, FL",1,min,minnesota-twins,2023-04-06T20:20:23Z,33705,https://www.espn.com/mlb/player/_/id/33705
+Jose Miranda,1B,R,R,24,"6' 2""",210 lbs,"Manati, Puerto Rico",64,min,minnesota-twins,2023-04-06T20:20:23Z,41000,https://www.espn.com/mlb/player/_/id/41000
+Donovan Solano,2B,R,R,35,"5' 8""",210 lbs,"Barranquilla, Colombia",39,min,minnesota-twins,2023-04-06T20:20:23Z,29703,https://www.espn.com/mlb/player/_/id/29703
+Byron Buxton,CF,R,R,29,"6' 2""",190 lbs,"Baxley, GA",25,min,minnesota-twins,2023-04-06T20:20:23Z,32655,https://www.espn.com/mlb/player/_/id/32655
+Willi Castro,RF,B,R,25,"6' 1""",206 lbs,"Rio Piedras, Puerto Rico",50,min,minnesota-twins,2023-04-06T20:20:23Z,34230,https://www.espn.com/mlb/player/_/id/34230
+Joey Gallo,LF,L,R,29,"6' 5""",250 lbs,"Henderson, NV",13,min,minnesota-twins,2023-04-06T20:20:23Z,32818,https://www.espn.com/mlb/player/_/id/32818
+Max Kepler,RF,L,L,30,"6' 4""",225 lbs,"Berlin, Germany",26,min,minnesota-twins,2023-04-06T20:20:23Z,31870,https://www.espn.com/mlb/player/_/id/31870
+Trevor Larnach,LF,L,R,26,"6' 4""",223 lbs,"Walnut Creek, CA",9,min,minnesota-twins,2023-04-06T20:20:23Z,41205,https://www.espn.com/mlb/player/_/id/41205
+Michael A. Taylor,CF,R,R,32,"6' 4""",215 lbs,"Fort Lauderdale, FL",2,min,minnesota-twins,2023-04-06T20:20:23Z,32219,https://www.espn.com/mlb/player/_/id/32219
+Carlos Carrasco,SP,R,R,36,"6' 4""",224 lbs,"Barquisimeto, Venezuela",59,nym,new-york-mets,2023-04-06T20:20:23Z,28968,https://www.espn.com/mlb/player/_/id/28968
+John Curtiss,RP,R,R,30,"6' 5""",220 lbs,"Dallas, TX",46,nym,new-york-mets,2023-04-06T20:20:23Z,38159,https://www.espn.com/mlb/player/_/id/38159
+Tylor Megill,SP,R,R,27,"6' 7""",230 lbs,"Long Beach, CA",38,nym,new-york-mets,2023-04-06T20:20:23Z,3332018,https://www.espn.com/mlb/player/_/id/3332018
+Stephen Nogosek,RP,R,R,28,"6' 2""",205 lbs,"Roseville, CA",85,nym,new-york-mets,2023-04-06T20:20:23Z,39707,https://www.espn.com/mlb/player/_/id/39707
+Adam Ottavino,RP,B,R,37,"6' 5""",246 lbs,"New York, NY",0,nym,new-york-mets,2023-04-06T20:20:23Z,29705,https://www.espn.com/mlb/player/_/id/29705
+David Peterson,SP,L,L,27,"6' 6""",240 lbs,"Denver, CO",23,nym,new-york-mets,2023-04-06T20:20:23Z,40921,https://www.espn.com/mlb/player/_/id/40921
+Brooks Raley,RP,L,L,34,"6' 3""",200 lbs,"San Antonio, TX",25,nym,new-york-mets,2023-04-06T20:20:23Z,32005,https://www.espn.com/mlb/player/_/id/32005
+Denyi Reyes,RP,R,R,26,"6' 4""",255 lbs,"San Cristobal, Dominican Republic",72,nym,new-york-mets,2023-04-06T20:20:23Z,41419,https://www.espn.com/mlb/player/_/id/41419
+David Robertson,RP,R,R,37,"5' 11""",195 lbs,"Birmingham, AL",30,nym,new-york-mets,2023-04-06T20:20:23Z,29172,https://www.espn.com/mlb/player/_/id/29172
+Dennis Santana,RP,R,R,26,"6' 2""",190 lbs,"San Pedro de Macoris, Dominican Republic",65,nym,new-york-mets,2023-04-06T20:20:23Z,39801,https://www.espn.com/mlb/player/_/id/39801
+Max Scherzer,SP,R,R,38,"6' 3""",208 lbs,"St. Louis, MO",21,nym,new-york-mets,2023-04-06T20:20:23Z,28976,https://www.espn.com/mlb/player/_/id/28976
+Kodai Senga,SP,L,R,30,"6' 1""",202 lbs,"Aichi, Japan",34,nym,new-york-mets,2023-04-06T20:20:23Z,4142421,https://www.espn.com/mlb/player/_/id/4142421
+Drew Smith,RP,R,R,29,"6' 2""",190 lbs,"Fort Worth, TX",40,nym,new-york-mets,2023-04-06T20:20:23Z,39685,https://www.espn.com/mlb/player/_/id/39685
+Omar Narvaez,C,L,R,31,"5' 11""",220 lbs,"Maracay, Venezuela",2,nym,new-york-mets,2023-04-06T20:20:23Z,34254,https://www.espn.com/mlb/player/_/id/34254
+Tomas Nido,C,R,R,28,"6' 0""",211 lbs,"Guaynabo, FL",3,nym,new-york-mets,2023-04-06T20:20:23Z,36068,https://www.espn.com/mlb/player/_/id/36068
+Pete Alonso,1B,R,R,28,"6' 3""",245 lbs,"Tampa, FL",20,nym,new-york-mets,2023-04-06T20:20:23Z,37498,https://www.espn.com/mlb/player/_/id/37498
+Eduardo Escobar,3B,B,R,34,"5' 10""",193 lbs,"Villa de Cura, Venezuela",10,nym,new-york-mets,2023-04-06T20:20:23Z,30272,https://www.espn.com/mlb/player/_/id/30272
+Luis Guillorme,SS,L,R,28,"5' 10""",190 lbs,"Caracas, FL",13,nym,new-york-mets,2023-04-06T20:20:23Z,35149,https://www.espn.com/mlb/player/_/id/35149
+Francisco Lindor,SS,B,R,29,"5' 11""",190 lbs,"Caguas, Puerto Rico",12,nym,new-york-mets,2023-04-06T20:20:23Z,32129,https://www.espn.com/mlb/player/_/id/32129
+Jeff McNeil,2B,L,R,30,"6' 1""",195 lbs,"Santa Barbara, CA",1,nym,new-york-mets,2023-04-06T20:20:23Z,33900,https://www.espn.com/mlb/player/_/id/33900
+Mark Canha,LF,R,R,34,"6' 2""",209 lbs,"San Jose, CA",19,nym,new-york-mets,2023-04-06T20:20:23Z,31670,https://www.espn.com/mlb/player/_/id/31670
+Tim Locastro,CF,R,R,30,"6' 1""",200 lbs,"Syracuse, NY",26,nym,new-york-mets,2023-04-06T20:20:23Z,35779,https://www.espn.com/mlb/player/_/id/35779
+Starling Marte,RF,R,R,34,"6' 1""",195 lbs,"Santo Domingo, Dominican Republic",6,nym,new-york-mets,2023-04-06T20:20:23Z,30830,https://www.espn.com/mlb/player/_/id/30830
+Brandon Nimmo,CF,L,R,30,"6' 3""",206 lbs,"Cheyenne, WY",9,nym,new-york-mets,2023-04-06T20:20:23Z,32159,https://www.espn.com/mlb/player/_/id/32159
+Tommy Pham,CF,R,R,35,"6' 1""",223 lbs,"Las Vegas, NV",28,nym,new-york-mets,2023-04-06T20:20:23Z,31208,https://www.espn.com/mlb/player/_/id/31208
+Daniel Vogelbach,DH,L,R,30,"6' 0""",270 lbs,"Orlando, FL",32,nym,new-york-mets,2023-04-06T20:20:23Z,32851,https://www.espn.com/mlb/player/_/id/32851
+Albert Abreu,RP,R,R,27,"6' 2""",190 lbs,"Guayubin, Dominican Republic",84,nyy,new-york-yankees,2023-04-06T20:20:23Z,36041,https://www.espn.com/mlb/player/_/id/36041
+Colten Brewer,RP,R,R,30,"6' 4""",222 lbs,"Dallas, TX",54,nyy,new-york-yankees,2023-04-06T20:20:23Z,36631,https://www.espn.com/mlb/player/_/id/36631
+Gerrit Cole,SP,R,R,32,"6' 4""",220 lbs,"Newport Beach, CA",45,nyy,new-york-yankees,2023-04-06T20:20:23Z,32081,https://www.espn.com/mlb/player/_/id/32081
+Jimmy Cordero,RP,R,R,31,"6' 4""",240 lbs,"San Cristobal, Dominican Republic",70,nyy,new-york-yankees,2023-04-06T20:20:23Z,34850,https://www.espn.com/mlb/player/_/id/34850
+Nestor Cortes,SP,R,L,28,"5' 11""",210 lbs,"San Jose de las Lajas, FL",65,nyy,new-york-yankees,2023-04-06T20:20:23Z,36480,https://www.espn.com/mlb/player/_/id/36480
+Domingo German,SP,R,R,30,"6' 2""",181 lbs,"San Pedro de Macoris, Dominican Republic",0,nyy,new-york-yankees,2023-04-06T20:20:23Z,33660,https://www.espn.com/mlb/player/_/id/33660
+Ian Hamilton,RP,R,R,27,"6' 1""",200 lbs,"Dover, NH",71,nyy,new-york-yankees,2023-04-06T20:20:23Z,41127,https://www.espn.com/mlb/player/_/id/41127
+Clay Holmes,RP,R,R,30,"6' 5""",245 lbs,"Dothan, AL",35,nyy,new-york-yankees,2023-04-06T20:20:23Z,32827,https://www.espn.com/mlb/player/_/id/32827
+Michael King,RP,R,R,27,"6' 3""",210 lbs,"Rochester, NY",34,nyy,new-york-yankees,2023-04-06T20:20:23Z,40429,https://www.espn.com/mlb/player/_/id/40429
+Jonathan Loaisiga,RP,R,R,28,"5' 11""",165 lbs,"Managua, Nicaragua",43,nyy,new-york-yankees,2023-04-06T20:20:23Z,39807,https://www.espn.com/mlb/player/_/id/39807
+Ron Marinaccio,RP,R,R,27,"6' 2""",205 lbs,"Toms River, NJ",97,nyy,new-york-yankees,2023-04-06T20:20:23Z,4228723,https://www.espn.com/mlb/player/_/id/4228723
+Wandy Peralta,RP,L,L,31,"6' 0""",227 lbs,"San Francisco de Macoris, Dominican Republic",58,nyy,new-york-yankees,2023-04-06T20:20:23Z,36036,https://www.espn.com/mlb/player/_/id/36036
+Clarke Schmidt,SP,R,R,27,"6' 1""",200 lbs,"Acworth, GA",36,nyy,new-york-yankees,2023-04-06T20:20:23Z,41085,https://www.espn.com/mlb/player/_/id/41085
+Kyle Higashioka,C,R,R,32,"6' 1""",202 lbs,"Huntington Beach, CA",66,nyy,new-york-yankees,2023-04-06T20:20:23Z,30545,https://www.espn.com/mlb/player/_/id/30545
+Jose Trevino,C,R,R,30,"5' 10""",215 lbs,"Corpus Christi, TX",39,nyy,new-york-yankees,2023-04-06T20:20:23Z,35268,https://www.espn.com/mlb/player/_/id/35268
+Oswaldo Cabrera,3B,B,R,24,"5' 11""",200 lbs,"Guarenas, Venezuela",95,nyy,new-york-yankees,2023-04-06T20:20:23Z,40835,https://www.espn.com/mlb/player/_/id/40835
+Josh Donaldson,3B,R,R,37,"6' 1""",210 lbs,"Pensacola, FL",28,nyy,new-york-yankees,2023-04-06T20:20:23Z,29563,https://www.espn.com/mlb/player/_/id/29563
+Isiah Kiner-Falefa,SS,R,R,28,"5' 11""",190 lbs,"Honolulu, HI",12,nyy,new-york-yankees,2023-04-06T20:20:23Z,33572,https://www.espn.com/mlb/player/_/id/33572
+DJ LeMahieu,2B,R,R,34,"6' 4""",220 lbs,"Visalia, CA",26,nyy,new-york-yankees,2023-04-06T20:20:23Z,30765,https://www.espn.com/mlb/player/_/id/30765
+Anthony Rizzo,1B,L,L,33,"6' 3""",240 lbs,"Parkland, FL",48,nyy,new-york-yankees,2023-04-06T20:20:23Z,30782,https://www.espn.com/mlb/player/_/id/30782
+Gleyber Torres,2B,R,R,26,"6' 1""",205 lbs,"Caracas, Venezuela",25,nyy,new-york-yankees,2023-04-06T20:20:23Z,33804,https://www.espn.com/mlb/player/_/id/33804
+Anthony Volpe,SS,R,R,21,"5' 9""",180 lbs,"New York, NY",11,nyy,new-york-yankees,2023-04-06T20:20:23Z,42547,https://www.espn.com/mlb/player/_/id/42547
+Franchy Cordero,CF,L,R,28,"6' 3""",225 lbs,"Azua Province, Dominican Republic",33,nyy,new-york-yankees,2023-04-06T20:20:23Z,33340,https://www.espn.com/mlb/player/_/id/33340
+Aaron Hicks,LF,B,R,33,"6' 1""",205 lbs,"San Pedro, CA",31,nyy,new-york-yankees,2023-04-06T20:20:23Z,31253,https://www.espn.com/mlb/player/_/id/31253
+Aaron Judge,RF,R,R,30,"6' 7""",282 lbs,"Linden, CA",99,nyy,new-york-yankees,2023-04-06T20:20:23Z,33192,https://www.espn.com/mlb/player/_/id/33192
+Giancarlo Stanton,RF,R,R,33,"6' 6""",245 lbs,"Panorama City, CA",27,nyy,new-york-yankees,2023-04-06T20:20:23Z,30583,https://www.espn.com/mlb/player/_/id/30583
+Domingo Acevedo,RP,R,R,29,"6' 7""",240 lbs,"Mao, Dominican Republic",68,oak,oakland-athletics,2023-04-06T20:20:23Z,35010,https://www.espn.com/mlb/player/_/id/35010
+Jeurys Familia,RP,R,R,33,"6' 3""",240 lbs,"Santo Domingo, Dominican Republic",31,oak,oakland-athletics,2023-04-06T20:20:23Z,31687,https://www.espn.com/mlb/player/_/id/31687
+Shintaro Fujinami,SP,R,R,28,"6' 6""",180 lbs,"Osaka, Japan",11,oak,oakland-athletics,2023-04-06T20:20:23Z,4142398,https://www.espn.com/mlb/player/_/id/4142398
+Zach Jackson,RP,R,R,28,"6' 4""",230 lbs,"Tulsa, OK",61,oak,oakland-athletics,2023-04-06T20:20:23Z,36002,https://www.espn.com/mlb/player/_/id/36002
+Dany Jimenez,RP,R,R,29,"6' 1""",182 lbs,"San Cristobal, Dominican Republic",56,oak,oakland-athletics,2023-04-06T20:20:23Z,42380,https://www.espn.com/mlb/player/_/id/42380
+James Kaprielian,SP,R,R,29,"6' 3""",225 lbs,"Laguna Hills, CA",32,oak,oakland-athletics,2023-04-06T20:20:23Z,34927,https://www.espn.com/mlb/player/_/id/34927
+Adrian Martinez,SP,R,R,26,"6' 2""",215 lbs,"Mexicali, Mexico",55,oak,oakland-athletics,2023-04-06T20:20:23Z,4915829,https://www.espn.com/mlb/player/_/id/4915829
+Trevor May,RP,R,R,33,"6' 5""",240 lbs,"Longview, WA",65,oak,oakland-athletics,2023-04-06T20:20:23Z,31263,https://www.espn.com/mlb/player/_/id/31263
+Sam Moll,RP,L,L,31,"5' 9""",190 lbs,"Lakeland, TN",60,oak,oakland-athletics,2023-04-06T20:20:23Z,34928,https://www.espn.com/mlb/player/_/id/34928
+Kyle Muller,SP,R,L,25,"6' 7""",250 lbs,"Dallas, TX",39,oak,oakland-athletics,2023-04-06T20:20:23Z,41041,https://www.espn.com/mlb/player/_/id/41041
+Adam Oller,SP,R,R,28,"6' 4""",225 lbs,"Conroe, TX",36,oak,oakland-athletics,2023-04-06T20:20:23Z,42170,https://www.espn.com/mlb/player/_/id/42170
+JP Sears,SP,R,L,27,"5' 11""",180 lbs,"Sumter, SC",38,oak,oakland-athletics,2023-04-06T20:20:23Z,39818,https://www.espn.com/mlb/player/_/id/39818
+Ken Waldichuk,SP,L,L,25,"6' 4""",220 lbs,"San Diego, CA",64,oak,oakland-athletics,2023-04-06T20:20:23Z,4189711,https://www.espn.com/mlb/player/_/id/4189711
+Shea Langeliers,C,R,R,25,"6' 0""",205 lbs,"Portland, OR",23,oak,oakland-athletics,2023-04-06T20:20:23Z,42598,https://www.espn.com/mlb/player/_/id/42598
+Carlos Perez,C,R,R,32,"5' 10""",210 lbs,"Valencia, Venezuela",44,oak,oakland-athletics,2023-04-06T20:20:23Z,30237,https://www.espn.com/mlb/player/_/id/30237
+Jesus Aguilar,1B,R,R,32,"6' 3""",277 lbs,"Maracay, Venezuela",99,oak,oakland-athletics,2023-04-06T20:20:23Z,32132,https://www.espn.com/mlb/player/_/id/32132
+Nick Allen,SS,R,R,24,"5' 8""",166 lbs,"San Diego, CA",2,oak,oakland-athletics,2023-04-06T20:20:23Z,40338,https://www.espn.com/mlb/player/_/id/40338
+Aledmys Diaz,SS,R,R,32,"6' 1""",195 lbs,"Santa Clara, Cuba",12,oak,oakland-athletics,2023-04-06T20:20:23Z,33390,https://www.espn.com/mlb/player/_/id/33390
+Tony Kemp,2B,L,R,31,"5' 6""",160 lbs,"Franklin, TN",5,oak,oakland-athletics,2023-04-06T20:20:23Z,34083,https://www.espn.com/mlb/player/_/id/34083
+Ryan Noda,1B,L,L,27,"6' 3""",217 lbs,"Volo, IL",49,oak,oakland-athletics,2023-04-06T20:20:23Z,40518,https://www.espn.com/mlb/player/_/id/40518
+Jace Peterson,3B,L,R,32,"6' 0""",215 lbs,"Lake Charles, LA",6,oak,oakland-athletics,2023-04-06T20:20:23Z,32323,https://www.espn.com/mlb/player/_/id/32323
+Seth Brown,LF,L,L,30,"6' 1""",223 lbs,"Klamath Falls, OR",15,oak,oakland-athletics,2023-04-06T20:20:23Z,35676,https://www.espn.com/mlb/player/_/id/35676
+Conner Capel,RF,L,L,25,"6' 1""",185 lbs,"Katy, TX",21,oak,oakland-athletics,2023-04-06T20:20:23Z,38029,https://www.espn.com/mlb/player/_/id/38029
+Ramon Laureano,RF,R,R,28,"5' 11""",203 lbs,"Santo Domingo, FL",22,oak,oakland-athletics,2023-04-06T20:20:23Z,35142,https://www.espn.com/mlb/player/_/id/35142
+Brent Rooker,LF,R,R,28,"6' 4""",225 lbs,"Germantown, TN",25,oak,oakland-athletics,2023-04-06T20:20:23Z,40926,https://www.espn.com/mlb/player/_/id/40926
+Esteury Ruiz,CF,R,R,24,"6' 0""",169 lbs,"Azua Province, Dominican Republic",1,oak,oakland-athletics,2023-04-06T20:20:23Z,39680,https://www.espn.com/mlb/player/_/id/39680
+Jose Alvarado,RP,L,L,27,"6' 2""",245 lbs,"Maracaibo, Venezuela",46,phi,philadelphia-phillies,2023-04-06T20:20:23Z,36063,https://www.espn.com/mlb/player/_/id/36063
+Andrew Bellatti,RP,R,R,31,"6' 1""",190 lbs,"San Diego, CA",64,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33811,https://www.espn.com/mlb/player/_/id/33811
+Connor Brogdon,RP,R,R,28,"6' 6""",205 lbs,"Clovis, CA",75,phi,philadelphia-phillies,2023-04-06T20:20:23Z,41515,https://www.espn.com/mlb/player/_/id/41515
+Seranthony Dominguez,RP,R,R,28,"6' 1""",225 lbs,"Esperanza, Dominican Republic",58,phi,philadelphia-phillies,2023-04-06T20:20:23Z,37793,https://www.espn.com/mlb/player/_/id/37793
+Bailey Falter,SP,R,L,25,"6' 4""",175 lbs,"Chino Hills, CA",70,phi,philadelphia-phillies,2023-04-06T20:20:23Z,4705677,https://www.espn.com/mlb/player/_/id/4705677
+Craig Kimbrel,RP,R,R,34,"6' 0""",215 lbs,"Huntsville, AL",31,phi,philadelphia-phillies,2023-04-06T20:20:23Z,30653,https://www.espn.com/mlb/player/_/id/30653
+McKinley Moore,RP,R,R,24,"6' 6""",225 lbs,"Houston, TX",79,phi,philadelphia-phillies,2023-04-06T20:20:23Z,4197726,https://www.espn.com/mlb/player/_/id/4197726
+Aaron Nola,SP,R,R,29,"6' 2""",200 lbs,"Baton Rouge, LA",27,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33709,https://www.espn.com/mlb/player/_/id/33709
+Gregory Soto,RP,L,L,28,"6' 1""",234 lbs,"Bajos de Haina, Dominican Republic",30,phi,philadelphia-phillies,2023-04-06T20:20:23Z,39804,https://www.espn.com/mlb/player/_/id/39804
+Matt Strahm,RP,R,L,31,"6' 2""",190 lbs,"West Fargo, ND",25,phi,philadelphia-phillies,2023-04-06T20:20:23Z,34862,https://www.espn.com/mlb/player/_/id/34862
+Andrew Vasquez,RP,L,L,29,"6' 6""",235 lbs,"Rancho Cucamonga, CA",37,phi,philadelphia-phillies,2023-04-06T20:20:23Z,41129,https://www.espn.com/mlb/player/_/id/41129
+Taijuan Walker,SP,R,R,30,"6' 4""",235 lbs,"Shreveport, LA",99,phi,philadelphia-phillies,2023-04-06T20:20:23Z,31864,https://www.espn.com/mlb/player/_/id/31864
+Zack Wheeler,SP,L,R,32,"6' 4""",195 lbs,"Smyrna, GA",45,phi,philadelphia-phillies,2023-04-06T20:20:23Z,31267,https://www.espn.com/mlb/player/_/id/31267
+J.T. Realmuto,C,R,R,32,"6' 1""",212 lbs,"Del City, OK",10,phi,philadelphia-phillies,2023-04-06T20:20:23Z,32177,https://www.espn.com/mlb/player/_/id/32177
+Garrett Stubbs,C,L,R,29,"5' 10""",170 lbs,"San Diego, CA",21,phi,philadelphia-phillies,2023-04-06T20:20:23Z,35760,https://www.espn.com/mlb/player/_/id/35760
+Alec Bohm,3B,R,R,26,"6' 5""",218 lbs,"Omaha, NE",28,phi,philadelphia-phillies,2023-04-06T20:20:23Z,41169,https://www.espn.com/mlb/player/_/id/41169
+Darick Hall,1B,L,R,27,"6' 4""",232 lbs,"Hereford, AZ",24,phi,philadelphia-phillies,2023-04-06T20:20:23Z,40889,https://www.espn.com/mlb/player/_/id/40889
+Josh Harrison,2B,R,R,35,"5' 8""",190 lbs,"Cincinnati, OH",2,phi,philadelphia-phillies,2023-04-06T20:20:23Z,30934,https://www.espn.com/mlb/player/_/id/30934
+Edmundo Sosa,SS,R,R,27,"6' 0""",210 lbs,"Panama City, Panama",33,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33809,https://www.espn.com/mlb/player/_/id/33809
+Bryson Stott,2B,L,R,25,"6' 3""",200 lbs,"Las Vegas, NV",5,phi,philadelphia-phillies,2023-04-06T20:20:23Z,42417,https://www.espn.com/mlb/player/_/id/42417
+Trea Turner,SS,R,R,29,"6' 2""",185 lbs,"Boynton Beach, FL",7,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33710,https://www.espn.com/mlb/player/_/id/33710
+Nick Castellanos,RF,R,R,31,"6' 4""",203 lbs,"Hialeah, FL",8,phi,philadelphia-phillies,2023-04-06T20:20:23Z,31187,https://www.espn.com/mlb/player/_/id/31187
+Jake Cave,LF,L,L,30,"6' 0""",200 lbs,"Hampton, VA",44,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33417,https://www.espn.com/mlb/player/_/id/33417
+Brandon Marsh,CF,L,R,25,"6' 4""",215 lbs,"Buford, GA",16,phi,philadelphia-phillies,2023-04-06T20:20:23Z,40803,https://www.espn.com/mlb/player/_/id/40803
+Cristian Pache,CF,R,R,24,"6' 2""",215 lbs,"Santo Domingo, Dominican Republic",19,phi,philadelphia-phillies,2023-04-06T20:20:23Z,39897,https://www.espn.com/mlb/player/_/id/39897
+Kyle Schwarber,LF,L,R,30,"6' 0""",229 lbs,"Middletown, OH",12,phi,philadelphia-phillies,2023-04-06T20:20:23Z,33712,https://www.espn.com/mlb/player/_/id/33712
+David Bednar,RP,L,R,28,"6' 1""",250 lbs,"Pittsburgh, PA",51,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,38303,https://www.espn.com/mlb/player/_/id/38303
+Roansy Contreras,SP,R,R,23,"6' 0""",175 lbs,"Yamasa, Dominican Republic",59,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,40967,https://www.espn.com/mlb/player/_/id/40967
+Wil Crowe,RP,R,R,28,"6' 2""",245 lbs,"Kingston, TN",29,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,40957,https://www.espn.com/mlb/player/_/id/40957
+Chase De Jong,RP,L,R,29,"6' 4""",230 lbs,"Long Beach, CA",37,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,32813,https://www.espn.com/mlb/player/_/id/32813
+Jose Hernandez,RP,L,L,25,"5' 10""",205 lbs,"Puerto Plata, Dominican Republic",61,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,5123576,https://www.espn.com/mlb/player/_/id/5123576
+Rich Hill,SP,L,L,43,"6' 5""",221 lbs,"Boston, MA",44,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,6321,https://www.espn.com/mlb/player/_/id/6321
+Colin Holderman,RP,R,R,27,"6' 7""",240 lbs,"Bourbonnais, IL",35,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,4917897,https://www.espn.com/mlb/player/_/id/4917897
+Mitch Keller,SP,R,R,27,"6' 2""",220 lbs,"Cedar Rapids, IA",23,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,33722,https://www.espn.com/mlb/player/_/id/33722
+Dauri Moreta,RP,R,R,26,"6' 2""",185 lbs,"Comendador, Dominican Republic",36,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,41874,https://www.espn.com/mlb/player/_/id/41874
+Johan Oviedo,RP,R,R,25,"6' 5""",245 lbs,"Havana, Cuba",24,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,41405,https://www.espn.com/mlb/player/_/id/41405
+Duane Underwood Jr.,RP,R,R,28,"6' 2""",225 lbs,"Raleigh, NC",56,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,32830,https://www.espn.com/mlb/player/_/id/32830
+Vince Velasquez,SP,R,R,30,"6' 3""",212 lbs,"Montclair, CA",27,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,31878,https://www.espn.com/mlb/player/_/id/31878
+Rob Zastryzny,RP,R,L,31,"6' 3""",205 lbs,"Edmonton, AB",62,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,36025,https://www.espn.com/mlb/player/_/id/36025
+Jason Delay,C,R,R,28,"5' 11""",200 lbs,"Plano, TX",55,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,41458,https://www.espn.com/mlb/player/_/id/41458
+Tyler Heineman,C,B,R,31,"5' 10""",190 lbs,"Pacific Palisades, CA",54,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,33142,https://www.espn.com/mlb/player/_/id/33142
+Ji Hwan Bae,2B,L,R,23,"6' 1""",185 lbs,"Dae Gu, South Korea",3,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,40896,https://www.espn.com/mlb/player/_/id/40896
+Rodolfo Castro,2B,B,R,23,"6' 0""",205 lbs,"San Jose de los Llanos, Dominican Republic",14,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,41532,https://www.espn.com/mlb/player/_/id/41532
+Ji Man Choi,1B,L,R,31,"6' 1""",260 lbs,"Incheon, South Korea",91,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,31779,https://www.espn.com/mlb/player/_/id/31779
+Oneil Cruz,SS,L,R,24,"6' 7""",220 lbs,"Nizao, Dominican Republic",15,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,39712,https://www.espn.com/mlb/player/_/id/39712
+Ke'Bryan Hayes,3B,R,R,26,"5' 10""",205 lbs,"Tomball, TX",13,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,35020,https://www.espn.com/mlb/player/_/id/35020
+Connor Joe,1B,R,R,30,"6' 0""",205 lbs,"San Diego, CA",2,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,35440,https://www.espn.com/mlb/player/_/id/35440
+Carlos Santana,1B,B,R,36,"5' 11""",215 lbs,"Santo Domingo, Dominican Republic",41,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,30280,https://www.espn.com/mlb/player/_/id/30280
+Andrew McCutchen,RF,R,R,36,"5' 11""",195 lbs,"Fort Meade, FL",22,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,28701,https://www.espn.com/mlb/player/_/id/28701
+Bryan Reynolds,LF,B,R,28,"6' 3""",205 lbs,"Baltimore, MD",10,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,38980,https://www.espn.com/mlb/player/_/id/38980
+Canaan Smith-Njigba,RF,L,R,23,"6' 0""",230 lbs,"Dallas, TX",28,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,42454,https://www.espn.com/mlb/player/_/id/42454
+Jack Suwinski,CF,L,L,24,"6' 2""",215 lbs,"Chicago, IL",65,pit,pittsburgh-pirates,2023-04-06T20:20:23Z,36754,https://www.espn.com/mlb/player/_/id/36754
+Nabil Crismatt,RP,R,R,28,"6' 1""",220 lbs,"Barranquilla, Colombia",74,sd,san-diego-padres,2023-04-06T20:20:23Z,41421,https://www.espn.com/mlb/player/_/id/41421
+Yu Darvish,SP,R,R,36,"6' 5""",220 lbs,"Osaka, Japan",11,sd,san-diego-padres,2023-04-06T20:20:23Z,32055,https://www.espn.com/mlb/player/_/id/32055
+Luis Garcia,RP,R,R,36,"6' 2""",240 lbs,"Santo Domingo, Dominican Republic",66,sd,san-diego-padres,2023-04-06T20:20:23Z,33089,https://www.espn.com/mlb/player/_/id/33089
+Josh Hader,RP,L,L,28,"5' 11""",180 lbs,"Millersville, MD",71,sd,san-diego-padres,2023-04-06T20:20:23Z,32760,https://www.espn.com/mlb/player/_/id/32760
+Tim Hill,RP,R,L,33,"6' 4""",200 lbs,"Mission Hills, CA",25,sd,san-diego-padres,2023-04-06T20:20:23Z,37005,https://www.espn.com/mlb/player/_/id/37005
+Brent Honeywell,RP,R,R,28,"6' 2""",195 lbs,"Augusta, GA",45,sd,san-diego-padres,2023-04-06T20:20:23Z,33838,https://www.espn.com/mlb/player/_/id/33838
+Seth Lugo,RP,R,R,33,"6' 4""",225 lbs,"Shreveport, LA",67,sd,san-diego-padres,2023-04-06T20:20:23Z,34873,https://www.espn.com/mlb/player/_/id/34873
+Nick Martinez,RP,L,R,32,"6' 1""",200 lbs,"Miami, FL",21,sd,san-diego-padres,2023-04-06T20:20:23Z,33372,https://www.espn.com/mlb/player/_/id/33372
+Blake Snell,SP,L,L,30,"6' 4""",225 lbs,"Seattle, WA",4,sd,san-diego-padres,2023-04-06T20:20:23Z,33748,https://www.espn.com/mlb/player/_/id/33748
+Domingo Tapia,RP,R,R,31,"6' 3""",263 lbs,"Santo Domingo, Dominican Republic",76,sd,san-diego-padres,2023-04-06T20:20:23Z,32160,https://www.espn.com/mlb/player/_/id/32160
+Michael Wacha,SP,R,R,31,"6' 6""",215 lbs,"Iowa City, IA",52,sd,san-diego-padres,2023-04-06T20:20:23Z,32640,https://www.espn.com/mlb/player/_/id/32640
+Ryan Weathers,SP,R,L,23,"6' 1""",230 lbs,"Loretto, TN",40,sd,san-diego-padres,2023-04-06T20:20:23Z,41178,https://www.espn.com/mlb/player/_/id/41178
+Steven Wilson,RP,R,R,28,"6' 3""",221 lbs,"Littleton, CO",36,sd,san-diego-padres,2023-04-06T20:20:23Z,41828,https://www.espn.com/mlb/player/_/id/41828
+Luis Campusano,C,R,R,24,"5' 11""",232 lbs,"Augusta, GA",12,sd,san-diego-padres,2023-04-06T20:20:23Z,40521,https://www.espn.com/mlb/player/_/id/40521
+Austin Nola,C,R,R,33,"6' 0""",197 lbs,"Baton Rouge, LA",26,sd,san-diego-padres,2023-04-06T20:20:23Z,32961,https://www.espn.com/mlb/player/_/id/32961
+Xander Bogaerts,SS,R,R,30,"6' 2""",218 lbs,"Oranjestad, Aruba",2,sd,san-diego-padres,2023-04-06T20:20:23Z,31606,https://www.espn.com/mlb/player/_/id/31606
+Matt Carpenter,1B,L,R,37,"6' 4""",210 lbs,"Galveston, TX",14,sd,san-diego-padres,2023-04-06T20:20:23Z,31015,https://www.espn.com/mlb/player/_/id/31015
+Jake Cronenworth,2B,L,R,29,"6' 0""",187 lbs,"Saint Clair, MI",9,sd,san-diego-padres,2023-04-06T20:20:23Z,36364,https://www.espn.com/mlb/player/_/id/36364
+Ha-Seong Kim,2B,R,R,27,"5' 9""",168 lbs,"Seoul, South Korea",7,sd,san-diego-padres,2023-04-06T20:20:23Z,4089862,https://www.espn.com/mlb/player/_/id/4089862
+Manny Machado,3B,R,R,30,"6' 3""",218 lbs,"Miami, FL",13,sd,san-diego-padres,2023-04-06T20:20:23Z,31097,https://www.espn.com/mlb/player/_/id/31097
+Rougned Odor,2B,L,R,29,"5' 11""",200 lbs,"Maracaibo, Venezuela",24,sd,san-diego-padres,2023-04-06T20:20:23Z,32170,https://www.espn.com/mlb/player/_/id/32170
+Jose Azocar,RF,R,R,26,"5' 11""",181 lbs,"Güiria, Venezuela",28,sd,san-diego-padres,2023-04-06T20:20:23Z,35058,https://www.espn.com/mlb/player/_/id/35058
+David Dahl,LF,L,R,29,"6' 1""",197 lbs,"Birmingham, AL",27,sd,san-diego-padres,2023-04-06T20:20:23Z,32698,https://www.espn.com/mlb/player/_/id/32698
+Trent Grisham,CF,L,L,26,"5' 11""",224 lbs,"Burleson, TX",1,sd,san-diego-padres,2023-04-06T20:20:23Z,34995,https://www.espn.com/mlb/player/_/id/34995
+Juan Soto,LF,L,L,24,"6' 2""",224 lbs,"Santo Domingo, Dominican Republic",22,sd,san-diego-padres,2023-04-06T20:20:23Z,36969,https://www.espn.com/mlb/player/_/id/36969
+Fernando Tatis Jr.,RF,R,R,24,"6' 3""",217 lbs,"San Pedro de Macoris, Dominican Republic",23,sd,san-diego-padres,2023-04-06T20:20:23Z,35983,https://www.espn.com/mlb/player/_/id/35983
+Nelson Cruz,DH,R,R,42,"6' 2""",230 lbs,"Las Matas de Santa Cruz, Dominican Republic",32,sd,san-diego-padres,2023-04-06T20:20:23Z,6242,https://www.espn.com/mlb/player/_/id/6242
+Scott Alexander,RP,L,L,33,"6' 2""",195 lbs,"Santa Rosa, CA",54,sf,san-francisco-giants,2023-04-06T20:20:23Z,33123,https://www.espn.com/mlb/player/_/id/33123
+John Brebbia,RP,L,R,32,"6' 1""",200 lbs,"Boston, MA",59,sf,san-francisco-giants,2023-04-06T20:20:23Z,39085,https://www.espn.com/mlb/player/_/id/39085
+Alex Cobb,SP,R,R,35,"6' 3""",205 lbs,"Boston, MA",38,sf,san-francisco-giants,2023-04-06T20:20:23Z,31086,https://www.espn.com/mlb/player/_/id/31086
+Anthony DeSclafani,SP,R,R,32,"6' 2""",195 lbs,"Freehold, NJ",26,sf,san-francisco-giants,2023-04-06T20:20:23Z,33180,https://www.espn.com/mlb/player/_/id/33180
+Camilo Doval,RP,R,R,25,"6' 2""",185 lbs,"Yamasa, Dominican Republic",75,sf,san-francisco-giants,2023-04-06T20:20:23Z,41337,https://www.espn.com/mlb/player/_/id/41337
+Sean Hjelle,RP,R,R,25,"6' 11""",228 lbs,"Fridley, MN",64,sf,san-francisco-giants,2023-04-06T20:20:23Z,41206,https://www.espn.com/mlb/player/_/id/41206
+Jakob Junis,SP,R,R,30,"6' 3""",220 lbs,"Jacksonville, AR",34,sf,san-francisco-giants,2023-04-06T20:20:23Z,36056,https://www.espn.com/mlb/player/_/id/36056
+Sean Manaea,SP,R,L,31,"6' 5""",245 lbs,"Valparaiso, IN",52,sf,san-francisco-giants,2023-04-06T20:20:23Z,33244,https://www.espn.com/mlb/player/_/id/33244
+Taylor Rogers,RP,L,L,32,"6' 3""",190 lbs,"Denver, CO",33,sf,san-francisco-giants,2023-04-06T20:20:23Z,33671,https://www.espn.com/mlb/player/_/id/33671
+Tyler Rogers,RP,R,R,32,"6' 3""",181 lbs,"Littleton, CO",71,sf,san-francisco-giants,2023-04-06T20:20:23Z,34026,https://www.espn.com/mlb/player/_/id/34026
+Ross Stripling,SP,R,R,33,"6' 1""",215 lbs,"Bluebell, UT",48,sf,san-francisco-giants,2023-04-06T20:20:23Z,32789,https://www.espn.com/mlb/player/_/id/32789
+Logan Webb,SP,R,R,26,"6' 1""",220 lbs,"Rocklin, CA",62,sf,san-francisco-giants,2023-04-06T20:20:23Z,41216,https://www.espn.com/mlb/player/_/id/41216
+Alex Wood,SP,R,L,32,"6' 4""",215 lbs,"Charlotte, NC",57,sf,san-francisco-giants,2023-04-06T20:20:23Z,32620,https://www.espn.com/mlb/player/_/id/32620
+Roberto Perez,C,R,R,34,"5' 11""",220 lbs,"Mayaguez, Puerto Rico",1,sf,san-francisco-giants,2023-04-06T20:20:23Z,32265,https://www.espn.com/mlb/player/_/id/32265
+Blake Sabol,C,L,R,25,"6' 4""",225 lbs,"Aliso Viejo, CA",2,sf,san-francisco-giants,2023-04-06T20:20:23Z,5120296,https://www.espn.com/mlb/player/_/id/5120296
+Brandon Crawford,SS,L,R,36,"6' 1""",223 lbs,"Mountain View, CA",35,sf,san-francisco-giants,2023-04-06T20:20:23Z,30469,https://www.espn.com/mlb/player/_/id/30469
+J.D. Davis,1B,R,R,29,"6' 3""",218 lbs,"Elk Grove, CA",7,sf,san-francisco-giants,2023-04-06T20:20:23Z,33796,https://www.espn.com/mlb/player/_/id/33796
+Thairo Estrada,2B,R,R,27,"5' 10""",185 lbs,"Bejuma, Venezuela",39,sf,san-francisco-giants,2023-04-06T20:20:23Z,36485,https://www.espn.com/mlb/player/_/id/36485
+Wilmer Flores,1B,R,R,31,"6' 2""",213 lbs,"Valencia, Venezuela",41,sf,san-francisco-giants,2023-04-06T20:20:23Z,30627,https://www.espn.com/mlb/player/_/id/30627
+Joc Pederson,1B,L,L,30,"6' 1""",220 lbs,"Palo Alto, CA",23,sf,san-francisco-giants,2023-04-06T20:20:23Z,31392,https://www.espn.com/mlb/player/_/id/31392
+David Villar,3B,R,R,26,"6' 1""",215 lbs,"Atlanta, GA",32,sf,san-francisco-giants,2023-04-06T20:20:23Z,43031,https://www.espn.com/mlb/player/_/id/43031
+LaMonte Wade Jr.,1B,L,L,29,"6' 1""",205 lbs,"Baltimore, MD",31,sf,san-francisco-giants,2023-04-06T20:20:23Z,37798,https://www.espn.com/mlb/player/_/id/37798
+Matt Beaty,RF,L,R,29,"6' 0""",215 lbs,"Snellville, GA",45,sf,san-francisco-giants,2023-04-06T20:20:23Z,37004,https://www.espn.com/mlb/player/_/id/37004
+Michael Conforto,RF,L,R,30,"6' 1""",215 lbs,"Seattle, WA",8,sf,san-francisco-giants,2023-04-06T20:20:23Z,33711,https://www.espn.com/mlb/player/_/id/33711
+Bryce Johnson,CF,B,R,27,"6' 1""",195 lbs,"Cypress, TX",58,sf,san-francisco-giants,2023-04-06T20:20:23Z,42056,https://www.espn.com/mlb/player/_/id/42056
+Mike Yastrzemski,CF,L,L,32,"5' 10""",178 lbs,"Andover, MA",5,sf,san-francisco-giants,2023-04-06T20:20:23Z,33341,https://www.espn.com/mlb/player/_/id/33341
+Matt Brash,RP,R,R,24,"6' 1""",173 lbs,"Kingston, ON",47,sea,seattle-mariners,2023-04-06T20:20:23Z,4894467,https://www.espn.com/mlb/player/_/id/4894467
+Diego Castillo,RP,R,R,29,"6' 3""",268 lbs,"Cabrera, Dominican Republic",63,sea,seattle-mariners,2023-04-06T20:20:23Z,39103,https://www.espn.com/mlb/player/_/id/39103
+Luis Castillo,SP,R,R,30,"6' 2""",200 lbs,"Bani, Dominican Republic",58,sea,seattle-mariners,2023-04-06T20:20:23Z,35124,https://www.espn.com/mlb/player/_/id/35124
+Matt Festa,RP,R,R,30,"6' 1""",195 lbs,"Brooklyn, NY",67,sea,seattle-mariners,2023-04-06T20:20:23Z,39871,https://www.espn.com/mlb/player/_/id/39871
+Chris Flexen,SP,R,R,28,"6' 3""",219 lbs,"Newark, CA",77,sea,seattle-mariners,2023-04-06T20:20:23Z,36067,https://www.espn.com/mlb/player/_/id/36067
+Logan Gilbert,SP,R,R,25,"6' 6""",215 lbs,"Winter Park, FL",36,sea,seattle-mariners,2023-04-06T20:20:23Z,41221,https://www.espn.com/mlb/player/_/id/41221
+Marco Gonzales,SP,L,L,31,"6' 1""",205 lbs,"Fort Collins, CO",7,sea,seattle-mariners,2023-04-06T20:20:23Z,33158,https://www.espn.com/mlb/player/_/id/33158
+Trevor Gott,RP,R,R,30,"5' 10""",182 lbs,"Lexington, KY",30,sea,seattle-mariners,2023-04-06T20:20:23Z,33614,https://www.espn.com/mlb/player/_/id/33614
+George Kirby,SP,R,R,25,"6' 4""",215 lbs,"Rye, NY",68,sea,seattle-mariners,2023-04-06T20:20:23Z,42406,https://www.espn.com/mlb/player/_/id/42406
+Andres Munoz,RP,R,R,24,"6' 2""",222 lbs,"Los Mochis, Mexico",75,sea,seattle-mariners,2023-04-06T20:20:23Z,40939,https://www.espn.com/mlb/player/_/id/40939
+Penn Murfee,RP,R,R,28,"6' 2""",195 lbs,"Nashville, TN",56,sea,seattle-mariners,2023-04-06T20:20:23Z,42631,https://www.espn.com/mlb/player/_/id/42631
+Paul Sewald,RP,R,R,32,"6' 3""",219 lbs,"Las Vegas, NV",37,sea,seattle-mariners,2023-04-06T20:20:23Z,35009,https://www.espn.com/mlb/player/_/id/35009
+Gabe Speier,RP,L,L,27,"5' 11""",200 lbs,"Santa Barbara, CA",55,sea,seattle-mariners,2023-04-06T20:20:23Z,40327,https://www.espn.com/mlb/player/_/id/40327
+Cooper Hummel,C,B,R,28,"5' 10""",198 lbs,"Portland, OR",21,sea,seattle-mariners,2023-04-06T20:20:23Z,41626,https://www.espn.com/mlb/player/_/id/41626
+Tom Murphy,C,R,R,32,"6' 1""",206 lbs,"West Monroe, NY",2,sea,seattle-mariners,2023-04-06T20:20:23Z,33225,https://www.espn.com/mlb/player/_/id/33225
+Cal Raleigh,C,B,R,26,"6' 3""",235 lbs,"Cullowhee, NC",29,sea,seattle-mariners,2023-04-06T20:20:23Z,41292,https://www.espn.com/mlb/player/_/id/41292
+J.P. Crawford,SS,L,R,28,"6' 2""",202 lbs,"Long Beach, CA",3,sea,seattle-mariners,2023-04-06T20:20:23Z,33210,https://www.espn.com/mlb/player/_/id/33210
+Ty France,1B,R,R,28,"5' 11""",215 lbs,"Downey, CA",23,sea,seattle-mariners,2023-04-06T20:20:23Z,35591,https://www.espn.com/mlb/player/_/id/35591
+Tommy La Stella,3B,L,R,34,"5' 11""",180 lbs,"Westwood, NJ",4,sea,seattle-mariners,2023-04-06T20:20:23Z,32217,https://www.espn.com/mlb/player/_/id/32217
+Eugenio Suarez,3B,R,R,31,"5' 11""",213 lbs,"Puerto Ordaz, Venezuela",28,sea,seattle-mariners,2023-04-06T20:20:23Z,32367,https://www.espn.com/mlb/player/_/id/32367
+Kolten Wong,2B,L,R,32,"5' 7""",185 lbs,"Hilo, HI",16,sea,seattle-mariners,2023-04-06T20:20:23Z,32061,https://www.espn.com/mlb/player/_/id/32061
+Sam Haggerty,CF,B,R,28,"5' 11""",175 lbs,"Phoenix, AZ",0,sea,seattle-mariners,2023-04-06T20:20:23Z,38347,https://www.espn.com/mlb/player/_/id/38347
+Teoscar Hernandez,RF,R,R,30,"6' 2""",215 lbs,"Cotui, Dominican Republic",35,sea,seattle-mariners,2023-04-06T20:20:23Z,33377,https://www.espn.com/mlb/player/_/id/33377
+Jarred Kelenic,LF,L,L,23,"6' 1""",206 lbs,"Waukesha, WI",10,sea,seattle-mariners,2023-04-06T20:20:23Z,41150,https://www.espn.com/mlb/player/_/id/41150
+AJ Pollock,LF,R,R,35,"6' 1""",210 lbs,"Hebron, CT",8,sea,seattle-mariners,2023-04-06T20:20:23Z,30699,https://www.espn.com/mlb/player/_/id/30699
+Julio Rodriguez,CF,R,R,22,"6' 3""",228 lbs,"Loma de Cabrera, Dominican Republic",44,sea,seattle-mariners,2023-04-06T20:20:23Z,41044,https://www.espn.com/mlb/player/_/id/41044
+Jack Flaherty,SP,R,R,27,"6' 4""",225 lbs,"Burbank, CA",22,stl,st-louis-cardinals,2023-04-06T20:20:23Z,33837,https://www.espn.com/mlb/player/_/id/33837
+Giovanny Gallegos,RP,R,R,31,"6' 2""",215 lbs,"Obregon, Mexico",65,stl,st-louis-cardinals,2023-04-06T20:20:23Z,36050,https://www.espn.com/mlb/player/_/id/36050
+Ryan Helsley,RP,R,R,28,"6' 2""",230 lbs,"Tahlequah, OK",56,stl,st-louis-cardinals,2023-04-06T20:20:23Z,39909,https://www.espn.com/mlb/player/_/id/39909
+Jordan Hicks,RP,R,R,26,"6' 2""",220 lbs,"Houston, TX",12,stl,st-louis-cardinals,2023-04-06T20:20:23Z,37909,https://www.espn.com/mlb/player/_/id/37909
+Steven Matz,SP,R,L,31,"6' 2""",201 lbs,"Stony Brook, NY",32,stl,st-louis-cardinals,2023-04-06T20:20:23Z,33106,https://www.espn.com/mlb/player/_/id/33106
+Miles Mikolas,SP,R,R,34,"6' 4""",230 lbs,"Jupiter, FL",39,stl,st-louis-cardinals,2023-04-06T20:20:23Z,32116,https://www.espn.com/mlb/player/_/id/32116
+Jordan Montgomery,SP,L,L,30,"6' 6""",228 lbs,"Sumter, SC",47,stl,st-louis-cardinals,2023-04-06T20:20:23Z,38173,https://www.espn.com/mlb/player/_/id/38173
+Packy Naughton,RP,R,L,26,"6' 2""",195 lbs,"Boston, MA",70,stl,st-louis-cardinals,2023-04-06T20:20:23Z,4690629,https://www.espn.com/mlb/player/_/id/4690629
+Andre Pallante,SP,R,R,24,"6' 0""",203 lbs,"Mission Viejo, CA",53,stl,st-louis-cardinals,2023-04-06T20:20:23Z,4109034,https://www.espn.com/mlb/player/_/id/4109034
+Chris Stratton,RP,R,R,32,"6' 2""",205 lbs,"Tupelo, MS",30,stl,st-louis-cardinals,2023-04-06T20:20:23Z,32787,https://www.espn.com/mlb/player/_/id/32787
+Zack Thompson,RP,L,L,25,"6' 2""",215 lbs,"Selma, IN",57,stl,st-louis-cardinals,2023-04-06T20:20:23Z,42485,https://www.espn.com/mlb/player/_/id/42485
+Drew VerHagen,RP,R,R,32,"6' 6""",230 lbs,"Royse City, TX",34,stl,st-louis-cardinals,2023-04-06T20:20:23Z,33121,https://www.espn.com/mlb/player/_/id/33121
+Jake Woodford,RP,R,R,26,"6' 4""",215 lbs,"St. Petersburg, FL",44,stl,st-louis-cardinals,2023-04-06T20:20:23Z,35284,https://www.espn.com/mlb/player/_/id/35284
+Willson Contreras,C,R,R,30,"6' 1""",225 lbs,"Puerto Cabello, Venezuela",40,stl,st-louis-cardinals,2023-04-06T20:20:23Z,32532,https://www.espn.com/mlb/player/_/id/32532
+Andrew Knizner,C,R,R,28,"6' 1""",225 lbs,"Glen Allen, VA",7,stl,st-louis-cardinals,2023-04-06T20:20:23Z,36170,https://www.espn.com/mlb/player/_/id/36170
+Nolan Arenado,3B,R,R,31,"6' 2""",215 lbs,"Newport Beach, CA",28,stl,st-louis-cardinals,2023-04-06T20:20:23Z,31261,https://www.espn.com/mlb/player/_/id/31261
+Brendan Donovan,2B,L,R,26,"6' 1""",195 lbs,"Enterprise, AL",33,stl,st-louis-cardinals,2023-04-06T20:20:23Z,41773,https://www.espn.com/mlb/player/_/id/41773
+Tommy Edman,SS,B,R,27,"5' 10""",180 lbs,"Pontiac, MI",19,stl,st-louis-cardinals,2023-04-06T20:20:23Z,39907,https://www.espn.com/mlb/player/_/id/39907
+Paul Goldschmidt,1B,R,R,35,"6' 3""",220 lbs,"Wilmington, DE",46,stl,st-louis-cardinals,2023-04-06T20:20:23Z,31027,https://www.espn.com/mlb/player/_/id/31027
+Nolan Gorman,3B,L,R,22,"6' 1""",210 lbs,"Phoenix, AZ",16,stl,st-louis-cardinals,2023-04-06T20:20:23Z,41174,https://www.espn.com/mlb/player/_/id/41174
+Taylor Motter,3B,R,R,33,"6' 1""",195 lbs,"West Palm Beach, FL",55,stl,st-louis-cardinals,2023-04-06T20:20:23Z,32715,https://www.espn.com/mlb/player/_/id/32715
+Alec Burleson,RF,L,L,24,"6' 2""",212 lbs,"Charlotte, NC",41,stl,st-louis-cardinals,2023-04-06T20:20:23Z,4345070,https://www.espn.com/mlb/player/_/id/4345070
+Dylan Carlson,CF,B,L,24,"6' 2""",205 lbs,"Elk Grove, CA",3,stl,st-louis-cardinals,2023-04-06T20:20:23Z,39226,https://www.espn.com/mlb/player/_/id/39226
+Tyler O'Neill,CF,R,R,27,"5' 11""",200 lbs,"Burnaby, BC",27,stl,st-louis-cardinals,2023-04-06T20:20:23Z,34168,https://www.espn.com/mlb/player/_/id/34168
+Jordan Walker,LF,R,R,20,"6' 6""",245 lbs,"Stone Mountain, GA",18,stl,st-louis-cardinals,2023-04-06T20:20:23Z,4684778,https://www.espn.com/mlb/player/_/id/4684778
+Juan Yepez,LF,R,R,25,"6' 1""",200 lbs,"Caracas, Venezuela",13,stl,st-louis-cardinals,2023-04-06T20:20:23Z,4895558,https://www.espn.com/mlb/player/_/id/4895558
+Jason Adam,RP,R,R,31,"6' 3""",229 lbs,"Omaha, NE",47,tb,tampa-bay-rays,2023-04-06T20:20:23Z,32145,https://www.espn.com/mlb/player/_/id/32145
+Jalen Beeks,RP,L,L,29,"5' 11""",215 lbs,"Fayetteville, AR",68,tb,tampa-bay-rays,2023-04-06T20:20:23Z,36723,https://www.espn.com/mlb/player/_/id/36723
+Garrett Cleavinger,RP,R,L,28,"6' 1""",220 lbs,"Lawrence, KS",60,tb,tampa-bay-rays,2023-04-06T20:20:23Z,36429,https://www.espn.com/mlb/player/_/id/36429
+Zach Eflin,SP,R,R,28,"6' 6""",220 lbs,"Orlando, FL",24,tb,tampa-bay-rays,2023-04-06T20:20:23Z,32804,https://www.espn.com/mlb/player/_/id/32804
+Pete Fairbanks,RP,R,R,29,"6' 6""",225 lbs,"Milwaukee, WI",29,tb,tampa-bay-rays,2023-04-06T20:20:23Z,42180,https://www.espn.com/mlb/player/_/id/42180
+Calvin Faucher,RP,R,R,27,"6' 1""",190 lbs,"Chula Vista, CA",58,tb,tampa-bay-rays,2023-04-06T20:20:23Z,3978173,https://www.espn.com/mlb/player/_/id/3978173
+Josh Fleming,RP,L,L,26,"6' 2""",220 lbs,"Bridgeton, MO",19,tb,tampa-bay-rays,2023-04-06T20:20:23Z,42615,https://www.espn.com/mlb/player/_/id/42615
+Kevin Kelly,RP,R,R,25,"6' 2""",200 lbs,"Springfield, VA",49,tb,tampa-bay-rays,2023-04-06T20:20:23Z,5001153,https://www.espn.com/mlb/player/_/id/5001153
+Shane McClanahan,SP,L,L,25,"6' 1""",200 lbs,"Baltimore, MD",18,tb,tampa-bay-rays,2023-04-06T20:20:23Z,41199,https://www.espn.com/mlb/player/_/id/41199
+Colin Poche,RP,L,L,29,"6' 3""",225 lbs,"Flower Mound, TX",38,tb,tampa-bay-rays,2023-04-06T20:20:23Z,40364,https://www.espn.com/mlb/player/_/id/40364
+Drew Rasmussen,SP,R,R,27,"6' 1""",211 lbs,"Puyallup, WA",57,tb,tampa-bay-rays,2023-04-06T20:20:23Z,42584,https://www.espn.com/mlb/player/_/id/42584
+Jeffrey Springs,SP,L,L,30,"6' 3""",218 lbs,"Belmont, NC",59,tb,tampa-bay-rays,2023-04-06T20:20:23Z,35397,https://www.espn.com/mlb/player/_/id/35397
+Ryan Thompson,RP,R,R,30,"6' 5""",210 lbs,"Turner, OR",81,tb,tampa-bay-rays,2023-04-06T20:20:23Z,38628,https://www.espn.com/mlb/player/_/id/38628
+Christian Bethancourt,C,R,R,31,"6' 3""",205 lbs,"Panama City, Panama",14,tb,tampa-bay-rays,2023-04-06T20:20:23Z,31758,https://www.espn.com/mlb/player/_/id/31758
+Francisco Mejia,C,B,R,27,"5' 8""",188 lbs,"Bani, Dominican Republic",21,tb,tampa-bay-rays,2023-04-06T20:20:23Z,33248,https://www.espn.com/mlb/player/_/id/33248
+Yandy Diaz,1B,R,R,31,"6' 2""",215 lbs,"Villa Clara, Cuba",2,tb,tampa-bay-rays,2023-04-06T20:20:23Z,33481,https://www.espn.com/mlb/player/_/id/33481
+Wander Franco,SS,B,R,22,"5' 10""",189 lbs,"Bani, Dominican Republic",5,tb,tampa-bay-rays,2023-04-06T20:20:23Z,40929,https://www.espn.com/mlb/player/_/id/40929
+Brandon Lowe,2B,L,R,28,"5' 10""",185 lbs,"Suffolk, VA",8,tb,tampa-bay-rays,2023-04-06T20:20:23Z,39961,https://www.espn.com/mlb/player/_/id/39961
+Isaac Paredes,3B,R,R,24,"5' 11""",213 lbs,"Sonora, Mexico",17,tb,tampa-bay-rays,2023-04-06T20:20:23Z,39706,https://www.espn.com/mlb/player/_/id/39706
+Luke Raley,1B,L,R,28,"6' 4""",235 lbs,"Hinckley, OH",55,tb,tampa-bay-rays,2023-04-06T20:20:23Z,40422,https://www.espn.com/mlb/player/_/id/40422
+Taylor Walls,3B,B,R,26,"5' 10""",185 lbs,"Americus, GA",6,tb,tampa-bay-rays,2023-04-06T20:20:23Z,40576,https://www.espn.com/mlb/player/_/id/40576
+Randy Arozarena,LF,R,R,28,"5' 11""",185 lbs,"Havana, Cuba",56,tb,tampa-bay-rays,2023-04-06T20:20:23Z,36488,https://www.espn.com/mlb/player/_/id/36488
+Josh Lowe,RF,L,R,25,"6' 4""",205 lbs,"Chesapeake, VA",15,tb,tampa-bay-rays,2023-04-06T20:20:23Z,40557,https://www.espn.com/mlb/player/_/id/40557
+Manuel Margot,RF,R,R,28,"5' 11""",180 lbs,"San Cristobal, Dominican Republic",13,tb,tampa-bay-rays,2023-04-06T20:20:23Z,33599,https://www.espn.com/mlb/player/_/id/33599
+Harold Ramirez,LF,R,R,28,"5' 10""",232 lbs,"Cartagena, Colombia",43,tb,tampa-bay-rays,2023-04-06T20:20:23Z,33259,https://www.espn.com/mlb/player/_/id/33259
+Jose Siri,CF,R,R,27,"6' 2""",175 lbs,"Sabana Grande de Boya, Dominican Republic",22,tb,tampa-bay-rays,2023-04-06T20:20:23Z,33954,https://www.espn.com/mlb/player/_/id/33954
+Brock Burke,RP,L,L,26,"6' 4""",210 lbs,"Chicago, IL",46,tex,texas-rangers,2023-04-06T20:20:23Z,39945,https://www.espn.com/mlb/player/_/id/39945
+Jacob deGrom,SP,L,R,34,"6' 4""",180 lbs,"DeLand, FL",48,tex,texas-rangers,2023-04-06T20:20:23Z,32796,https://www.espn.com/mlb/player/_/id/32796
+Dane Dunning,SP,R,R,28,"6' 4""",225 lbs,"Orange Park, FL",33,tex,texas-rangers,2023-04-06T20:20:23Z,36080,https://www.espn.com/mlb/player/_/id/36080
+Nathan Eovaldi,SP,R,R,33,"6' 2""",217 lbs,"Houston, TX",17,tex,texas-rangers,2023-04-06T20:20:23Z,31174,https://www.espn.com/mlb/player/_/id/31174
+Jon Gray,SP,R,R,31,"6' 4""",225 lbs,"Shawnee, OK",22,tex,texas-rangers,2023-04-06T20:20:23Z,33203,https://www.espn.com/mlb/player/_/id/33203
+Andrew Heaney,SP,L,L,31,"6' 2""",200 lbs,"Oklahoma City, OK",44,tex,texas-rangers,2023-04-06T20:20:23Z,32672,https://www.espn.com/mlb/player/_/id/32672
+Taylor Hearn,RP,L,L,28,"6' 6""",230 lbs,"Royse City, TX",52,tex,texas-rangers,2023-04-06T20:20:23Z,40980,https://www.espn.com/mlb/player/_/id/40980
+Jonathan Hernandez,RP,R,R,26,"6' 3""",190 lbs,"Memphis, TN",72,tex,texas-rangers,2023-04-06T20:20:23Z,39814,https://www.espn.com/mlb/player/_/id/39814
+Ian Kennedy,RP,R,R,38,"6' 0""",210 lbs,"Huntington Beach, CA",21,tex,texas-rangers,2023-04-06T20:20:23Z,28864,https://www.espn.com/mlb/player/_/id/28864
+Jose Leclerc,RP,R,R,29,"6' 0""",195 lbs,"Esperanza, Dominican Republic",25,tex,texas-rangers,2023-04-06T20:20:23Z,33926,https://www.espn.com/mlb/player/_/id/33926
+Martin Perez,SP,L,L,32,"6' 0""",200 lbs,"Guanare, Venezuela",54,tex,texas-rangers,2023-04-06T20:20:23Z,31098,https://www.espn.com/mlb/player/_/id/31098
+Cole Ragans,SP,L,L,25,"6' 4""",190 lbs,"Crawfordville, FL",50,tex,texas-rangers,2023-04-06T20:20:23Z,41054,https://www.espn.com/mlb/player/_/id/41054
+Will Smith,RP,R,L,33,"6' 5""",255 lbs,"Newnan, GA",51,tex,texas-rangers,2023-04-06T20:20:23Z,31549,https://www.espn.com/mlb/player/_/id/31549
+Mitch Garver,C,R,R,32,"6' 1""",220 lbs,"Albuquerque, NM",18,tex,texas-rangers,2023-04-06T20:20:23Z,33667,https://www.espn.com/mlb/player/_/id/33667
+Jonah Heim,C,B,R,27,"6' 4""",220 lbs,"Buffalo, NY",28,tex,texas-rangers,2023-04-06T20:20:23Z,33842,https://www.espn.com/mlb/player/_/id/33842
+Ezequiel Duran,3B,R,R,23,"5' 11""",185 lbs,"San Juan de la Maguana, Dominican Republic",20,tex,texas-rangers,2023-04-06T20:20:23Z,42457,https://www.espn.com/mlb/player/_/id/42457
+Josh Jung,3B,R,R,25,"6' 2""",214 lbs,"San Antonio, TX",6,tex,texas-rangers,2023-04-06T20:20:23Z,42437,https://www.espn.com/mlb/player/_/id/42437
+Nathaniel Lowe,1B,L,R,27,"6' 4""",220 lbs,"Norfolk, VA",30,tex,texas-rangers,2023-04-06T20:20:23Z,40538,https://www.espn.com/mlb/player/_/id/40538
+Brad Miller,1B,L,R,33,"6' 2""",195 lbs,"Orlando, FL",13,tex,texas-rangers,2023-04-06T20:20:23Z,32206,https://www.espn.com/mlb/player/_/id/32206
+Corey Seager,SS,L,R,28,"6' 4""",215 lbs,"Charlotte, NC",5,tex,texas-rangers,2023-04-06T20:20:23Z,32691,https://www.espn.com/mlb/player/_/id/32691
+Marcus Semien,2B,R,R,32,"6' 0""",195 lbs,"San Francisco, CA",2,tex,texas-rangers,2023-04-06T20:20:23Z,32146,https://www.espn.com/mlb/player/_/id/32146
+Josh Smith,SS,L,R,25,"5' 10""",172 lbs,"Baton Rouge, LA",47,tex,texas-rangers,2023-04-06T20:20:23Z,42884,https://www.espn.com/mlb/player/_/id/42884
+Adolis Garcia,RF,R,R,30,"6' 1""",180 lbs,"Ciego de Avila, Cuba",53,tex,texas-rangers,2023-04-06T20:20:23Z,35537,https://www.espn.com/mlb/player/_/id/35537
+Robbie Grossman,LF,B,L,33,"6' 0""",209 lbs,"San Diego, CA",4,tex,texas-rangers,2023-04-06T20:20:23Z,31385,https://www.espn.com/mlb/player/_/id/31385
+Travis Jankowski,LF,L,R,31,"6' 2""",190 lbs,"Lancaster, PA",16,tex,texas-rangers,2023-04-06T20:20:23Z,32751,https://www.espn.com/mlb/player/_/id/32751
+Bubba Thompson,CF,R,R,24,"6' 2""",197 lbs,"Mobile, AL",8,tex,texas-rangers,2023-04-06T20:20:23Z,39644,https://www.espn.com/mlb/player/_/id/39644
+Anthony Bass,RP,R,R,35,"6' 2""",205 lbs,"Dearborn, MI",52,tor,toronto-blue-jays,2023-04-06T20:20:23Z,31144,https://www.espn.com/mlb/player/_/id/31144
+Chris Bassitt,SP,R,R,34,"6' 5""",217 lbs,"Toledo, OH",40,tor,toronto-blue-jays,2023-04-06T20:20:23Z,33148,https://www.espn.com/mlb/player/_/id/33148
+Jose Berrios,SP,R,R,28,"6' 0""",205 lbs,"Bayamon, Puerto Rico",17,tor,toronto-blue-jays,2023-04-06T20:20:23Z,32811,https://www.espn.com/mlb/player/_/id/32811
+Adam Cimber,RP,R,R,32,"6' 3""",195 lbs,"Portland, OR",90,tor,toronto-blue-jays,2023-04-06T20:20:23Z,35780,https://www.espn.com/mlb/player/_/id/35780
+Yimi Garcia,RP,R,R,32,"6' 1""",230 lbs,"Moca, Dominican Republic",93,tor,toronto-blue-jays,2023-04-06T20:20:23Z,32888,https://www.espn.com/mlb/player/_/id/32888
+Kevin Gausman,SP,L,R,32,"6' 2""",205 lbs,"Centennial, CO",34,tor,toronto-blue-jays,2023-04-06T20:20:23Z,32667,https://www.espn.com/mlb/player/_/id/32667
+Yusei Kikuchi,SP,L,L,31,"6' 0""",210 lbs,"Iwate, Japan",16,tor,toronto-blue-jays,2023-04-06T20:20:23Z,41415,https://www.espn.com/mlb/player/_/id/41415
+Alek Manoah,SP,R,R,25,"6' 6""",285 lbs,"Homestead, FL",6,tor,toronto-blue-jays,2023-04-06T20:20:23Z,42436,https://www.espn.com/mlb/player/_/id/42436
+Tim Mayza,RP,L,L,31,"6' 3""",215 lbs,"Allentown, PA",58,tor,toronto-blue-jays,2023-04-06T20:20:23Z,35773,https://www.espn.com/mlb/player/_/id/35773
+Zach Pop,RP,R,R,26,"6' 4""",220 lbs,"Brampton, ON",56,tor,toronto-blue-jays,2023-04-06T20:20:23Z,41103,https://www.espn.com/mlb/player/_/id/41103
+Trevor Richards,RP,R,R,29,"6' 2""",205 lbs,"Aviston, IL",33,tor,toronto-blue-jays,2023-04-06T20:20:23Z,39912,https://www.espn.com/mlb/player/_/id/39912
+Jordan Romano,RP,R,R,29,"6' 5""",210 lbs,"Markham, ON",68,tor,toronto-blue-jays,2023-04-06T20:20:23Z,36380,https://www.espn.com/mlb/player/_/id/36380
+Erik Swanson,RP,R,R,29,"6' 3""",225 lbs,"Fargo, ND",50,tor,toronto-blue-jays,2023-04-06T20:20:23Z,36013,https://www.espn.com/mlb/player/_/id/36013
+Danny Jansen,C,R,R,27,"6' 2""",215 lbs,"Elmhurst, IL",9,tor,toronto-blue-jays,2023-04-06T20:20:23Z,35004,https://www.espn.com/mlb/player/_/id/35004
+Alejandro Kirk,C,R,R,24,"5' 8""",245 lbs,"Tijuana, Mexico",30,tor,toronto-blue-jays,2023-04-06T20:20:23Z,42081,https://www.espn.com/mlb/player/_/id/42081
+Brandon Belt,1B,L,L,34,"6' 3""",230 lbs,"Nacogdoches, TX",13,tor,toronto-blue-jays,2023-04-06T20:20:23Z,30901,https://www.espn.com/mlb/player/_/id/30901
+Bo Bichette,SS,R,R,25,"6' 0""",190 lbs,"Orlando, FL",11,tor,toronto-blue-jays,2023-04-06T20:20:23Z,38904,https://www.espn.com/mlb/player/_/id/38904
+Cavan Biggio,2B,L,R,27,"6' 2""",200 lbs,"Houston, TX",8,tor,toronto-blue-jays,2023-04-06T20:20:23Z,37639,https://www.espn.com/mlb/player/_/id/37639
+Matt Chapman,3B,R,R,29,"6' 0""",215 lbs,"Victorville, CA",26,tor,toronto-blue-jays,2023-04-06T20:20:23Z,33857,https://www.espn.com/mlb/player/_/id/33857
+Santiago Espinal,2B,R,R,28,"5' 10""",185 lbs,"Santiago, Dominican Republic",5,tor,toronto-blue-jays,2023-04-06T20:20:23Z,39924,https://www.espn.com/mlb/player/_/id/39924
+Vladimir Guerrero Jr.,1B,R,R,24,"6' 2""",245 lbs,"Montreal, PQ",27,tor,toronto-blue-jays,2023-04-06T20:20:23Z,35002,https://www.espn.com/mlb/player/_/id/35002
+Whit Merrifield,2B,R,R,34,"6' 1""",195 lbs,"Florence, SC",15,tor,toronto-blue-jays,2023-04-06T20:20:23Z,32422,https://www.espn.com/mlb/player/_/id/32422
+Kevin Kiermaier,CF,L,R,32,"6' 1""",210 lbs,"Fort Wayne, IN",39,tor,toronto-blue-jays,2023-04-06T20:20:23Z,31446,https://www.espn.com/mlb/player/_/id/31446
+Nathan Lukes,CF,L,R,28,"5' 11""",180 lbs,"Portland, OR",38,tor,toronto-blue-jays,2023-04-06T20:20:23Z,35682,https://www.espn.com/mlb/player/_/id/35682
+George Springer,RF,R,R,33,"6' 3""",220 lbs,"New Britain, CT",4,tor,toronto-blue-jays,2023-04-06T20:20:23Z,32078,https://www.espn.com/mlb/player/_/id/32078
+Daulton Varsho,LF,L,R,26,"5' 10""",207 lbs,"Marshfield, WI",25,tor,toronto-blue-jays,2023-04-06T20:20:23Z,40963,https://www.espn.com/mlb/player/_/id/40963
+Anthony Banda,RP,L,L,29,"6' 2""",221 lbs,"Corpus Christi, TX",50,wsh,washington-nationals,2023-04-06T20:20:23Z,34542,https://www.espn.com/mlb/player/_/id/34542
+Patrick Corbin,SP,L,L,33,"6' 4""",226 lbs,"Clay, NY",46,wsh,washington-nationals,2023-04-06T20:20:23Z,31313,https://www.espn.com/mlb/player/_/id/31313
+Carl Edwards Jr.,RP,R,R,31,"6' 3""",165 lbs,"Newberry, SC",58,wsh,washington-nationals,2023-04-06T20:20:23Z,33202,https://www.espn.com/mlb/player/_/id/33202
+Kyle Finnegan,RP,R,R,31,"6' 2""",200 lbs,"Detroit, MI",67,wsh,washington-nationals,2023-04-06T20:20:23Z,36543,https://www.espn.com/mlb/player/_/id/36543
+MacKenzie Gore,SP,L,L,24,"6' 2""",192 lbs,"Wilmington, NC",1,wsh,washington-nationals,2023-04-06T20:20:23Z,39636,https://www.espn.com/mlb/player/_/id/39636
+Josiah Gray,SP,R,R,25,"6' 1""",210 lbs,"New Rochelle, NY",40,wsh,washington-nationals,2023-04-06T20:20:23Z,41165,https://www.espn.com/mlb/player/_/id/41165
+Hobie Harris,RP,R,R,29,"6' 3""",212 lbs,"McKinney, TX",75,wsh,washington-nationals,2023-04-06T20:20:23Z,42804,https://www.espn.com/mlb/player/_/id/42804
+Hunter Harvey,RP,R,R,28,"6' 3""",239 lbs,"Catawba, NC",73,wsh,washington-nationals,2023-04-06T20:20:23Z,33191,https://www.espn.com/mlb/player/_/id/33191
+Chad Kuhl,SP,R,R,30,"6' 3""",207 lbs,"Newark, DE",26,wsh,washington-nationals,2023-04-06T20:20:23Z,35021,https://www.espn.com/mlb/player/_/id/35021
+Erasmo Ramirez,RP,R,R,32,"6' 0""",220 lbs,"Rivas, Nicaragua",61,wsh,washington-nationals,2023-04-06T20:20:23Z,31983,https://www.espn.com/mlb/player/_/id/31983
+Mason Thompson,RP,R,R,25,"6' 6""",244 lbs,"Round Rock, TX",71,wsh,washington-nationals,2023-04-06T20:20:23Z,4705678,https://www.espn.com/mlb/player/_/id/4705678
+Thaddeus Ward,SP,R,R,26,"6' 3""",204 lbs,"Fort Myers, FL",68,wsh,washington-nationals,2023-04-06T20:20:23Z,42439,https://www.espn.com/mlb/player/_/id/42439
+Trevor Williams,RP,R,R,30,"6' 3""",231 lbs,"San Diego, CA",32,wsh,washington-nationals,2023-04-06T20:20:23Z,33305,https://www.espn.com/mlb/player/_/id/33305
+Riley Adams,C,R,R,26,"6' 4""",260 lbs,"Encinitas, CA",15,wsh,washington-nationals,2023-04-06T20:20:23Z,40655,https://www.espn.com/mlb/player/_/id/40655
+Keibert Ruiz,C,B,R,24,"6' 0""",227 lbs,"Valencia, Venezuela",20,wsh,washington-nationals,2023-04-06T20:20:23Z,38827,https://www.espn.com/mlb/player/_/id/38827
+CJ Abrams,SS,L,R,22,"6' 2""",191 lbs,"Alpharetta, GA",5,wsh,washington-nationals,2023-04-06T20:20:23Z,42402,https://www.espn.com/mlb/player/_/id/42402
+Jeimer Candelario,3B,B,R,29,"6' 2""",222 lbs,"New York, NY",9,wsh,washington-nationals,2023-04-06T20:20:23Z,32531,https://www.espn.com/mlb/player/_/id/32531
+Michael Chavis,1B,R,R,27,"5' 10""",190 lbs,"Atlanta, GA",6,wsh,washington-nationals,2023-04-06T20:20:23Z,33823,https://www.espn.com/mlb/player/_/id/33823
+Luis Garcia,2B,L,R,22,"6' 2""",220 lbs,"New York, NY",2,wsh,washington-nationals,2023-04-06T20:20:23Z,40459,https://www.espn.com/mlb/player/_/id/40459
+Joey Meneses,1B,R,R,30,"6' 3""",240 lbs,"Culiacan, Mexico",45,wsh,washington-nationals,2023-04-06T20:20:23Z,34534,https://www.espn.com/mlb/player/_/id/34534
+Dominic Smith,1B,L,L,27,"6' 0""",224 lbs,"Los Angeles, CA",22,wsh,washington-nationals,2023-04-06T20:20:23Z,33218,https://www.espn.com/mlb/player/_/id/33218
+Ildemaro Vargas,3B,B,R,31,"6' 0""",195 lbs,"Caripito, Venezuela",14,wsh,washington-nationals,2023-04-06T20:20:23Z,32985,https://www.espn.com/mlb/player/_/id/32985
+Alex Call,LF,R,R,28,"5' 11""",189 lbs,"Burnsville, MN",17,wsh,washington-nationals,2023-04-06T20:20:23Z,38994,https://www.espn.com/mlb/player/_/id/38994
+Stone Garrett,LF,R,R,27,"6' 2""",224 lbs,"Sugar Land, TX",36,wsh,washington-nationals,2023-04-06T20:20:23Z,35063,https://www.espn.com/mlb/player/_/id/35063
+Victor Robles,CF,R,R,25,"6' 0""",194 lbs,"Santo Domingo, Dominican Republic",16,wsh,washington-nationals,2023-04-06T20:20:23Z,35042,https://www.espn.com/mlb/player/_/id/35042
+Lane Thomas,RF,R,R,27,"6' 0""",198 lbs,"Knoxville, TN",28,wsh,washington-nationals,2023-04-06T20:20:23Z,36409,https://www.espn.com/mlb/player/_/id/36409
